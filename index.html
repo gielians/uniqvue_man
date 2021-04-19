@@ -143,20 +143,38 @@
               
                 <h1 id="uniqvue-user-manual">UNIQVUE User Manual</h1>
 <h2 id="einleitung">Einleitung</h2>
-<p><img alt="Placeholder" src="img/dummy.png" /></p>
-<p>Das Manual ist in 3 Bereiche geteilt.
-In Teil 1 werden alle Elemente und Fenster der Manager Applikation erklärt. Die System Übersicht erläutert das zusammenwirken der einzelne Komponenten.</p>
-<p>Teil 2 beschäftigt sich mit den Workflows der  Manager Applikation. Die Workflows ermöglichen dem Anwender die umfassende Bedienung der Applikation um eine komplette Show zu erstellen.</p>
-<p>Teil 3 setzt sich mit dem Showroom auseinander und wie dieser Zielführend benutzt wird. </p>
-<p>Es ist auch wichtig, dass sie das gelesen anwenden und ausprobieren. Nur so festigt sich ihr wissen und sie werden spielend ein Experte im Umgang mit der Anwendung.</p>
+<p><img alt="Placeholder" src="img/dummy.png" /> </p>
+<p>Das Manual ist in 3 Bereiche eingeteilt. </p>
+<ul>
+
+<li>Im ersten Teil werden alle Elemente und Fenster des *Session Managers* erklärt. Die System Übersicht erläutert das Zusammenwirken der einzelnen Komponenten.</p></li>
+</p>
+<li> In Teil zwei beschäftigt sich mit den Workflows des *Session Managers*. Die Workflows ermöglichen dem Anwender die umfassende Bedienung der Applikation, um eine komplette Show zu erstellen. </p></li>
+</p>
+<li>Der dritte Teil setzt sich mit dem *Showroom* auseinander und wie dieser zielführend benutzt wird.</p></li>
+</ul>
+
+<p>Wichtig ist, dass sie das gelesen anwenden und ausprobieren! Nur so festigt sich ihr Wissen und sie werden spielend ein Experte im Umgang mit der Anwendung. </p>
+<hr />
 <h2 id="system-ubersicht">System Übersicht</h2>
-<p><img alt="Placeholder" src="img/dummy.png" /></p>
-<p>Um Grundsätzlich das gesamte System zu verstehen gehen wir anhand des Diagrams die einzelnen Komponenten durch und erläutern diese.</p>
-<p>Es gibt eine grobe Unterteilung in 3 Bereiche. Wir haben ein Backend, ein Frontend und den Showroom, der eigentlich auch noch mal ein Frontend ist, aber eine spektakulärere Rolle einnimmt.</p>
-<p>Das Backend besteht wiederum aus 3 Bereichen, dem Server (die eigentliche Verwaltung und die Bereitstellung des Datenstroms Richtung Showroom), einem Filesystem (dort landen ihre Filme, Bilder, PDFs, HTML Seiten und auch diese werden vom Showroom abgegriffen) Und einer SQL Datenbank (diese kümmert sich um die widerspruchsfreie, dauerhafte Speicherung).</p>
-<p>Die Managing App ist der einfache Zugang um die Show zu gestalten und mit Inhalten zu füllen, das ist das Frontend oder auch GUI (Graphical User Interface). Hier gestalten sie die Show, erstellen die Tools und kontrollieren die Raumsteuerung. Die Managing App kommuniziert mit dem Server der wiederum dafür sorgt das alles ordnungsgemäß gespeichert wird.</p>
-<p>Der Showroom ist der Bereich wo alles zum leben erweckt wird, hier werden die Daten in einer 3D Engine visualisiert und sie präsentieren sie vor Ihren Kunden, Kollegen und Angestellten. Der Showroom gibt ihnen noch mal die Möglichkeit Einfluß auf alle Bereiche der Präsentation zu nehmen und individuell auf aufkommende Ereignisse zu reagieren.</p>
-<p>Dieses Manual geht auf jedes Detail der Managing App ein damit sie eine Show nach ihren Vorstellungen erschaffen können und dann wie sie diese Show bedienen und  präsentieren, und was im Showroom für besondere Funktionen für sie zur Verfügung stehen.</p>
+<p><img alt="Placeholder" src="img/dummy.png" /> </p>
+<p>Um grundsätzlich das gesamte System zu verstehen wird anhand des Diagramms durch die einzelnen Komponenten geführt und diese erläutert. </p>
+<p>Das ganze System kann in 2 Bereiche unterteilt gesehen werden, welche verschiedene Aufgaben übernehmen. Das sogenannte <em>Backend</em> organisiert und strukturiert im Hintergrund Dateien und stellt diese bereit, während das sog. <em>Frontend</em> die Schnittstelle zum Anwender bildet. Zum <em>Frontend</em> zählt also gewissermaßen der <em>Showroom</em> mit seiner grafischen Oberfläche als auch die <em>Session Manager Anwendung</em>. </p>
+<p>Unter genauerer Betrachtung ist das Backend wiederum in 3 Bereiche unterteilt: </p>
+<ul>
+<li>Server</p></li> 
+</p>
+<li>Dateiensystem</p></li> 
+</p>
+<li>SQL-Datenbank</p></li>
+</ul>
+
+<p>Der Server übernimmt den Transport der Daten zwischen <em>Frontend</em> und <em>Backend</em>. </p>
+<p>Das Dateiensystem ist die nächsttiefere Ebene. Hier werden alle Dateien, die in <em>Sessions</em> eingebunden werden sollen, strukturiert. </p>
+<p>Die SQL-Datenbank ist die niedrigste Ebene in diesem System und ist für die widerspruchsfreie, dauerhafte Speicherung aller Dateien zuständig. </p>
+<p>Das <em>Frontend</em> ist im weitesten Sinne die Konfiguration und Darstellung. Über den Server sind die Daten aus dem Backend abrufbar. Mit der <em>Session Manager</em> Anwendung als Authoring-Tool können Präsentationen als aufwendige Shows angelegt werden. Geben sie ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter ihre Kontrolle bringen oder während einer Show mit ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. </p>
+<p>Im <em>Showroom</em> kommen letztlich alle Daten zusammen und werden zum Leben erweckt. Mit Hilfe einer starken 3D-Engine wird ihre zuvor erstellte Show visuell hochwertig und ansprechend dargestellt. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. </p>
+<p>Dieses Manual soll den Umgang mit diesem System auf Anwenderebene zeigen. Im Detail wird erläutert, wie sie Shows im <em>Session Manager</em> nach ihren Vorstellungen erschaffen und im <em>Showroom</em> kontrollieren können. </p>
               
             </div>
           </div>
@@ -210,5 +228,5 @@ In Teil 1 werden alle Elemente und Fenster der Manager Applikation erklärt. Die
 
 <!--
 MkDocs version : 1.1.2
-Build Date UTC : 2021-04-10 15:56:55.826251+00:00
+Build Date UTC : 2021-04-19 17:59:40.177512+00:00
 -->
