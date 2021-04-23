@@ -1,0 +1,36 @@
+site_name: UNIQVUE MANUAL
+pages:
+  - Übersicht: index.md
+  - Session Manager: sessionmanager.md
+  - Login: login.md
+  - Dashboard: dashboard.md
+  - Bedienelemente: bedienelemente.md
+  - Sessions: sessions.md
+  - Toolboxes: toolbox.md
+  - Team Gallery: teamgallery.md
+  - Styles: styles.md
+  - Module: module.md
+  - Asset Browser: assetbrowser.md
+  - Session Workflow: sessionworkflow.md
+  - Toolbox Workflow: toolboxworkflow.md
+  - Style Workflow: styleworkflow.md
+  - Showroom: showroom.md
+  - Dashboard: dashboard_showroom.md
+  - Agenda: agenda.md
+  - Disc: disc_showroom.md
+
+markdown_extensions:
+  - attr_list
+theme: 
+  name: material
+  features:
+    - navigation.expand
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+  palette:
+    - primary: orange
+    - accent: orange
+extra:
+  version:
+    provider: mike

@@ -1,0 +1,21 @@
+image: python:latest
+
+
+cache:
+  paths:
+    - .cache/pip
+
+before_script: 
+  - python -V
+  - pip install -r requirements.txt
+
+pages:
+  script:
+    - mkdocs build
+    - mv site public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+
