@@ -8,6 +8,7 @@ pages:
   - Sessions: sessions.md
   - Toolboxes: toolbox.md
   - Team Gallery: teamgallery.md
+  - Team Editor: teameditor.md
   - Styles: styles.md
   - Module: module.md
   - Asset Browser: assetbrowser.md
@@ -15,7 +16,7 @@ pages:
   - Toolbox Workflow: toolboxworkflow.md
   - Style Workflow: styleworkflow.md
   - Showroom: showroom.md
-  - Dashboard: dashboard_showroom.md
+  - Home Screen: dashboard_showroom.md
   - Agenda: agenda.md
   - Disc: disc_showroom.md
 plugins:

@@ -6,7 +6,7 @@
 
 
 
-Das Dashboard ist in folgende Kategorien eingeteilt: 
+Das Dashboard ist mehrere Kategorien eingeteilt, oben zu sehen mit farbiger Umrandung: 
 
 
 
@@ -22,7 +22,7 @@ Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine *Sh
 
 
 
-Eine *Toolbox* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. In Kapitel [Toolboxes](toolbox.md) gibt es einen Überblick und in Kapitel [Toolbox Workflow](toolboxworkflow.md) wird erklärt wie [Toolboxes](toolbox.md) erstellt und konfiguriert werden können. 
+Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. In Kapitel [Toolboxes](toolbox.md) gibt es einen Überblick und in Kapitel [Toolbox Workflow](toolboxworkflow.md) wird erklärt wie [Toolboxes](toolbox.md) erstellt und konfiguriert werden können. 
 
 
 ***
@@ -30,7 +30,7 @@ Eine *Toolbox* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Res
 
 
 
-Darstellung des Teams mit nützlichen Informationen zum Team. Erstellen und Konfigurieren von verschiedenen Teams in der [Team Gallery](teamgallery.md). 
+Darstellung des Teams mit nützlichen Informationen zum Team und den Team Membern. Erstellen und Konfigurieren von verschiedenen Teams in der [Team Gallery](teamgallery.md). 
 
 
 ***
@@ -38,4 +38,4 @@ Darstellung des Teams mit nützlichen Informationen zum Team. Erstellen und Konf
 
 
 
-Erstellen und Konfigurieren des “Look and Feels” einer Session. In Kapitel [Session](sessions.md) gibt es einen Überblick und in Kapitel [Session Workflow](sessionworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 
+Erstellen und Konfigurieren des “Look and Feels” einer Session. In Kapitel [Styles](styles.md) gibt es einen Überblick und in Kapitel [Style Workflow](styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 

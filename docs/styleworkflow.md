@@ -21,7 +21,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 ***
  
 
-**Erstellen einer neuen Toolbox:**  
+**Erstellen einea neuen Styles:**  
 
 Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen sie zum Style Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen des zu bearbeitenden Styles. Beliebig viele Tabs also Styles können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Style Namen, um einen Indikator dafür zu liefern, ob einn Style noch ungespeicherte Änderungen enthält. Zu sehen sind jetzt mehrere Spalten mit verschiedenen Eigenschaften.
  ***
@@ -40,11 +40,11 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafisch
 
 **Einen Style anpassen:** 
 
-Nehmen sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen nach Belieben vor. Dabei sind die Namen der einzelnen Eigenschaften quasi selbsterklärend.
+Nehmen sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen nach Belieben vor. Dabei sind die Namen der einzelnen Eigenschaften quasi selbsterklärend. Bei den Fontgrößen beudeutet 1 = maximale Skalierung. Die maximale größe ist festgelegt und kann nicht geändert werden.
 
 **Icons verknüpfen:** 
 
-Icons lassen sich einfach ändern. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich *Asset Browser* In Kapitel *Asset Browser* gibt es eine detaillierte Erklärung wie dieser funktioniert. 
+Icons lassen sich einfach ändern. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich *Asset Browser* In Kapitel [Asset Browser](assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
 
 
 **Styles Speichern und benennen:** 
@@ -53,4 +53,4 @@ Ist der Style nach ihren Wünschen angepasst muss dieser gespeichert werden. Das
 
 **Style freigeben:** 
 
-Der Listeneintrag eines jeden Styles enthält die Spalte ‘Released’. Durch setzen des Hakens wird der Style nun der Liste der verfügbaren Styles angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel *Session Workflow* wird das genauer erklärt.  
+Der Listeneintrag eines jeden Styles enthält die Spalte ‘Released’. Durch setzen des Hakens wird der Style der Liste der verfügbaren Styles angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel [Session Workflow](sessionworkflow.md) wird das genauer erklärt.  

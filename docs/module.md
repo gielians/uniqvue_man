@@ -10,7 +10,8 @@
 
 
 
-Hier ist eine Übersicht der Module aus der Session und was sie können. 
+Hier ist eine Übersicht der Module aus der Session und wie sie funktionieren. 
+
 ***
 
 
@@ -22,7 +23,7 @@ Alle Singleview Module haben konsistente, allgemeine Eigenschaften, die hier auf
 
 
 
-**Background Image:** Über den Asset Browser wird hier ein Hintergrundbild für dieses Modul geladen. 
+**Background Image:** Über den *Asset Browser* wird hier ein Hintergrundbild für dieses Modul geladen. Das Bild belegt dann das Display bzw. den gesamten Bereich in dem das Modul platziert wurde. 
 
 
 
@@ -34,15 +35,17 @@ Alle Singleview Module haben konsistente, allgemeine Eigenschaften, die hier auf
 
 
 
-**Showtitle:** Durch Setzen des Hakens wird dieser Titel auch in der Show angezeigt.  
+**Showtitle:** Durch Setzen des Hakens wird dieser Titel auch im Showroom angezeigt.  
 
 
 
-Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften sind zudem aufgelistet. 
+Alle folgenden Module sind Singleview Module. Ihre individuellen Eigenschaften sind zudem aufgelistet. 
 ***
 ## Browser Modul
 
 ![Placeholder](img/Browser_Module.PNG) 
+
+Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation ein.
 
 •    Show Header - Der gesetzte Haken zeigt die URL-Leiste, Bookmarks etc. an. 
 
@@ -58,7 +61,9 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 
 ![Placeholder](img/HTML_Module.PNG) 
 
-•    HTML Datei - Über den Asset Browser lässt sich eine HTML-Datei vergeben, welche in der Show angezeigt wird.  
+Das HTML-Modul ist dazu da eben solche Inhalte im Showroom anzuzeigen. 
+
+•    HTML Datei - Über den Asset Browser lässt sich eine HTML-Datei vergeben, welche im Showroom angezeigt wird.  
 
 •    Transparancy - Der gesetzte Haken schaltet den Hintergrund Transparent. 
 
@@ -67,6 +72,8 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 ## Bulletlist Modul
 
 ![Placeholder](img/Bullet List_Module.PNG) 
+
+Listen sie wichtige Punkte in einer Bulletlist auf.
 
 •    Title - Hier kann der Titel für die Bulletlist vergeben werden. 
 
@@ -81,6 +88,8 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 
 ![Placeholder](img/Titel_Module.PNG) 
 
+Führen sie in ein Thema mit einer Überschrift, dem Title Modul ein.
+
 •    Title - Über den internen Texteditor kann eine Title geschrieben werden. 
 
 
@@ -88,6 +97,8 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 ## Pause Modul
 
 ![Placeholder](img/Pause_Module.PNG) 
+
+Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
 •    Titel - Über den internen Texteditor kann ein Titel vergeben werden. 
 
@@ -105,6 +116,8 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 
 ![Placeholder](img/External Source_Module.PNG) 
 
+Mit diesem Modul können sie die Eingabequelle ändern.
+
 •    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
 
 
@@ -112,6 +125,8 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 ## Video Player Modul
 
 ![Placeholder](img/Videoplayer_Module.PNG) 
+
+Binden sie Videos in ihre Präsentation ein, mit diesem Modul.
 
 •    Video File - Öffnet den Asset Browser, um ein Video auszuwählen. 
 
@@ -129,12 +144,16 @@ Alle folgenden Module sind Singleview Module. Ihren individuellen Eigenschaften 
 
 ![Placeholder](img/Share Price_Module.PNG) 
 
+Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.
+
 •    Share Price Symbol – Durch Eingeben der WKN-Nummer eines Unternehmens wird der Share Price angezeigt. 
 
 ***
 ## Slide Show 
 
 ![Placeholder](img/Slideshow_Module.PNG) 
+
+Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbinden. Durch Wischen lässt sich das nächste Bild anzeigen.
 
 •    Folder Path - Öffnet den Asset Browser in dem ein Ordner, der mehrere Bilder enthält, ausgewählt werden kann. 
 
@@ -173,13 +192,15 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 •    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 ***
-## Input Selector Modul 
+## Input Selector Modul (Optional)
 
 ![Placeholder](img/Inputselector_Module.PNG) 
 
-•    Input Source 01 - 06 - Hier lassen sich verschiedene Quellen auswählen und mit einem Dashboard Layout darstellen. 
+* Input Source 01 - 06 - Hier lassen sich bis zu vier Quellen auswählen und in verschiedenen Layouts darstellen.
+
+* Show Menü (In Bearbeitung)
 
 ***
-## Challanges Modul 
+## Challanges Modul (Optional) 
 
 Ein Spezial Modul welches Kundenspezifisch erklärt wird. 

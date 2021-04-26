@@ -8,10 +8,10 @@
  
  
 
-Die Team Gallery List 
+Die Team Gallery Liste 
 
  
-Das *Team Gallery List* Fenster unterteilt sich in drei Bereiche. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Team Gallery*. Rechts daneben befindet sich der *Team Gallery Inspector*. 
+Das *Team Gallery List* Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Team Gallery*. Rechts daneben befindet sich der *Team Gallery Inspector*. 
 
 Die *Team Gallery List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der Team Gallery. Ein Teams können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
 
@@ -29,10 +29,10 @@ Die *Team Gallery List* ist in mehrere Spalten unterteilt. Jede Spalte repräsen
 
  
 
-4.    **Released** - Teams, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel *Session List* wird dies genauer erläutert.  
+4.    **Released** - Teams, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session Liste* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) unter *Session List* wird dies genauer erläutert.  
 
-Initial befindet sich in der *Team Gallery List* der Eintrag ‘New Team’.  
+Initial befindet sich in der *Team Gallery Liste* der Eintrag ‘New Team’.  
 
 Der Team Gallery Inspector auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
 
-Mit dem ‘Edit Team’ Button gelangt man in die Bearbeitungsebene des Teams, dem ‘Team Editor’. 
+Mit dem ‘Edit Team’ Button gelangt man in die Bearbeitungsebene des Teams, dem ‘Team Editor’. Im folgenden Kapitel [Team Editor](teameditor.md) gibt es dazu noch weitere Informationen. 

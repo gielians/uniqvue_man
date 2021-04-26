@@ -33,19 +33,27 @@ Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszei
 
 Der *Session Editor* besteht aus vier Bereichen: 
 <ul>
-<li>Agenda Tree: Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  
+<li>Agenda: Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  
 
 </p>
 
-<li>Agenda Modul Repository: Enthält alle verfügbaren Module wie Slideshows etc.</p></li>
+<li>Repository: Enthält alle verfügbaren Module wie Slideshows etc.</p></li>
 
  </p>
 
-<li>Agenda Item Editor: Repräsentiert die Platzierung von Modulen auf dem Display Setup</p></li>
+<li>Content Configuration: Repräsentiert die Platzierung von Modulen auf dem Display Setup</p></li>
 
 </p>
 
-<li>Property Editor: Hier werden Assets mit den Modulen verknüpft. (Bilderordner -> Slidehow) </p></li>  
+<li>Property Editor: Hier werden die Eigenschaften der Module wie sie in Kapitel [Module](module.md) erläutert werden gezeigt. Darüber hinaus  werden auch die Eigenschaften der übergeordneten Agenda gezeigt. Einzelne Agendapunkte können individuelle Eigenschfaften besitzen. Dazu zählen:
+<ol>
+<li><b>Light Color:</b> Setzt die Lichtfarbe in ihrem Raum.</li>
+<li><b>Sound:</b> Hier können sie einen Sound auswählen, der abgespielt wird beim ereichen des Agendapunktes</li>
+<li><b>Panorama: Alternativ zum 3D-Hintergrund können sie hier auch große Panoramen als Hintergrund audwählen.</b>
+</li>
+<li><b>Background:</b> Alternativ zum 'Default' Hintergrund, können sie hier aus einer Auswahl anderer 3D-Hintergründe auswählen und explizit für diesen Agendapunkt festlegen </li>
+</ol>
+</p></li>  
 
 </p>
 </ul>
@@ -54,7 +62,7 @@ Der *Session Editor* besteht aus vier Bereichen:
 
 **Eine Agenda Anlegen:** 
 
-Im *Agenda Tree* füllen sie nun ihre *Agenda* mit Punkten. Um einen neuen Punkt in der Hierarchie zu erstellen, drücken sie den Button ‘Add Agenda Item’. Durch Doppelklick auf den Namen des neu erstellten Agenda-Punktes, kann dieser geändert werden. Im *Agenda Item Editor* erscheint nun ein neues Element, welches das Display Setup des *Showrooms* repräsentiert. Unter einem Agenda-Punkt können sie zudem weitere Agenda-Unterpunkte erzeugen. Im *Agenda Tree* werden Unterpunkte eingerückt dargestellt.  
+Im *Agenda Tree* füllen sie nun ihre *Agenda* mit Punkten. Um einen neuen Punkt in der Hierarchie zu erstellen, drücken sie den Button ‘Add Agenda Item’. Durch Doppelklick auf den Namen des neu erstellten Agenda-Punktes, kann dieser geändert werden. Im *Agenda Item Editor* erscheint nun ein neues Element, welches das Display Setup des *Showrooms* repräsentiert. Unter einem Agenda-Punkt können sie zudem weitere Agenda-Unterpunkte erzeugen. In der Hierarchie der *Agenda* werden Unterpunkte eingerückt dargestellt.  
 ***
 
 
@@ -76,11 +84,11 @@ Ist die *Agenda* nach ihren Wünschen gefüllt muss diese gespeichert werden. Wi
 ***
 
 
-**Eine Toolbox und einen Style der Session zuweisen:** 
+**Eine Toolbox, einen Style und ein Team der Session zuweisen:** 
 
-Nach dem Speichern navigieren sie zurück in die *Session Liste*. Der Listeneintrag einer jeden *Session* enthält die Spalte ‘Toolbox’ und ‘Style’. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. Durch Klicken auf diese, können sie aus einer Liste von *Styles* oder *Toolboxes* auswählen, die sie zuvor erstellt haben. In Kapitel **Toolbox Workflow** und **Style Workflow** gibt es eine detaillierte Beschreibung dazu. 
+Nach dem Speichern navigieren sie zurück in die *Session Liste*. Der Listeneintrag einer jeden *Session* enthält die Spalte ‘Toolbox’, ‘Style’ und 'Team'. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. 'Team' ist per Default nicht zugewiesen. Durch Klicken auf diese, können sie aus einer Liste von *Styles*,*Toolboxes* und *Teams* auswählen, die sie zuvor erstellt haben. In den Kapiteln [Toolbox Workflow](toolboxworkflow.md),  [Style Workflow](styleworkflow.md) und [Team Gallery](teamgallery.md) gibt es detaillierte Beschreibungen dazu. 
 ***
 
 **Sessions organisieren und freigeben:** 
 
-Vergeben sie in der Spalte ‘Category’ ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel **Showroom** wird u.a. erläutert, wie sie *Sessions* laden können. 
+Vergeben sie in der Spalte ‘Category’ ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel [Showroom](showroom.md) wird u.a. erläutert, wie sie *Sessions* laden können. 

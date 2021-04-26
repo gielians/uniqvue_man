@@ -34,21 +34,21 @@ Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeich
 Der Toolbox Editor ist in mehrere Bereiche eingeteilt: 
 
 <ol>
-<li></p> <b>Repository (1): </b>
+<li></p> <b>Toolbox Preview: </b>
 </p>Dieser zeigt eine Übersicht der Toolbox als grafische Repräsentation. </p></li>
 </p>
 <li></p><b>Presentation und System: </b>
 </p>
 Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.</p></li>
 </p>
-<li></p><b>Repository (2):</b>  
+<li></p><b>Repository:</b>  
 </p>
 Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in     Kapitel *Modul* detailliert erläutert werden. Darüber hinaus             beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
 </p>
 
 <ul>
      <li><b>Confidential:</b> 
-     </p>Verschleiert die Inhalte des gesamten Showrooms. </li>
+     </p>Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Durch Eingabe einer Pin werden diese wieder freigegeben.</li>
 </p>
 
 <li><b>Frame Manager:</b> 
@@ -60,22 +60,30 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in
 </p>
 
 <li><b>Paint:</b>
-</p>Freies zeichnen auf dem Displaysetup.</li>
+</p>Freies zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden</li>
 </ul>
 </p>
 <li></p><b>Frame Preview:</b> 
 </p>
-Dieser Bereich liefert eine Übersicht der Module, die sich in einer         Hierarchieebene befinden. </p></li>
+Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.</p></li>
 </p>
 <li><p><b>Property Editor: </b>
 <p/>
-Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel *Asset Browser* findet sich eine detaillierte Erläuterung dazu. </p></li>
+Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.</p></li>
 </ol>
 ***
 
 **Eine Toolbox anpassen:** 
 
-Im Bereich ‘Presentation’ klicken sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’. Wählen sie das leere Element aus. Ziehen sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über den Bereich ‘Frame Preview’ und platzieren sie es.  
+Im Bereich ‘Presentation’ klicken sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
+
+![Toolbox_MainMenu](img/Toolbox_MainMenu.PNG)
+
+![Toolbox_DefaultSub](img/Toolbox_DefaultSub.PNG)
+
+Wählen sie das leere Element aus. Ziehen sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über den Bereich ‘Frame Preview’ und platzieren sie es.
+
+![Toolbox_DragDrop](img/Toolbox_DragDrop.PNG)
 
 **Inhalte verknüpfen:** 
 
