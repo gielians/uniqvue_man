@@ -18,19 +18,21 @@ pages:
   - Dashboard: dashboard_showroom.md
   - Agenda: agenda.md
   - Disc: disc_showroom.md
-
+plugins:
+  - search
 markdown_extensions:
   - attr_list
 theme: 
   name: material
   features:
     - navigation.expand
-    - navigation.instant
     - navigation.top
+    - navigation.sections
     - toc.integrate
+    - search.suggest
   palette:
-    - primary: orange
-    - accent: orange
+    - primary: black
+
 extra:
   version:
     provider: mike
