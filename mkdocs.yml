@@ -33,6 +33,8 @@ theme:
     - search.suggest
   palette:
     - primary: black
+  logo: img/logo.png
+  favicon: img/logo.png
 
 extra:
   version:
