@@ -1,0 +1,778 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../img/logo.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.2">
+    
+    
+      
+        <title>Module - UNIQVUE MANUAL</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.6f955dcd.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#module" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="UNIQVUE MANUAL" class="md-header__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            UNIQVUE MANUAL
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Module
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="" type="radio" name="__palette" id="__palette_1">
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="UNIQVUE MANUAL" class="md-nav__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    UNIQVUE MANUAL
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Übersicht
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sessionmanager/" class="md-nav__link">
+        Session Manager
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../login/" class="md-nav__link">
+        Login
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dashboard/" class="md-nav__link">
+        Dashboard
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../bedienelemente/" class="md-nav__link">
+        Bedienelemente
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sessions/" class="md-nav__link">
+        Sessions
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../toolbox/" class="md-nav__link">
+        Toolboxes
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../teamgallery/" class="md-nav__link">
+        Team Gallery
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../teameditor/" class="md-nav__link">
+        Team Editor
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../styles/" class="md-nav__link">
+        Styles
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Module
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#singleview-module" class="md-nav__link">
+    Singleview Module
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#browser-modul" class="md-nav__link">
+    Browser Modul
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#html-modul" class="md-nav__link">
+    HTML Modul
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bulletlist-modul" class="md-nav__link">
+    Bulletlist Modul
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#title-modul" class="md-nav__link">
+    Title Modul
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pause-modul" class="md-nav__link">
+    Pause Modul
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-player-modul" class="md-nav__link">
+    Video Player Modul
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#share-price" class="md-nav__link">
+    Share Price
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#slide-show" class="md-nav__link">
+    Slide Show
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#external-source" class="md-nav__link">
+    External Source
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#multiview-module" class="md-nav__link">
+    Multiview Module
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#storyboard-storyboard-right-module" class="md-nav__link">
+    Storyboard &amp; Storyboard Right Module
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#input-selector-modul-optional" class="md-nav__link">
+    Input Selector Modul (Optional)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#challanges-modul-optional" class="md-nav__link">
+    Challanges Modul (Optional)
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../assetbrowser/" class="md-nav__link">
+        Asset Browser
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sessionworkflow/" class="md-nav__link">
+        Session Workflow
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../toolboxworkflow/" class="md-nav__link">
+        Toolbox Workflow
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../styleworkflow/" class="md-nav__link">
+        Style Workflow
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../showroom/" class="md-nav__link">
+        Showroom
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../dashboard_showroom/" class="md-nav__link">
+        Home Screen
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../agenda/" class="md-nav__link">
+        Agenda
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../disc_showroom/" class="md-nav__link">
+        Disc
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="module">Module</h1>
+<p><img alt="Placeholder" src="../img/SessionEditor_ModuleFocused.PNG" /> </p>
+<p><em>Module</em> treten an verschiedenen Stellen im <em>Session Manager</em> auf. In der <em>Session</em> sind alle vorhanden, um eine <em>Agenda</em> zu füllen. Die Toolboxmodule sind entsprechend in der Toolboxkonfiguration zu finden. In Kapitel <strong>Toolbox</strong> wird darauf detailliert eingegangen. </p>
+<p>Hier ist eine Übersicht der Module aus der Session und wie sie funktionieren. </p>
+<hr />
+<h2 id="singleview-module">Singleview Module</h2>
+<p>Diese Module können je nach Display Setup an eine Position gezogen werden und erscheinen später im Showroom auf dem entsprechenden Display. </p>
+<p>Alle Singleview Module haben konsistente, allgemeine Eigenschaften, die hier aufgelistet sind. </p>
+<p><strong>Background Image:</strong> Über den <em>Asset Browser</em> wird hier ein Hintergrundbild für dieses Modul geladen. Das Bild belegt dann das Display bzw. den gesamten Bereich in dem das Modul platziert wurde. </p>
+<p><strong>Size:</strong> Hier wird die Größe der Darstellung des Fensters angegeben. Der Standardwert ist 0.75. Der Wert 1 entspricht Fullsize. </p>
+<p><strong>Title:</strong> Titelvergabe eines Moduls. </p>
+<p><strong>Showtitle:</strong> Durch Setzen des Hakens wird dieser Titel auch im Showroom angezeigt.  </p>
+<p>Alle folgenden Module sind Singleview Module. Ihre individuellen Eigenschaften sind zudem aufgelistet. </p>
+<hr />
+<h2 id="browser-modul">Browser Modul</h2>
+<p><img alt="Placeholder" src="../img/Browser_Module.PNG" /> </p>
+<p>Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation ein.</p>
+<p>•    Show Header - Der gesetzte Haken zeigt die URL-Leiste, Bookmarks etc. an. </p>
+<p>•    URL - Hier kann man die Start URL eintragen, mit der das Browsermodul starten soll, z.B. https://www.google.de </p>
+<p>•    Bookmarks 01 - 05 - Hier stehen 5 Bookmarks zur Verfügung, denen man auch URLs vergeben kann, diese werden als kleine Icons generiert und oben rechts im Browserfenster angezeigt und dienen der direkten Wahl. </p>
+<hr />
+<h2 id="html-modul">HTML Modul</h2>
+<p><img alt="Placeholder" src="../img/HTML_Module.PNG" /> </p>
+<p>Das HTML-Modul ist dazu da eben solche Inhalte im Showroom anzuzeigen. </p>
+<p>•    HTML Datei - Über den Asset Browser lässt sich eine HTML-Datei vergeben, welche im Showroom angezeigt wird.  </p>
+<p>•    Transparancy - Der gesetzte Haken schaltet den Hintergrund Transparent. </p>
+<hr />
+<h2 id="bulletlist-modul">Bulletlist Modul</h2>
+<p><img alt="Placeholder" src="../img/Bullet%20List_Module.PNG" /> </p>
+<p>Listen sie wichtige Punkte in einer Bulletlist auf.</p>
+<p>•    Title - Hier kann der Titel für die Bulletlist vergeben werden. </p>
+<p>•    Bullet - In einem internen Texteditor können Bulletpoints erzeugt werden. </p>
+<hr />
+<h2 id="title-modul">Title Modul</h2>
+<p><img alt="Placeholder" src="../img/Titel_Module.PNG" /> </p>
+<p>Führen sie in ein Thema mit einer Überschrift, dem Title Modul ein.</p>
+<p>•    Title - Über den internen Texteditor kann eine Title geschrieben werden. </p>
+<hr />
+<h2 id="pause-modul">Pause Modul</h2>
+<p><img alt="Placeholder" src="../img/Pause_Module.PNG" /> </p>
+<p>Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.</p>
+<p>•    Titel - Über den internen Texteditor kann ein Titel vergeben werden. </p>
+<p>•    Bullet -  Über den internen Texteditor können Bulletpoints erzeugt werden. </p>
+<p>•    Timer – Im Timer wird die Länge der Pause festgelegt.  </p>
+<hr />
+<h2 id="video-player-modul">Video Player Modul</h2>
+<p><img alt="Placeholder" src="../img/Videoplayer_Module.PNG" /> </p>
+<p>Binden sie Videos in ihre Präsentation ein, mit diesem Modul.</p>
+<p>•    Video File - Öffnet den Asset Browser, um ein Video auszuwählen. </p>
+<p>•    Autostart - Ist der Haken gesetzt startet das Video automatisch. </p>
+<p>•    Repeat Video - Ist der Haken gesetzt läuft das Video in Schleife. </p>
+<hr />
+<h2 id="share-price">Share Price</h2>
+<p><img alt="Placeholder" src="../img/Share%20Price_Module.PNG" /> </p>
+<p>Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.</p>
+<p>•    Share Price Symbol – Durch Eingeben der WKN-Nummer eines Unternehmens wird der Share Price angezeigt. </p>
+<hr />
+<h2 id="slide-show">Slide Show</h2>
+<p><img alt="Placeholder" src="../img/Slideshow_Module.PNG" /> </p>
+<p>Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbinden. Durch Wischen lässt sich das nächste Bild anzeigen.</p>
+<p>•    Folder Path - Öffnet den Asset Browser in dem ein Ordner, der mehrere Bilder enthält, ausgewählt werden kann. </p>
+<p>•    Show Navigation - Der gesetzte Haken zeigt die Navigation an </p>
+<p>•    Navigation Inside Frame – Ein gesetzteer Haken zeigt die Navigation im Bild an. </p>
+<hr />
+<h2 id="external-source">External Source</h2>
+<p><img alt="Placeholder" src="../img/External%20Source_Module.PNG" /> </p>
+<p>Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertragen..</p>
+<p>•    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. </p>
+<hr />
+<h2 id="multiview-module">Multiview Module</h2>
+<p>Je nach Setup des Showrooms verhalten sich die Multiview Module anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das Modul in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit dem Showroom-Setup möglich sind. Grundsätzlich gilt: Multiview Module haben mehr als ein Fenster und halten dadurch zusätzliche Funktionen bereit. </p>
+<hr />
+<h2 id="storyboard-storyboard-right-module">Storyboard &amp; Storyboard Right Module</h2>
+<p><img alt="Placeholder" src="../img/Storyboard_Module.PNG" />  <img alt="Placeholder" src="../img/Storyboard%20Right_Module.PNG" /> </p>
+<p>Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slides an, die mit einer Wischgeste nach rechts und links bewegt werden können. Ein Slide welches so bewegt wurde sammelt sich entsprechend rechts oder links in einem Fenster, und ordnet sich in einem Gitter ein. </p>
+<p>•    Slide Folder - Öffnet den Asset Browser, um einen Pfad zum Ordner mit den Slides auszuwählen. </p>
+<p>•    Storyboard Left - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. </p>
+<p>•    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. </p>
+<hr />
+<h2 id="input-selector-modul-optional">Input Selector Modul (Optional)</h2>
+<p>Ähnlich wie das Modul <em>External Source</em> können hier jedoch mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf ihr Displaysetup verteilt werden.</p>
+<p><img alt="Placeholder" src="../img/Inputselector_Module.PNG" /> </p>
+<ul>
+<li>
+<p>Input Source 01 - 06 - Hier lassen sich bis zu vier Quellen auswählen und in verschiedenen Layouts darstellen.</p>
+</li>
+<li>
+<p>Show Menü (In Bearbeitung)</p>
+</li>
+</ul>
+<hr />
+<h2 id="challanges-modul-optional">Challanges Modul (Optional)</h2>
+<p>Ein Spezial Modul welches Kundenspezifisch erklärt wird. </p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+          </a>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../styles/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Styles
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../assetbrowser/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Asset Browser
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.top", "navigation.sections", "toc.integrate", "search.suggest"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../assets/javascripts/workers/search.fe42c31b.min.js", "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.4ea5477f.min.js"></script>
+      
+    
+  </body>
+</html>
