@@ -49,7 +49,7 @@ Der *Session Editor* besteht aus vier Bereichen:
 <ol>
 <li><b>Light Color:</b> Setzt die Lichtfarbe in ihrem Raum.</li>
 <li><b>Sound:</b> Hier können sie einen Sound auswählen, der abgespielt wird beim ereichen des Agendapunktes</li>
-<li><b>Panorama: Alternativ zum 3D-Hintergrund können sie hier auch große Panoramen als Hintergrund audwählen.</b>
+<li><b>Panorama:</b> Alternativ zum 3D-Hintergrund können sie hier auch große Panoramen als Hintergrund audwählen.
 </li>
 <li><b>Background:</b> Alternativ zum 'Default' Hintergrund, können sie hier aus einer Auswahl anderer 3D-Hintergründe auswählen und explizit für diesen Agendapunkt festlegen </li>
 </ol>
