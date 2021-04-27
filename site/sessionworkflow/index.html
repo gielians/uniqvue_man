@@ -304,6 +304,21 @@
   
   
     <li class="md-nav__item">
+      <a href="../teameditor/" class="md-nav__link">
+        Team Editor
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../styles/" class="md-nav__link">
         Styles
       </a>
@@ -443,7 +458,7 @@
   
     <li class="md-nav__item">
       <a href="../dashboard_showroom/" class="md-nav__link">
-        Dashboard
+        Home Screen
       </a>
     </li>
   
@@ -515,25 +530,33 @@
 <hr />
 <p>Der <em>Session Editor</em> besteht aus vier Bereichen: </p>
 <ul>
-<li>Agenda Tree: Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  
+<li>Agenda: Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  
 
 </p>
 
-<li>Agenda Modul Repository: Enthält alle verfügbaren Module wie Slideshows etc.</p></li>
+<li>Repository: Enthält alle verfügbaren Module wie Slideshows etc.</p></li>
 
  </p>
 
-<li>Agenda Item Editor: Repräsentiert die Platzierung von Modulen auf dem Display Setup</p></li>
+<li>Content Configuration: Repräsentiert die Platzierung von Modulen auf dem Display Setup</p></li>
 
 </p>
 
-<li>Property Editor: Hier werden Assets mit den Modulen verknüpft. (Bilderordner -> Slidehow) </p></li>  
+<li>Property Editor: Hier werden die Eigenschaften der Module wie sie in Kapitel [Module](module.md) erläutert werden gezeigt. Darüber hinaus  werden auch die Eigenschaften der übergeordneten Agenda gezeigt. Einzelne Agendapunkte können individuelle Eigenschfaften besitzen. Dazu zählen:
+<ol>
+<li><b>Light Color:</b> Setzt die Lichtfarbe in ihrem Raum.</li>
+<li><b>Sound:</b> Hier können sie einen Sound auswählen, der abgespielt wird beim ereichen des Agendapunktes</li>
+<li><b>Panorama: Alternativ zum 3D-Hintergrund können sie hier auch große Panoramen als Hintergrund audwählen.</b>
+</li>
+<li><b>Background:</b> Alternativ zum 'Default' Hintergrund, können sie hier aus einer Auswahl anderer 3D-Hintergründe auswählen und explizit für diesen Agendapunkt festlegen </li>
+</ol>
+</p></li>  
 
 </p>
 </ul>
 <hr />
 <p><strong>Eine Agenda Anlegen:</strong> </p>
-<p>Im <em>Agenda Tree</em> füllen sie nun ihre <em>Agenda</em> mit Punkten. Um einen neuen Punkt in der Hierarchie zu erstellen, drücken sie den Button ‘Add Agenda Item’. Durch Doppelklick auf den Namen des neu erstellten Agenda-Punktes, kann dieser geändert werden. Im <em>Agenda Item Editor</em> erscheint nun ein neues Element, welches das Display Setup des <em>Showrooms</em> repräsentiert. Unter einem Agenda-Punkt können sie zudem weitere Agenda-Unterpunkte erzeugen. Im <em>Agenda Tree</em> werden Unterpunkte eingerückt dargestellt.  </p>
+<p>Im <em>Agenda Tree</em> füllen sie nun ihre <em>Agenda</em> mit Punkten. Um einen neuen Punkt in der Hierarchie zu erstellen, drücken sie den Button ‘Add Agenda Item’. Durch Doppelklick auf den Namen des neu erstellten Agenda-Punktes, kann dieser geändert werden. Im <em>Agenda Item Editor</em> erscheint nun ein neues Element, welches das Display Setup des <em>Showrooms</em> repräsentiert. Unter einem Agenda-Punkt können sie zudem weitere Agenda-Unterpunkte erzeugen. In der Hierarchie der <em>Agenda</em> werden Unterpunkte eingerückt dargestellt.  </p>
 <hr />
 <p><strong>Die Agenda mit Modulen füllen:</strong>  </p>
 <p>Ziehen sie aus dem <em>Agenda Repository</em> Module ihrer Wahl per Drag and Drop in ein Element im <em>Agenda Item Editor</em>. Entsprechend des Display Setups können Module innerhalb des Elements platziert werden. So können mehrere Module auf verschiedene Displays verteilt sein. Füllen sie so ihre gesamte <em>Agenda</em>. </p>
@@ -544,11 +567,11 @@
 <p><strong>Speichern:</strong></p>
 <p>Ist die <em>Agenda</em> nach ihren Wünschen gefüllt muss diese gespeichert werden. Wie erwähnt zeigt das Sternsymbol im Tab (‘*’) an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die <em>Agenda</em> gespeichert. </p>
 <hr />
-<p><strong>Eine Toolbox und einen Style der Session zuweisen:</strong> </p>
-<p>Nach dem Speichern navigieren sie zurück in die <em>Session Liste</em>. Der Listeneintrag einer jeden <em>Session</em> enthält die Spalte ‘Toolbox’ und ‘Style’. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. Durch Klicken auf diese, können sie aus einer Liste von <em>Styles</em> oder <em>Toolboxes</em> auswählen, die sie zuvor erstellt haben. In Kapitel <strong>Toolbox Workflow</strong> und <strong>Style Workflow</strong> gibt es eine detaillierte Beschreibung dazu. </p>
+<p><strong>Eine Toolbox, einen Style und ein Team der Session zuweisen:</strong> </p>
+<p>Nach dem Speichern navigieren sie zurück in die <em>Session Liste</em>. Der Listeneintrag einer jeden <em>Session</em> enthält die Spalte ‘Toolbox’, ‘Style’ und 'Team'. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. 'Team' ist per Default nicht zugewiesen. Durch Klicken auf diese, können sie aus einer Liste von <em>Styles</em>,<em>Toolboxes</em> und <em>Teams</em> auswählen, die sie zuvor erstellt haben. In den Kapiteln <a href="../toolboxworkflow/">Toolbox Workflow</a>,  <a href="../styleworkflow/">Style Workflow</a> und <a href="../teamgallery/">Team Gallery</a> gibt es detaillierte Beschreibungen dazu. </p>
 <hr />
 <p><strong>Sessions organisieren und freigeben:</strong> </p>
-<p>Vergeben sie in der Spalte ‘Category’ ihrer <em>Session</em> eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die <em>Session</em> im <em>Showroom Dashboard</em> innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel <strong>Showroom</strong> wird u.a. erläutert, wie sie <em>Sessions</em> laden können. </p>
+<p>Vergeben sie in der Spalte ‘Category’ ihrer <em>Session</em> eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die <em>Session</em> im <em>Showroom Dashboard</em> innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel <a href="../showroom/">Showroom</a> wird u.a. erläutert, wie sie <em>Sessions</em> laden können. </p>
                 
               
               
