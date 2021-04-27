@@ -1,4 +1,4 @@
-# Modules 
+# Module
 
 
 
@@ -112,16 +112,7 @@ Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
 
 ***
-## External Source 
 
-![Placeholder](img/External Source_Module.PNG) 
-
-Mit diesem Modul können sie die Eingabequelle ändern.
-
-•    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
-
-
-***
 ## Video Player Modul
 
 ![Placeholder](img/Videoplayer_Module.PNG) 
@@ -167,6 +158,16 @@ Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbin
 
 
 ***
+## External Source 
+
+![Placeholder](img/External Source_Module.PNG) 
+
+Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertragen..
+
+•    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
+
+
+***
 ## Multiview Module
 
 Je nach Setup des Showrooms verhalten sich die Multiview Module anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das Modul in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit dem Showroom-Setup möglich sind. Grundsätzlich gilt: Multiview Module haben mehr als ein Fenster und halten dadurch zusätzliche Funktionen bereit. 
@@ -192,13 +193,18 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 •    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 ***
+
 ## Input Selector Modul (Optional)
+
+Ähnlich wie das Modul *External Source* können hier jedoch mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf ihr Displaysetup verteilt werden.
 
 ![Placeholder](img/Inputselector_Module.PNG) 
 
 * Input Source 01 - 06 - Hier lassen sich bis zu vier Quellen auswählen und in verschiedenen Layouts darstellen.
 
 * Show Menü (In Bearbeitung)
+
+
 
 ***
 ## Challanges Modul (Optional) 

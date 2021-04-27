@@ -1,7 +1,7 @@
 # Home Screen (Dashboard)
 
 
-Das Dashboard bildet den Ausgangspunkt einer jeden Session. Es besteht aus der Agenda und mehreren grafischen Elementen, die sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. 
+Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser besteht aus der Agenda und mehreren grafischen Elementen, die sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. 
 ***
 * **Agenda:**
 
