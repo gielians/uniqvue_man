@@ -1,19 +1,15 @@
 # Sessions 
 
+Wie zuvor schon erwähnt sind Sessions sind die Kernelemente einer jeden Präsentation über den *Showroom*. In einer *Session* ist zum Einen ihre *Agenda*, also Struktur ihrer Präsentation und zum Anderen das gesamte Erscheinungsbild und die Funktionalität des *Showrooms* definiert. In Kapitel [Dashboard](dashboard.md) gibt es dazu einen Überblick. 
 
 
+
+**Die Session List** 
 
 ![Placeholder](img/SessionList.PNG) 
 
 
-
-
-Die Session Liste 
-
-
-
-
-Das *Session List* Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listen Ansicht der Sessions. Rechts daneben befindet sich der *Session Inspector*.
+Das *Session List* Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen [Bedienelemente](bedienelemente.md). In der Mitte befindet sich das Hauptfenster mit der Listen Ansicht der Sessions. Rechts daneben befindet sich der *Session Inspector*.
 Am oberen rechten Rand befindet sich ein Suchfeld, über das eine Session gesucht werden kann. Die Eingabe ist sensitiv und filtert dynamisch die Listen entsprechend ihrer Eingabe. 
 
 Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft einer *Session*. *Sessions* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden.  
@@ -39,6 +35,7 @@ Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spa
 ***
 **Toolbox (DISC)** - Hier kann eine *Toolbox* aus der *Toolbox Liste* ausgewählt werden. In Kapitel [Toolbox](toolbox.md) gibt es detaillierte Informationen dazu.
 ***
+
 **Style** - Hier kann ein *Style* aus der *Style Liste* zugewiesen werden. Was genau ein Style ist, wird in Kapitel [Styles](styles.md) detailliert erläutert.
 
 ***
@@ -51,4 +48,26 @@ Der *Session Inspector* auf der rechten Seite stellt noch einmal die wichtigsten
 
 **Session Description:** - Notiz zur *Session* 
 ***
-Mit dem ‘Edit Session’ Button gelangt man in die Bearbeitungsebene der *Session*. Einen detaillierten Einstieg zum *Toolbox Editor* gibt es in Kapitel [Session Worfklow](sessionworkflow.md). 
+
+
+Mit dem ‘Edit Session’ Button gelangt man in die Bearbeitungsebene der *Session*, dem *Session Editor*. Dieser besteht aus mehreren Bereichen:
+
+![SessionEditor](img/SessionEditor.PNG)
+
+
+* **Agenda:** Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  
+
+
+
+* **Repository:** Enthält alle verfügbaren Module wie Slideshows etc.</p></li>
+
+
+
+* **Content Configuration:** Repräsentiert die Platzierung von Modulen auf dem Display Setup
+
+
+* **Property Editor:** Hier werden die Eigenschaften der Module wie sie in Kapitel [Module](module.md) erläutert werden gezeigt. Darüber hinaus  werden auch die Eigenschaften der übergeordneten Agenda gezeigt. Einzelne Agendapunkte können individuelle Eigenschfaften besitzen. 
+
+
+
+Einen detaillierten Einstieg in den Workflow des *Session Editors* gibt es in Kapitel [Session Worfklow](sessionworkflow.md). 
