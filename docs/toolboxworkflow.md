@@ -31,46 +31,44 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 
 Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Toolbox’ Button gelangen sie zum Toolbox Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen der zu bearbeitenden Toolbox. Beliebig viele Tabs also Toolboxes können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Toolbox Namen, um einen Indikator dafür zu liefern, ob eine Toolbox noch ungespeicherte Änderungen enthält. Zu sehen ist jetzt eine Repräsentation der Toolbox mit einigen voreingestellten Funktionen. Die Konfiguration ihrer Toolbox können sie hier jetzt anpassen. 
  ***
-Der Toolbox Editor ist in mehrere Bereiche eingeteilt: 
+Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
 
-<ol>
-<li></p> <b>Toolbox Preview: </b>
-</p>Dieser zeigt eine Übersicht der Toolbox als grafische Repräsentation. </p></li>
-</p>
-<li></p><b>Presentation und System: </b>
-</p>
-Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.</p></li>
-</p>
-<li></p><b>Repository:</b>  
-</p>
-Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in     Kapitel *Modul* detailliert erläutert werden. Darüber hinaus             beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
-</p>
+* **Toolbox Preview:**
 
-<ul>
-     <li><b>Confidential:</b> 
-     </p>Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Durch Eingabe einer Pin werden diese wieder freigegeben.</li>
-</p>
+    Dieser zeigt eine Übersicht der Toolbox als grafische Repräsentation.
 
-<li><b>Frame Manager:</b> 
-</p>Hiermit können offene Module schnell und einfach verteilt und angeordnet werden. </li>
-</p>
+* **Presentation und System:**
 
-<li><b>Snap Shot: </b>
-</p>Erzeugt einen Screenshot des gesamten Showrooms. </li>
-</p>
+    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.
 
-<li><b>Paint:</b>
-</p>Freies zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden</li>
-</ul>
-</p>
-<li></p><b>Frame Preview:</b> 
-</p>
-Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.</p></li>
-</p>
-<li><p><b>Property Editor: </b>
-<p/>
-Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.</p></li>
-</ol>
+* **Repository:**
+
+    Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in Kapitel [Modul](modul.md) detailliert erläutert werden. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
+
+    -  **Confidential:** 
+
+        Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Durch Eingabe einer Pin werden diese wieder freigegeben.</li>
+
+    - **Frame Manager:**
+
+        Hiermit können offene Module schnell und einfach verteilt und angeordnet werden.
+
+
+    - **Snap Shot:** 
+
+        Erzeugt einen Screenshot des gesamten Showrooms.
+
+    - **Paint:**
+        Freies zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
+
+* **Frame Preview:**
+
+    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.
+
+* **Property Editor:**
+
+    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
+
 ***
 
 **Eine Toolbox anpassen:** 

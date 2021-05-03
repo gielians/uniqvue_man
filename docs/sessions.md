@@ -1,10 +1,11 @@
 # Sessions 
 
-Wie zuvor schon erwähnt sind Sessions sind die Kernelemente einer jeden Präsentation über den *Showroom*. In einer *Session* ist zum Einen ihre *Agenda*, also Struktur ihrer Präsentation und zum Anderen das gesamte Erscheinungsbild und die Funktionalität des *Showrooms* definiert. In Kapitel [Dashboard](dashboard.md) gibt es dazu einen Überblick. 
+Wie zuvor schon erwähnt sind Sessions die Kernelemente einer jeden Präsentation über den *Showroom*. In einer *Session* ist zum Einen ihre *Agenda*, also Struktur ihrer Präsentation und zum Anderen das gesamte Erscheinungsbild und die Funktionalität des *Showrooms* definiert. In Kapitel [Dashboard](dashboard.md) gibt es dazu einen Überblick. 
+
+Hier finden sie einen allgemeinen Überblick zu *Sessions*.
 
 
-
-**Die Session List** 
+*Die Session List* 
 
 ![Placeholder](img/SessionList.PNG) 
 
@@ -47,10 +48,15 @@ Der *Session Inspector* auf der rechten Seite stellt noch einmal die wichtigsten
 ***
 
 **Session Description:** - Notiz zur *Session* 
+
+
 ***
 
-
 Mit dem ‘Edit Session’ Button gelangt man in die Bearbeitungsebene der *Session*, dem *Session Editor*. Dieser besteht aus mehreren Bereichen:
+
+***
+
+Der *Session Editor*
 
 ![SessionEditor](img/SessionEditor.PNG)
 

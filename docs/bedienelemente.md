@@ -1,5 +1,7 @@
 # Allgemeine Bedienelemente
 
+Die Bedienelemente (rot markiert)
+
 ![Placeholder](img/Bedienelemente.PNG)
 
 In jeder Listenansicht befinden sich folgende Bedienelemte am linken, oberen Rand:
