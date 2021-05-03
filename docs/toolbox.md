@@ -1,16 +1,14 @@
 # Toolboxes 
 
+Eine Toolbox oder auch DISC ist für jede Session obligatorisch. Das heißt, sie muss zwingend einer Session zugewiesen sein. Die Toolbox ist das zentrale Bedienungstool und wird in jeder Phase in der Arbeit mit dem Showrooms zugänglich sein. Sie können die Toolbox individuell an ihren Workflow aus einem Repertoire an Funktionen und nützlichen Tools anpassen. 
  
+Hier finden sie einen allgemeinen Überblick zu *Toolboxes*.
  
+Die *Toolbox List*
 
 ![Placeholder](img/ToolboxList.PNG) 
 
- 
- 
 
-Die Toolbox Liste 
-
- 
 Das *Toolbox List* Fenster unterteilt sich in drei Bereiche. Hier zur besseren übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
 
 Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der *Toolbox*. *Toolboxes* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
@@ -29,12 +27,60 @@ Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert
 
  
 
-4.    **Released** - Toolboxes, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session Liste* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) wird dies unter *Session Liste* genauer erläutert.  
+4.    **Released** - Toolboxes, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) wird dies unter *Session List* genauer erläutert.  
 
-Initial befindet sich in der *Toolbox Liste* der Eintrag ‘Default DISC’ mit voreingestellten Funktionen.  
+Initial befindet sich in der *Toolbox List* der Eintrag ‘Default DISC’ mit voreingestellten Funktionen.  
 
-Der Toolbox Inspector auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
+Der *Toolbox Inspector* auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
 
-Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der Toolbox, dem ‘Toolbox Editor’. Einen detaillierten Einstieg zum Toolbox Editor gibt es in Kapitel *Toolbox Worfklow*. 
+Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der Toolbox, dem ‘Toolbox Editor’. 
+***
+Der *Toolbox Editor*
+
+
+![ToolboxEditor](img/ToolboxEditor.PNG)
+
+
+Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
+
+
+* **Toolbox Preview:**
+
+    Dieser zeigt eine Übersicht der Toolbox als grafische Repräsentation.
+
+* **Presentation und System:**
+
+    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.
+
+* **Repository:**
+
+    Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in Kapitel [Modul](modul.md) detailliert erläutert werden. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
+
+    -  **Confidential:** 
+
+        Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Durch Eingabe einer Pin werden diese wieder freigegeben.</li>
+
+    - **Frame Manager:**
+
+        Hiermit können offene Module schnell und einfach verteilt und angeordnet werden.
+
+
+    - **Snap Shot:** 
+
+        Erzeugt einen Screenshot des gesamten Showrooms.
+
+    - **Paint:**
+        Freies zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
+
+* **Frame Preview:**
+
+    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.
+
+* **Property Editor:**
+
+    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
+
+
+Einen detaillierten Einstieg zum Umgang mit dem *Toolbox Editor* gibt es in Kapitel [Toolbox Worfklow](toolboxworkflow.md). 
 
 

@@ -1,6 +1,9 @@
 # Allgemeine Bedienelemente
 
-![Bedienelemente](img/Bedienelemente.PNG)
+
+Die Bedienelemente (rot markiert)
+
+![Placeholder](img/Bedienelemente.PNG)
 
 In jeder Listenansicht befinden sich folgende Bedienelemte am linken, oberen Rand:
 Zurück zum vorherigen Fenster![arrow](img/be_arrow.png){align=left} 

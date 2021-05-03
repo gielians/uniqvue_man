@@ -38,4 +38,20 @@ Initial befindet sich in der *Style List* der Eintrag ‘First Style’. Dieser 
 
 Der Style Inspector auf der rechten Seite zeigt das Logo etwas größer. 
 
-Mit dem ‘Edit Style’ Button gelangt man in die Bearbeitungsebene des Styles. Einen detaillierten Einstieg gibt es in Kapitel Session Worfklow. 
+Mit dem ‘Edit Style’ Button gelangt man in die Bearbeitungsebene des Styles. 
+
+![StyleEditor](img/StyleEditor.png)
+
+
+Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafischen Elemente des Showrooms auflisten:
+<ul>
+<li> <b>Home Screen</b></p></li>
+</p>
+<li> <b>Agenda & Modules</b></p></li>
+</p>
+<li> <b>DISC & Frames</b></p></li>
+</p>
+<li> <b>3D Background</b></p></li>
+</ul>
+
+Einen detaillierten Einstieg gibt es in Kapitel [Style Worfklow](styleworkflow.md). 
