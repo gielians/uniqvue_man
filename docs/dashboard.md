@@ -4,17 +4,15 @@
 
 ![Placeholder](img/Root_Overview.PNG) 
 
-
-
-Das Dashboard ist mehrere Kategorien eingeteilt, oben zu sehen mit farbiger Umrandung: 
-
+Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie in das Dashboard. Hier zu sehen sind die Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen großen "Bausteine" führen, aus denen sich eine Session zusammensetzt.
 
 
 ## Session 
 
+![Placeholder](img/SessionHierarchie.png) 
 
-
-Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine *Show* benötigt. In Kapitel [Session](sessions.md) gibt es einen Überblick und in Kapitel [Session Workflow](sessionworkflow.md) wird erläutert wie man damit arbeitet. 
+Ganz grundsätzlich ist eine *Session* das Übergeordnete Objekt sozusagen der Ursprung, welches weitere Objekte, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team in sich beherbergt. Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
+Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. In Kapitel [Session](sessions.md) gibt es einen Überblick und in Kapitel [Session Workflow](sessionworkflow.md) wird erläutert wie man damit arbeitet.
 
 
 ***

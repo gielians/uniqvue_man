@@ -1,54 +1,55 @@
 # UNIQVUE User Manual  
 
 
-
-
-
 ## Einleitung 
 
 
-Das Manual ist in 3 Bereiche eingeteilt. 
+
+**UNIQVUE** ist ein  interaktives Framework für *Showrooms* und *Experience Center*. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über den *Manager* können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Zur Vereinfachung ist das System in diesem Manual in zwei Teile unterteilt, den **Manager** und den **Showroom**.  
+
+## System Übersicht
+
+![SystemÜbersicht](img/SystemOverviewSW.png)
 
 
+**Manager:** 
 
-* Im ersten Teil werden alle Elemente und Fenster des [Session Managers](sessionmanager.md) erklärt. Die System Übersicht erläutert das Zusammenwirken der einzelnen Komponenten.
-
-* In Teil zwei beschäftigt sich mit den Workflows des *Session Managers*. Die Workflows ermöglichen dem Anwender die umfassende Bedienung der Applikation, um eine komplette Show zu erstellen.
-
-* Der dritte Teil setzt sich mit dem [Showroom](showroom.md) auseinander und wie dieser zielführend benutzt wird.</p></li>
-
-
-Wichtig ist, dass sie das gelesene anwenden und ausprobieren! Nur so festigt sich ihr Wissen und sie werden spielend ein Experte im Umgang mit der Anwendung. 
+Im Detail besteht der [Manager](sessionmanager.md) aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für sie als User wird aber immer nur die App sichtbar sein. Geben sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter ihre Kontrolle bringen oder während einer Show mit ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. 
 ***
+**Managing App:** 
 
+Hier verwalten Sie Ihre Showabläufe, Inhalte und Quellen. Sie legen Ihren Syle fest und befüllen die Toolbox mit Inhalten.  
+***
+**Server:**
 
-## System Übersicht 
+Der Server läuft im Hintergrund und stellt die Kommunikation und den Transport der Daten zwischen den einzelnen Komponenten von UNIQVUE sicher.  
+***
+**File Storage:**
 
-![Placeholder](img/System-Overview-2.png) 
+Hier werden die Inhalte verschlüsselt abgelegt. Jede Datei wird dazu in UNIQVUE „hochgeladen“. Dabei prüft das System, ob es die Datei bereits gibt. Falls ja, wird nur eine Referenz erstellt. 
+***
+**Datenbank:**
 
+Alle Abläufe und Strukturen werden in einer Datenbank abgelegt. 
+***
+**Showroom:** 
 
+Der [Showroom](showroom.md) ist die Bühne auf der alle Inhalte zusammenkommen und in hoher Auflösung und vielen Bildern pro Sekunde dargestellt werden. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. UNIQVUE basiert auf einer 3D Echtzeit Rendering Engine ähnlich einer 3D Spiele Engine, aber mit dem Fokus auf Präsentation. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt. Dadurch ist das System Auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. Skalierbar und Datadriven wie man heute sagt. Ihnen stehen grundsätzlich zwei verschiedenen Wege bereit Ihrer Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren sich durch eine Agenda navigieren, oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexible aufrufen. Beide Möglichkeiten können natürlich auch kombiniert warden.  
+***
+**Remote Client:**
 
-Um grundsätzlich das gesamte System zu verstehen wird anhand des Diagramms durch die einzelnen Komponenten geführt und diese erläutert. 
+Eine Besonderheit an UNIQVUE ist, dass wir externe PC’s als Quellen einbinden und diese fernsteuern können. Dies geschieht über einen HID Emulator. Es wird also keine Netzwerkverbindung zu diesem PC benötigt.  
+***
+**External Devices:**  
 
-Das ganze System kann in 2 Bereiche unterteilt gesehen werden, welche verschiedene Aufgaben übernehmen. Das sogenannte *Backend* organisiert und strukturiert im Hintergrund Dateien und stellt diese bereit, während das sog. *Frontend* die Schnittstelle zum Anwender bildet. Zum *Frontend* zählt also gewissermaßen der *Showroom* mit seiner grafischen Oberfläche als auch die *Session Manager Anwendung*. 
+Neben den PC’S können auch Kameras und andere Quellen wie z.B. Apple TV, Clickshare oder Cynap eingebunden werden. 
+***
+**Raumsteuerung:**
 
-Unter genauerer Betrachtung ist das Backend wiederum in 3 Bereiche unterteilt: 
-<ul>
-<li>Server</p></li> 
-</p>
-<li>Dateiensystem</p></li> 
-</p>
-<li>SQL-Datenbank</p></li>
-</ul>
+Ein Showroom lebt von den kleinen Extras. Mit UNIQVUE können wir Ihre Raumsteuerung einbinden. Egal ob Licht, Ton, Jalousien, Sprachsteuerung, ob Crestron, DMX oder KNX. Wir verbinden alle Komponenten.  
+***
+**Webcasting & Streaming:**
 
-Der Server übernimmt den Transport der Daten zwischen *Frontend* und *Backend*. 
-
-Das Dateiensystem ist die nächsttiefere Ebene. Hier werden alle Dateien, die in *Sessions* eingebunden werden sollen, strukturiert. 
-
-Die SQL-Datenbank ist die niedrigste Ebene in diesem System und ist für die widerspruchsfreie, dauerhafte Speicherung aller Dateien zuständig. 
-
-Das *Frontend* ist im weitesten Sinne die Konfiguration und Darstellung. Über den Server sind die Daten aus dem Backend abrufbar. Mit der *Session Manager* Anwendung als Authoring-Tool können Präsentationen als aufwendige Shows angelegt werden. Geben sie ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter ihre Kontrolle bringen oder während einer Show mit ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. 
-
-Im *Showroom* kommen letztlich alle Daten zusammen und werden zum Leben erweckt. Mit Hilfe einer starken 3D-Engine wird ihre zuvor erstellte Show visuell hochwertig und ansprechend dargestellt. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. 
-
-Dieses Manual soll den Umgang mit diesem System auf Anwenderebene zeigen. Im Detail wird erläutert, wie sie Shows im *Session Manager* nach ihren Vorstellungen erschaffen und im *Showroom* kontrollieren können. 
+Alle Bildquellen liegen in UNIQVUE als Videostreams im Netzwerk. Dadurch kann ein zusätzlicher Regieplatz eingerichtet und als Schlüsselposition für Hybrid Sessions genutzt werden. 
+***
+Dieses Manual soll den Umgang mit diesem System auf Anwenderebene zeigen. Im Detail wird erläutert, wie sie Shows im Session Manager nach ihren Vorstellungen erschaffen und im Showroom kontrollieren können. 

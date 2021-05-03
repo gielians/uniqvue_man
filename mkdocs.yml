@@ -1,7 +1,7 @@
 site_name: UNIQVUE MANUAL
 pages:
   - Übersicht: index.md
-  - Session Manager: sessionmanager.md
+  - Manager: sessionmanager.md
   - Login: login.md
   - Dashboard: dashboard.md
   - Bedienelemente: bedienelemente.md
