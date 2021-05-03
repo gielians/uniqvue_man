@@ -28,9 +28,7 @@ markdown_extensions:
 theme: 
   name: material
   features:
-    - navigation.expand
     - navigation.top
-    - navigation.tracking
     - toc.integrate
     - search.suggest
   palette:
