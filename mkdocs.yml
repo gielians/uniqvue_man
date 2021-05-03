@@ -1,16 +1,14 @@
 site_name: UNIQVUE MANUAL
 pages:
   - Übersicht: index.md
-
-  - Session Manager:
-    - Manager: sessionmanager.md
+  - Manager:
+    - Session Manager: sessionmanager.md
     - Login: login.md
     - Dashboard: dashboard.md
     - Bedienelemente: bedienelemente.md
     - Sessions: sessions.md
     - Toolboxes: toolbox.md
     - Team Gallery: teamgallery.md
-    - Team Editor: teameditor.md
     - Styles: styles.md
     - Module: module.md
     - Asset Browser: assetbrowser.md
