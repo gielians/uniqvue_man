@@ -1,37 +1,42 @@
 site_name: UNIQVUE MANUAL
 pages:
   - Übersicht: index.md
-  - Manager: sessionmanager.md
-  - Login: login.md
-  - Dashboard: dashboard.md
-  - Bedienelemente: bedienelemente.md
-  - Sessions: sessions.md
-  - Toolboxes: toolbox.md
-  - Teams: teamgallery.md
-  - Styles: styles.md
-  - Module: module.md
-  - Asset Browser: assetbrowser.md
-  - Session Workflow: sessionworkflow.md
-  - Toolbox Workflow: toolboxworkflow.md
-  - Style Workflow: styleworkflow.md
-  - Showroom: showroom.md
-  - Home Screen: dashboard_showroom.md
-  - Agenda: agenda.md
-  - Disc: disc_showroom.md
+
+  - Session Manager:
+    - Manager: sessionmanager.md
+    - Login: login.md
+    - Dashboard: dashboard.md
+    - Bedienelemente: bedienelemente.md
+    - Sessions: sessions.md
+    - Toolboxes: toolbox.md
+    - Team Gallery: teamgallery.md
+    - Team Editor: teameditor.md
+    - Styles: styles.md
+    - Module: module.md
+    - Asset Browser: assetbrowser.md
+    - Session Workflow: sessionworkflow.md
+    - Toolbox Workflow: toolboxworkflow.md
+    - Style Workflow: styleworkflow.md
+  - Showroom:
+    - Showroom: showroom.md
+    - Home Screen: dashboard_showroom.md
+    - Agenda: agenda.md
+    - Disc: disc_showroom.md
+
 plugins:
   - search
 markdown_extensions:
   - attr_list
-theme: 
+theme:
   name: material
   features:
-    - navigation.expand
     - navigation.top
-    - navigation.sections
     - toc.integrate
     - search.suggest
   palette:
     - primary: black
+  logo: img/logo.png
+  favicon: img/logo.png
 
 extra:
   version:
