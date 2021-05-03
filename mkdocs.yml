@@ -27,7 +27,7 @@ plugins:
   - search
 markdown_extensions:
   - attr_list
-theme: 
+theme:
   name: material
   features:
     - navigation.top
