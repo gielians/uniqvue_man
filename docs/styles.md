@@ -1,20 +1,15 @@
 # Styles 
 
+Ein Style ist für jede Session obligatorisch. Das heißt, ein Style muss zwingend einer Session zugewiesen werden. Der Style definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich Weitere Parameter Einstellen. Das Kapitel [Style Workflow](styleworkflow.md) geht darauf genauer ein. 
  
- 
+ Die *Style List*  
 
 ![Placeholder](img/StyleList.PNG) 
 
- 
- 
-
-Die Style List 
-
- 
 
 Das *Style List* Fenster unterteilt sich in drei Bereiche. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Styles*. Rechts daneben befindet sich der *Style Inspector*. 
 
-Die *Session List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft des Styles. Styles können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
+Die *Style List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft des Styles. Styles können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
 
  
 
@@ -40,7 +35,7 @@ Der Style Inspector auf der rechten Seite zeigt das Logo etwas größer.
 
 Mit dem ‘Edit Style’ Button gelangt man in die Bearbeitungsebene des Styles. 
 
-![StyleEditor](img/StyleEditor.png)
+![StyleEditor](img/StyleEditor.PNG)
 
 
 Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafischen Elemente des Showrooms auflisten:

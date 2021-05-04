@@ -1,6 +1,6 @@
 # Agenda
 
-Nachdem sie eine Session geladen und gestartet haben, befinden sie sich nun in der Session. An der rechten und linken seite ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von ihnen erstellten Session. In den Kapiteln [Session](sessions.md) und [Session Workflow](sessionworklfow.md) finden sie detaillierte Informationen was Sessions sind und wie sie welche erstellen. Die Agenda ist das zentrae Navigationstool um durch ihre Präsentation zu führen. Durch berühren des entsprechenden Punktes in der Agenda gelangen sie an diese Stelle in ihrer Präsentation.
+Nachdem sie eine Session geladen und gestartet haben, befinden sie sich nun in der Session. An der rechten und linken seite ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von ihnen erstellten Session. In den Kapiteln [Session](sessions.md) und [Session Workflow](sessionworkflow.md) finden sie detaillierte Informationen was Sessions sind und wie sie welche erstellen. Die Agenda ist das zentrae Navigationstool um durch ihre Präsentation zu führen. Durch berühren des entsprechenden Punktes in der Agenda gelangen sie an diese Stelle in ihrer Präsentation.
 
 
 ![AgendaRoadmap](img/Screenshots_Showroom/Agenda_Roadmap.png)
