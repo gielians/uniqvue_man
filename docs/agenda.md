@@ -39,13 +39,13 @@ Informationen zur Konfigurierung des Moduls finden sie in Kapitel Module im Absc
 ![Agenda Modul](img/Screenshots_Showroom/Agenda_Browser.png)
 
 ***
-## HTML
+<!--- ## HTML
 
 Das *HTML* Modul ist in der Lage HTML-Dateien in ihre Präsentation einzubinden. Hier können sie Beispielsweise klickbare Modelle von lokalen Websites in Entwicklung oder andere HTML-basierte Inhalte anzeigen.
 Informationen zur Konfigurierung des Moduls finden sie in Kapitel Module im Abschnitt [HTML](module.md#html-modul).
 
 ![Agenda Modul](img/Screenshots_Showroom/Agenda_HTML.png)
-
+--->
 ***
 ## Slideshow
 

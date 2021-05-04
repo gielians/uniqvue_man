@@ -63,7 +63,7 @@ Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Ab
 
 
 ***
-## HTML Modul
+<!--- ## HTML Modul
 
 ![Placeholder](img/HTML_Module.PNG) 
 
@@ -75,7 +75,7 @@ Das HTML-Modul ist dazu da eben solche Inhalte im Showroom anzuzeigen.
 
 
 Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[HTML](agenda.md#html).
-
+--->
 
 ***
 ## Bulletlist Modul
