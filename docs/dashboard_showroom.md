@@ -1,17 +1,10 @@
 # Home Screen (Dashboard)
 
+![Placeholder](img/Screenshots_Showroom/Showroom.png)
 
 Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser besteht aus der Agenda und mehreren grafischen Elementen, die sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. 
 ***
-* **Agenda:**
 
-    Am rechten und linken Rand ihres Displaysetups befindet sich die Agenda, welche ausgefahren werden kann. Hierüber lässt sich zum einen direkt in die Session springen oder zuerst eine Startanimation abspielen. Darüber hinaus ist die Agenda das zentrale Werkzeug zum Navigieren durch ihre Präsentation. In Kapitel [Agenda](agenda.md) wird dies genauer erläutert.
-    
-    ![Agenda-1](img/Screenshots_Showroom/Agenda-Navigation-1.PNG)
-    ![Agenda-2](img/Screenshots_Showroom/Agenda-Navigation-2.PNG)
-
-
-***
 * **Session Selection:** 
 
     Dieses Widget ist das Wichtigste, es zeigt eine Ordnerstruktur in denen Sessions organisiert sind. Sessions die sie zuvor im Manager angelegt und freigegeben haben stehen ihnen hier zur Verfügung. In Kapitel [Sessions](sessions.md) und [Session Worklfow](sessionworkflow.md) finden sie eine detaillierte Erklärung, wie diese angelegt werden. Betätigen der Schaltfläche 'Load Session' lädt die ausgewählte Session, dabei zeigt ein Ladebalken den aktuellen Ladestatus an. Nach einem kurzen Moment ist die Session dann bereit gestartet zu werden.
@@ -40,8 +33,18 @@ Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser
     
     ![RSSFeed](img/Screenshots_Showroom/RSSFeed.PNG)
     
+***    
 * **Controls**
 
     Hiermit können sie Volumen und Helligkeit des Showrooms steuern.
     
     ![Controls](img/Screenshots_Showroom/RoomControls.PNG)
+
+***
+* **Agenda:**
+
+    Am rechten und linken Rand ihres Displaysetups befindet sich die Agenda, welche ausgefahren werden kann. Hierüber lässt sich zum einen direkt in die Session springen oder zuerst eine Startanimation abspielen. Darüber hinaus ist die Agenda das zentrale Werkzeug zum Navigieren durch ihre Präsentation. In Kapitel [Agenda](agenda.md) wird dies genauer erläutert.
+    
+    ![Agenda-1](img/Screenshots_Showroom/Agenda-Navigation-1.PNG)
+    ![Agenda-2](img/Screenshots_Showroom/Agenda-Navigation-2.PNG)
+

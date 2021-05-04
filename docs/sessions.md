@@ -19,7 +19,7 @@ Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spa
 **Name** - Name der *Session*. Durch Doppelklick kann dieser geändert werden.
 
 ***
-**Category** - Hier können sie ihrer *Session* eine Kategorie vergeben. Die Kategorien finden sich als Ordner im Dashboard des [Showrooms](showroom.md) wieder, in denen die Sessions dann verfügbar sind.
+**Category** - Hier können sie ihrer *Session* eine Kategorie vergeben. Die Kategorien finden sich als Ordner im *Dashboard* bzw. im *Home Screen* des [Showrooms](dashboard_showroom.md) wieder, in denen die Sessions dann verfügbar sind.
 ***
 **Date** - Beim Erstellen einer *Session* wird automatisch das aktuelle Datum vergeben. Das hilft die Sessions nach Datum zu sortieren und wiederzufinden
 ***
