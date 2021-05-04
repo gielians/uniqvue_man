@@ -59,6 +59,8 @@ Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation e
 
 •    Bookmarks 01 - 05 - Hier stehen 5 Bookmarks zur Verfügung, denen man auch URLs vergeben kann, diese werden als kleine Icons generiert und oben rechts im Browserfenster angezeigt und dienen der direkten Wahl. 
 
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Browser](agenda.md#browser).
+
 
 ***
 ## HTML Modul
@@ -70,6 +72,9 @@ Das HTML-Modul ist dazu da eben solche Inhalte im Showroom anzuzeigen.
 •    HTML Datei - Über den Asset Browser lässt sich eine HTML-Datei vergeben, welche im Showroom angezeigt wird.  
 
 •    Transparancy - Der gesetzte Haken schaltet den Hintergrund Transparent. 
+
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[HTML](agenda.md#html).
 
 
 ***
@@ -86,6 +91,8 @@ Listen sie wichtige Punkte in einer Bulletlist auf.
 •    Bullet - In einem internen Texteditor können Bulletpoints erzeugt werden. 
 
 
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](agenda.md#bullet-list).
+
 ***
 
 ## Title Modul
@@ -96,6 +103,8 @@ Führen sie in ein Thema mit einer Überschrift, dem Title Modul ein.
 
 •    Title - Über den internen Texteditor kann eine Title geschrieben werden. 
 
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Title](agenda.md#title).
 
 ***
 ## Pause Modul
@@ -114,6 +123,8 @@ Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
 •    Timer – Im Timer wird die Länge der Pause festgelegt.  
 
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Pause](agenda.md#pause).
 
 ***
 
@@ -134,6 +145,8 @@ Binden sie Videos in ihre Präsentation ein, mit diesem Modul.
 •    Repeat Video - Ist der Haken gesetzt läuft das Video in Schleife. 
 
 
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Videoplayer](agenda.md#videoplayer).
+
 ***
 ## Share Price Modul
 
@@ -142,6 +155,9 @@ Binden sie Videos in ihre Präsentation ein, mit diesem Modul.
 Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.
 
 •    Share Price Symbol – Durch Eingeben der WKN-Nummer eines Unternehmens wird der Share Price angezeigt. 
+
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Share Price](agenda.md#share-price).
 
 ***
 ## Slide Show Modul
@@ -161,6 +177,8 @@ Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbin
 •    Navigation Inside Frame – Ein gesetzteer Haken zeigt die Navigation im Bild an. 
 
 
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow](agenda.md#slideshow).
+
 ***
 ## External Source Modul
 
@@ -170,6 +188,8 @@ Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertrag
 
 •    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
 
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[External Source](agenda.md#external-source).
 
 ***
 ## Multiview Module
@@ -196,6 +216,9 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 
 •    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](agenda.md#storyboard).
+
 ***
 
 ## Input Selector Modul Optional
@@ -207,6 +230,9 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 * Input Source 01 - 06 - Hier lassen sich bis zu vier Quellen auswählen und in verschiedenen Layouts darstellen.
 
 * Show Menü
+
+
+Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](agenda.md#input-selector).
 
 ***
 ## Challanges Modul Optional 
