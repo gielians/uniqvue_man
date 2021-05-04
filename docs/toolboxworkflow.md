@@ -2,13 +2,7 @@
 
   
 ![Placeholder](img/ToolboxList_Crop.PNG) 
-
-![Placeholder](img/ToolboxEditor-NewToolbox.PNG) 
-
-  
-
-  
-
+***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach eine Toolbox bearbeiten, erstellen, duplizieren oder löschen. 
 
 Zur Erinnerung noch einmal Icons und ihre Funktion: 
@@ -23,9 +17,10 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </p>
 <li>Mit dem Mülleimersymbol löscht man eine ausgewählte Toolbox. </p></li>
 </ul>
-
 ***
- 
+
+![Placeholder](img/ToolboxEditor-NewToolbox.PNG) 
+
 
 **Erstellen einer neuen Toolbox:**  
 
@@ -43,7 +38,7 @@ Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 * **Repository:**
 
-    Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in Kapitel [Modul](modul.md) detailliert erläutert werden. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
+    Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in Kapitel [Modul](module.md) detailliert erläutert werden. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
 
     -  **Confidential:** 
 
@@ -98,3 +93,4 @@ Ist die Toolbox nach ihren Wünschen angepasst muss diese gespeichert werden. Da
 **Toolbox freigeben:** 
 
 Nach dem sie gespeichert haben, navigieren sie zurück in die Toolbox List und ändern sie den Namen der Toolbox durch Doppelklick auf den Namen des Listeneintrags. Der Listeneintrag einer jeden Toolbox enthält die Spalte ‘Released’. Durch setzen des Hakens wird die Toolbox nun der Liste der verfügbaren Toolboxes angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel *Session Workflow* wird das genauer erklärt.  
+

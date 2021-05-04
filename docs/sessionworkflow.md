@@ -1,15 +1,10 @@
-# Session Workflow 
+# Session Workflow
 
 
 
-![Placeholder](img/SessionList Kopie.PNG)
+![SessionList](img/SessionList Kopie.PNG)
 
-![Placeholder](img/SessionEditor_AgendItemFocused.PNG) 
-
-
-
-
-
+***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach eine Session bearbeiten, erstellen, duplizieren oder löschen. 
 
 Zur Erinnerung noch einmal Icons und ihre Funktion: 
@@ -24,12 +19,22 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </p>
 <li>Mit dem Mülleimersymbol löscht man eine ausgewählte Session. </p></li>
 </ul>
-
 ***
 **Erstellen einer neuen Session:**  
 
 Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können sie der *Session* einen Namen geben. Diese *Session* ist zunächst leer. Sie enthält außer einem Default *Style* und einer Default *Toolbox* keine weiteren Inhalte. Das können sie jetzt ändern, indem sie auf den Stift zum Bearbeiten der *Session* klicken. Alternativ kann die *Session*, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leitet weiter zum *Session Editor*. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden *Session* trägt. Beliebig viele Tabs also *Sessions* können gleichzeitig geöffnet sein. Das Sternsymbol (‘\*’) erscheint außerdem im *Session* Namen, um einen Indikator dafür zu liefern, ob eine *Session* noch ungespeicherte Änderungen enthält.
 ***
+
+![Placeholder](img/SessionEditor_AgendItemFocused.PNG) 
+
+
+
+
+
+
+
+***
+
 
 Zur Erinnerung - Der *Session Editor* besteht aus vier Bereichen: 
 <ul>
@@ -80,7 +85,7 @@ Klicken sie auf ein Modul innerhalb des *Agenda Item Editor*. Der *Property Edit
 
 **Speichern:**
 
-Ist die *Agenda* nach ihren Wünschen gefüllt muss diese gespeichert werden. Wie erwähnt zeigt das Sternsymbol im Tab (‘\*’) an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die *Agenda* gespeichert. 
+Ist die *Agenda* nach ihren Wünschen gefüllt muss diese gespeichert werden. Wie erwähnt zeigt das Sternsymbol im Tab (‘\*’) an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination `STRG + S` wird die *Agenda* gespeichert. 
 ***
 
 
@@ -91,4 +96,9 @@ Nach dem Speichern navigieren sie zurück in die *Session Liste*. Der Listeneint
 
 **Sessions organisieren und freigeben:** 
 
-Vergeben sie in der Spalte ‘Category’ ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel [Showroom](showroom.md) wird u.a. erläutert, wie sie *Sessions* laden können. 
+Vergeben sie in der Spalte ‘Category’ ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel [Showroom](showroom.md) wird u.a. erläutert, wie sie *Sessions* laden können.
+
+***
+**Tipps und Tricks:**
+
+Sie können ganz klassisch Agenda Module oder ein Listenelement aus der Agendahierarchie mit den Tastenkombinationen `STRG + C` und `STRG + V` in den Zwischenspeicher kopieren und wieder einfügen.

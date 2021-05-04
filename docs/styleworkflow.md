@@ -1,8 +1,9 @@
 # Style Workflow
 
-![Placeholder](img/StyleEditor.PNG)
 
+![StyleList](img/StyleList Kopie.PNG)
 
+***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach einen Style bearbeiten, erstellen, duplizieren oder löschen. 
 
 Zur Erinnerung noch einmal Icons und ihre Funktion: 
@@ -17,11 +18,15 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </p>
 <li>Mit dem Mülleimersymbol löscht man einen ausgewählten Style. </p></li>
 </ul>
+***
+
+![Placeholder](img/StyleEditor.PNG)
+
 
 ***
  
 
-**Erstellen einea neuen Styles:**  
+**Erstellen eines neuen Styles:**  
 
 Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen sie zum Style Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen des zu bearbeitenden Styles. Beliebig viele Tabs also Styles können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Style Namen, um einen Indikator dafür zu liefern, ob ein Style noch ungespeicherte Änderungen enthält. Zu sehen sind jetzt mehrere Spalten mit verschiedenen Eigenschaften.
  ***
@@ -56,3 +61,9 @@ Ist der Style nach ihren Wünschen angepasst muss dieser gespeichert werden. Das
 **Style freigeben:** 
 
 Der Listeneintrag eines jeden Styles enthält die Spalte ‘Released’. Durch setzen des Hakens wird der Style der Liste der verfügbaren Styles angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel [Session Workflow](sessionworkflow.md) wird das genauer erklärt.  
+
+
+**Tipps und Tricks**
+
+Sie können einzelne Attribute im *Style Editor* mit den Tastenkombinationen `STRG + C` und `STRG + V` in den Zwischenspeicher kopieren und wieder einfügen. Hovern sie dafür mit der Maus über den Namen des entsprechenden Attributs.
+
