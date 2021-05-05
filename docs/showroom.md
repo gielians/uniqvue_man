@@ -1,4 +1,4 @@
-# Showroom
+# Showroom Übersicht
 
 ![Placeholder](img/ShowRoomOverviewSW.png)
 

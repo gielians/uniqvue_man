@@ -16,7 +16,7 @@ pages:
     - Toolbox Workflow: toolboxworkflow.md
     - Style Workflow: styleworkflow.md
   - Showroom:
-    - Showroom: showroom.md
+    - Showroom Übersicht: showroom.md
     - Home Screen: dashboard_showroom.md
     - Agenda: agenda.md
     - Disc: disc_showroom.md
