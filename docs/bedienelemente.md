@@ -13,9 +13,9 @@ In jeder Listenansicht befinden sich folgende Bedienelemte am linken, oberen Ran
 <li><div><img src="../img/be_duplicate.png"/> Ausgewählten Listeneintrag duplizieren</div></li>
 <li><div><img src="../img/be_delete.png"/> Ausgewählten Listeneintrag löschen</div></li>
 <ul>
-<<<<<<< HEAD
+
 Die Icons dieser Liste finden sich im ![Session Manager](sessionmanager.md) in jeder Kategorie an dieser Stelle wieder.
-=======
+
 
 Die Icons dieser Liste finden sich im Session Manager in jeder Kategorie an dieser Stelle wieder.
 >>>>>>> 1903db7df2c8ca21d8fb2931485e1dfc26e79825
