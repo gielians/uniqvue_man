@@ -3,7 +3,7 @@
 Nachdem sie eine Session geladen und gestartet haben, befinden sie sich nun in der Session. An der rechten und linken seite ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von ihnen erstellten Session. In den Kapiteln [Session](sessions.md) und [Session Workflow](sessionworkflow.md) finden sie detaillierte Informationen was Sessions sind und wie sie welche erstellen. Die Agenda ist das zentrae Navigationstool um durch ihre Präsentation zu führen. Durch berühren des entsprechenden Punktes in der Agenda gelangen sie an diese Stelle in ihrer Präsentation.
 
 
-![AgendaRoadmap](img/Screenshots_Showroom/Agenda_Roadmap.png)
+![AgendaRoadmap](img/Disc_Gifs/Agenda_InOut.gif)
 
 Module, die sie zuvor im Manager zu ihrer Agenda hinzugefügt haben werden hier schließlich mit den von ihnen verknüpften Inhalten visualisiert. Alle Module die Sie auf Seite des Managers zu ihrer Agenda hinzufügen können, finden sie in Kapitel [Module](module.md). Im Folgenden sind hier die Module auf Seite des Showrooms aufgelistet und mit beispielhaften Inhalten gefüllt:
 ***
