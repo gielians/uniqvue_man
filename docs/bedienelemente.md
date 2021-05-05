@@ -14,6 +14,5 @@ In jeder Listenansicht befinden sich folgende Bedienelemte am linken, oberen Ran
 <li><div><img src="../img/be_delete.png"/> Ausgewählten Listeneintrag löschen</div></li>
 <ul>
 
-Die Icons dieser Liste finden sich im [Session Manager](sessionmanager.md) in jeder Kategorie an dieser Stelle wieder.
 
 
