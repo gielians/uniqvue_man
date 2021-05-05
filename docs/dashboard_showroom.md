@@ -1,6 +1,6 @@
 # Home Screen (Dashboard)
 
-![Placeholder](img/Screenshots_Showroom/Showroom.png)
+![Placeholder](img/Screenshots_Showroom/EY_Home.jpg)
 
 Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser besteht aus der Agenda und mehreren grafischen Elementen, die sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. 
 ***
