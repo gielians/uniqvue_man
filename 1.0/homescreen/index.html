@@ -14,7 +14,7 @@
     
     
       
-        <title>Team Gallery - UNIQVUE MANUAL</title>
+        <title>Home Screen - UNIQVUE MANUAL</title>
       
     
     
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#teams" class="md-skip">
+        <a href="#home-screen-dashboard" class="md-skip">
           Skip to content
         </a>
       
@@ -92,7 +92,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Team Gallery
+              Home Screen
             
           </span>
         </div>
@@ -195,14 +195,12 @@
 
   
   
-    
-  
   
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
       <label class="md-nav__link" for="__nav_2">
         Manager
@@ -290,44 +288,11 @@
             
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Team Gallery
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../teamgallery/" class="md-nav__link">
         Team Gallery
       </a>
-      
-        
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -641,12 +606,14 @@
 
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
       
       <label class="md-nav__link" for="__nav_3">
         Showroom
@@ -674,11 +641,44 @@
             
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../homescreen/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Home Screen
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Home Screen
       </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -738,58 +738,78 @@
               
                 
                 
-                <h1 id="teams">Teams</h1>
-<p>Teams sind optional für eine Session. </p>
-<p>Sie finden hier einen Überblick zu diesem Thema.</p>
-<p>Die <em>Team Gallery List</em> </p>
-<p><img alt="Placeholder" src="../img/Manager/TeamList.PNG" /> </p>
-<p>Ausgangspunkt zum Erstellen eines Teams ist die <em>Team Gallery List</em>. Dieses Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der <em>Team Gallery</em>. Rechts daneben befindet sich der <em>Team Gallery Inspector</em>. </p>
-<p>Die <em>Team Gallery List</em> ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der Team Gallery List. Teams können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. </p>
-<ol>
+                <h1 id="home-screen-dashboard">Home Screen (Dashboard)</h1>
+<p><img alt="HomeScreen" src="../img/Showroom/EY_Home.jpg" /></p>
+<p>Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser besteht aus der Agenda und mehreren grafischen Elementen, die sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. </p>
+<hr />
+<ul>
 <li>
-<p><strong>Name</strong> - Name des Teams. Durch Doppelklick kann dieser geändert werden. </p>
+<p><strong>Session Selection:</strong> </p>
+<p>Dieses Widget ist das Wichtigste, es zeigt eine Ordnerstruktur in denen Sessions organisiert sind. Sessions die sie zuvor im Manager angelegt und freigegeben haben stehen Ihnen hier zur Verfügung. In Kapitel <a href="../sessions/">Sessions</a> und <a href="../sessionworkflow/">Session Worklfow</a> finden Sie eine detaillierte Erklärung, wie diese angelegt werden. Betätigen der Schaltfläche 'Load Session' lädt die ausgewählte Session, dabei zeigt ein Ladebalken den aktuellen Ladestatus an. Nach einem kurzen Moment ist die Session dann bereit gestartet zu werden.</p>
+<p><img alt="SessionSelection" src="../img/Showroom/Session_Selection.PNG" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>Start Intro:</strong></p>
+<p>Durch längeres berühren der Fläche umschließt ein Ring die Hand. Ist der Ring vollständig, startet eine 3D Animation auf der gesamten Displayfläche. Die Animation ist die Überleitung von dem Homescreen hinein in eine Session. Dies ist ein eindrucksvoller Weg eine Präsentation zu starten. Die Startanimation ist optional. Sie können auch über die Agenda direkt in eine Session navigieren und die Startanimation überspringen.</p>
+<p><img alt="StartIntro" src="../img/Showroom/Start_Intro.gif" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>Share Price</strong></p>
+<p>Dieses Widget zeigt Ihnen den Börsenindex eines Unternehmens.
+<img alt="SharePrice" src="../img/Showroom/Share_Price.PNG" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>RSS Feed</strong></p>
+<p>Dieses Widget bindet einen RSS-Feed in ihren Homscreen ein.</p>
+<p><img alt="RSSFeed" src="../img/Showroom/RSS_Feed.PNG" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>Controls</strong></p>
+<p>Hiermit können Sie Volumen und Helligkeit des Showrooms steuern.</p>
+<p><img alt="Controls" src="../img/Showroom/Controls.PNG" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>Team Gallery</strong></p>
+<p>Dieses Widget zeig Ihnen das ausgewählte Team Ihrer geladenen Session an.</p>
+<p><img alt="TeamGallery" src="../img/Showroom/Team_Gallery.PNG" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>World Clock</strong></p>
+<p>Das World Clock Widget zeigt Ihnen die unterschiedlichen Zeiten auf der Erde.</p>
+<p><img alt="WorldClock" src="../img/Showroom/World_Clock.PNG" /></p>
+</li>
+</ul>
+<hr />
+<ul>
+<li>
+<p><strong>Locations</strong></p>
+<p>Das Locations Widget visualisiert auf die Standorte Ihres Unternehmens. Durch Klicken auf einen Namen in der Liste, wird die entsprechende Stelle auf dem Globus fokussiert.</p>
+<p><img alt="Locations" src="../img/Showroom/Locations.PNG" /></p>
 </li>
 <li>
-<p><strong>Date</strong> - Beim Erstellen eines Teams wird automatisch das aktuelle Datum vergeben. Das hilft die Teams nach Datum zu sortieren und wiederzufinden. </p>
+<p><strong>Agenda:</strong></p>
+<p>Am rechten und linken Rand Ihres Displaysetups befindet sich die Agenda, welche ausgefahren werden kann. Hierüber lässt sich zum einen direkt in die Session springen oder zuerst eine Startanimation abspielen. Darüber hinaus ist die Agenda das zentrale Werkzeug zum Navigieren durch Ihre Präsentation. In Kapitel <a href="../agenda/">Agenda</a> wird dies genauer erläutert.</p>
+<p><img alt="Agenda-1" src="../img/Showroom/Agenda_Start_Session_Small.gif" />
+<img alt="Agenda-2" src="../img/Showroom/Agenda_Start_Intro_Small.gif" /></p>
 </li>
-<li>
-<p><strong>Author</strong> - Automatisch wird hier die Person mit ihrem Username eingetragen. </p>
-</li>
-<li>
-<p><strong>Released</strong> - Teams, die mit einem Haken bei ‘Released’ markiert sind, werden in der <em>Session List</em> zur Auswahl verfügbar gemacht. In Kapitel <a href="../sessions/">Sessions</a> unter <em>Session List</em> wird dies genauer erläutert.  </p>
-</li>
-</ol>
-<p>Initial befindet sich in der <em>Team Gallery List</em> der Eintrag ‘New Team’.  </p>
-<p>Der <em>Team Gallery Inspector</em> auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. </p>
-<p>Mit dem ‘Edit Team’ Button gelangt man in die Bearbeitungsebene des Teams, dem ‘Team Editor’. </p>
-<hr />
-<p>Der <em>Team Editor</em></p>
-<p><img alt="Placeholder" src="../img/Manager/TeamEditor_Crop.png" /> </p>
-<p>Der <em>Team Editor</em> ist in zwei Bereiche aufgeteilt, dem geöffneten Tab des zu bearbeitenden Teams als Listenansicht und dem <em>Member Inspector</em>, oben farbig umrandet. </p>
-<p>Durch Klicken des Icons mit dem Dokument und dem Pluszeichen wir ein neues Temmitglied erstellt. </p>
-<p>Rechts im <em>Member Inspector</em> können die individuellen Eigenschaften des Teammitglieds eingstellt werden. Folgende Eigenschaften gibt es:</p>
-<ul>
-<li><b>Geschlecht</b></li>
-</ul>
-<hr />
-<ul>
-<li><b>Avatar</b> - Ein individuelles Bild, welches über den <em>Asset Browser</em> vergeben werden kann. Alles zum <em>Asset Browser</em> ist in Kapitel <a href="../assetbrowser/">Asset Browser</a> nachzulesen. </li>
-</ul>
-<hr />
-<ul>
-<li><b>First Name</b></li>
-</ul>
-<hr />
-<ul>
-<li><b>Surname</b></li>
-</ul>
-<hr />
-<ul>
-<li><b>Position</b></li>
-</ul>
-<hr />
-<ul>
-<li><b>Company</b></li>
 </ul>
                 
               
@@ -813,7 +833,7 @@
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../toolbox/" class="md-footer__link md-footer__link--prev" rel="prev">
+        <a href="../showroom/" class="md-footer__link md-footer__link--prev" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -822,19 +842,19 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Toolboxes
+              Showroom Übersicht
             </div>
           </div>
         </a>
       
       
-        <a href="../styles/" class="md-footer__link md-footer__link--next" rel="next">
+        <a href="../agenda/" class="md-footer__link md-footer__link--next" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Styles
+              Agenda
             </div>
           </div>
           <div class="md-footer__button md-icon">
