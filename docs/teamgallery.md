@@ -7,7 +7,7 @@ Sie finden hier einen Überblick zu diesem Thema.
 
 Die *Team Gallery List* 
 
-![Placeholder](img/TeamGalleryList.PNG) 
+![Placeholder](img/Manager/TeamList.PNG) 
 
 
 Ausgangspunkt zum Erstellen eines Teams ist die *Team Gallery List*. Dieses Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Team Gallery*. Rechts daneben befindet sich der *Team Gallery Inspector*. 
@@ -40,7 +40,7 @@ Mit dem ‘Edit Team’ Button gelangt man in die Bearbeitungsebene des Teams, d
 
 Der *Team Editor*
 
-![Placeholder](img/TeamEditor_Crop.png) 
+![Placeholder](img/Manager/TeamEditor_Crop.png) 
 
  
 Der *Team Editor* ist in zwei Bereiche aufgeteilt, dem geöffneten Tab des zu bearbeitenden Teams als Listenansicht und dem *Member Inspector*, oben farbig umrandet. 

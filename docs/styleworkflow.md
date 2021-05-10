@@ -1,7 +1,7 @@
 # Style Workflow
 
 
-![StyleList](img/StyleList Kopie.PNG)
+![StyleList](img/Manager/StyleList_Crop.PNG)
 
 ***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach einen Style bearbeiten, erstellen, duplizieren oder löschen. 
@@ -20,7 +20,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </ul>
 ***
 
-![Placeholder](img/StyleEditor.PNG)
+![Placeholder](img/Manager/StyleEditor.PNG)
 
 
 ***

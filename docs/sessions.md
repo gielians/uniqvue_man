@@ -7,7 +7,7 @@ Hier finden sie einen allgemeinen Überblick zu *Sessions*.
 
 *Die Session List* 
 
-![Placeholder](img/SessionList.PNG) 
+![SessionList](img/Manager/SessionList_Highlighted.PNG) 
 
 
 Das *Session List* Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen [Bedienelemente](bedienelemente.md). In der Mitte befindet sich das Hauptfenster mit der Listenansicht der Sessions. Rechts daneben befindet sich der *Session Inspector*.
@@ -58,7 +58,7 @@ Mit dem ‘Edit Session’ Button gelangt man in die Bearbeitungsebene der *Sess
 
 Der *Session Editor*
 
-![SessionEditor](img/SessionEditor.PNG)
+![SessionEditor](img/Manager/SessionEditor.PNG)
 
 
 * **Agenda:** Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  

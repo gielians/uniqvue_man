@@ -2,7 +2,7 @@
 
 
 
-![SessionList](img/SessionList Kopie.PNG)
+![SessionList](img/Manager/SessionList_Crop.PNG)
 
 ***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach eine Session bearbeiten, erstellen, duplizieren oder löschen. 
@@ -25,7 +25,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie der *Session* einen Namen geben. Diese *Session* ist zunächst leer. Sie enthält außer einem Default *Style* und einer Default *Toolbox* keine weiteren Inhalte. Das können Sie jetzt ändern, indem Sie auf den Stift zum Bearbeiten der *Session* klicken. Alternativ kann die *Session*, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leitet weiter zum *Session Editor*. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden *Session* trägt. Beliebig viele Tabs also *Sessions* können gleichzeitig geöffnet sein. Das Sternsymbol (‘\*’) erscheint außerdem im *Session* Namen, um einen Indikator dafür zu liefern, ob eine *Session* noch ungespeicherte Änderungen enthält.
 ***
 
-![Placeholder](img/SessionEditor_AgendItemFocused.PNG) 
+![SessionEditor](img/Manager/SessionEditor_AgendItemFocused.PNG) 
 
 
 

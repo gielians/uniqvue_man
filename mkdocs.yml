@@ -10,7 +10,24 @@ pages:
     - Toolboxes: toolbox.md
     - Team Gallery: teamgallery.md
     - Styles: styles.md
-    - Module: module.md
+    #- Module: module.md
+    
+    - Module:
+      - Übersicht: modulesoverview.md
+      - Singleview Module:
+        - Title: Module_Manager/title.md
+        - Bullet List: Module_Manager/bulletlist.md
+        - Browser: Module_Manager/browser.md
+        - Pause: Module_Manager/pause.md
+        - Video Player: Module_Manager/videoplayer.md
+        - Share Price: Module_Manager/shareprice.md
+        - Slideshow: Module_Manager/slideshow.md
+        - External Source: Module_Manager/externalsource.md
+      - Multiview Module:
+        - Storyboard: Module_Manager/storyboard.md
+        - Input Selector: Module_Manager/inputselector.md
+        - Challenges: Module_Manager/challenges.md
+        
     - Asset Browser: assetbrowser.md
     - Session Workflow: sessionworkflow.md
     - Toolbox Workflow: toolboxworkflow.md
@@ -18,7 +35,8 @@ pages:
   - Showroom:
     - Showroom Übersicht: showroom.md
     - Home Screen: homescreen.md
-    - Agenda: agenda.md
+    #- Agenda: agenda.md
+    - Agenda: agendaalternate.md
     - Disc: disc.md
 
 plugins:

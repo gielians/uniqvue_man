@@ -9,7 +9,7 @@
 
 ## System Übersicht
 
-![SystemÜbersicht](img/SystemOverviewSW.png)
+![SystemÜbersicht](img/Overview/SystemOverviewSW.png)
 
 
 **Manager:** 
