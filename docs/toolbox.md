@@ -9,7 +9,7 @@ Die *Toolbox List*
 ![Placeholder](img/ToolboxList.PNG) 
 
 
-Das *Toolbox List* Fenster unterteilt sich in drei Bereiche. Hier zur besseren übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
+Das *Toolbox List* Fenster unterteilt sich in drei Bereiche. Hier zur besseren Übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
 
 Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der *Toolbox*. *Toolboxes* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
 
@@ -50,7 +50,7 @@ Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 * **Presentation und System:**
 
-    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.
+    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in Ihre Show über die Toolbox verfügbar gemacht werden.
 
 * **Repository:**
 
@@ -58,7 +58,7 @@ Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
     -  **Confidential:** 
 
-        Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Durch Eingabe einer Pin werden diese wieder freigegeben.</li>
+        Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Dieser lässt sich dauerhaft einrasten. Durch Eingabe einer von Ihnen definierten Pin werden dann die Inhalte wieder freigegeben.</li>
 
     - **Frame Manager:**
 
@@ -70,11 +70,11 @@ Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
         Erzeugt einen Screenshot des gesamten Showrooms.
 
     - **Paint:**
-        Freies zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
+        Freies Zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
 
 * **Frame Preview:**
 
-    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.
+    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallerie daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt werden, welches dann im Showroom angezeigt wird.
 
 * **Property Editor:**
 

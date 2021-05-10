@@ -28,7 +28,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 
 **Erstellen eines neuen Styles:**  
 
-Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen sie zum Style Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen des zu bearbeitenden Styles. Beliebig viele Tabs also Styles können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Style Namen, um einen Indikator dafür zu liefern, ob ein Style noch ungespeicherte Änderungen enthält. Zu sehen sind jetzt mehrere Spalten mit verschiedenen Eigenschaften.
+Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen Sie zum Style Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen des zu bearbeitenden Styles. Beliebig viele Tabs also Styles können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Style Namen, um einen Indikator dafür zu liefern, ob ein Style noch ungespeicherte Änderungen enthält. Zu sehen sind jetzt mehrere Spalten mit verschiedenen Eigenschaften.
  ***
 Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafischen Elemente des Showrooms auflisten:
 <ul>
@@ -45,7 +45,7 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafisch
 
 **Einen Style anpassen:** 
 
-Nehmen sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen nach Belieben vor. Dabei sind die Namen der einzelnen Eigenschaften quasi selbsterklärend. Bei den Fontgrößen beudeutet 1 = maximale Skalierung. Die maximale größe ist festgelegt und kann nicht geändert werden.
+Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen nach Belieben vor. Dabei sind die Namen der einzelnen Eigenschaften quasi selbsterklärend. Bei den Fontgrößen beudeutet 1 = maximale Skalierung. Die maximale größe ist festgelegt und kann nicht geändert werden.
 
 **Icons verknüpfen:** 
 
@@ -56,7 +56,7 @@ Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich *Asset Browser*, u
 
 **Styles Speichern und benennen:** 
 
-Ist der Style nach ihren Wünschen angepasst muss dieser gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird der Style gespeichert. Navigieren sie zurück in die Style List hier können sie durch Doppelklick auf den Namen des Listeneintrags den Namen ihres Styles ändern.
+Ist der Style nach Ihren Wünschen angepasst muss dieser gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird der Style gespeichert. Navigieren Sie zurück in die Style List hier können Sie durch Doppelklick auf den Namen des Listeneintrags den Namen ihres Styles ändern.
 
 **Style freigeben:** 
 
@@ -65,5 +65,5 @@ Der Listeneintrag eines jeden Styles enthält die Spalte ‘Released’. Durch s
 
 **Tipps und Tricks**
 
-Sie können einzelne Attribute im *Style Editor* mit den Tastenkombinationen `STRG + C` und `STRG + V` in den Zwischenspeicher kopieren und wieder einfügen. Hovern sie dafür mit der Maus über den Namen des entsprechenden Attributs.
+Sie können einzelne Attribute im *Style Editor* mit den Tastenkombinationen `STRG + C` und `STRG + V` in den Zwischenspeicher kopieren und wieder einfügen. Hovern Sie dafür mit der Maus über den Namen des entsprechenden Attributs.
 
