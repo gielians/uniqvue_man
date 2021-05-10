@@ -2,7 +2,7 @@
 
 
 
-![Placeholder](img/SessionEditor_ModuleFocused.PNG) 
+![SessionEditor](img/Manager/SessionEditor_ModuleFocused.PNG) 
 
 
 
@@ -46,7 +46,7 @@ Alle folgenden Module sind Singleview Module. Ihre individuellen Eigenschaften s
 
 ## Browser Modul
 
-![Placeholder](img/Browser_Module.PNG) 
+![Placeholder](img/Manager/Module/Browser_Module.PNG) 
 
 Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation ein.
 
@@ -64,7 +64,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 ***
 <!--- ## HTML Modul
 
-![Placeholder](img/HTML_Module.PNG) 
+![Placeholder](img/Manager/Module/HTML_Module.PNG) 
 
 Das HTML-Modul ist dazu da eben solche Inhalte im Showroom anzuzeigen. 
 
@@ -79,7 +79,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 ***
 ## Bullet List Modul
 
-![Placeholder](img/Bullet List_Module.PNG) 
+![Placeholder](img/Manager/Module/Bullet List_Module.PNG) 
 
 Listen Sie wichtige Punkte in einer Bullet List auf.
 
@@ -96,7 +96,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 
 ## Title Modul
 
-![Placeholder](img/Titel_Module.PNG) 
+![Placeholder](img/Manager/Module/Titel_Module.PNG) 
 
 Führen Sie in ein Thema mit einer Überschrift, dem Title Modul ein oder heißen Sie die Teilnehmer der Session Willkommen.
 
@@ -108,7 +108,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 ***
 ## Pause Modul
 
-![Placeholder](img/Pause_Module.PNG) 
+![Placeholder](img/Manager/Module/Pause_Module.PNG) 
 
 Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
@@ -129,7 +129,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 
 ## Videoplayer Modul
 
-![Placeholder](img/Videoplayer_Module.PNG) 
+![VideoplayerModul](img/Manager/Module/Videoplayer_Module.PNG) 
 
 Binden sie Videos in ihre Präsentation ein, mit diesem Modul.
 
@@ -149,7 +149,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 ***
 ## Share Price Modul
 
-![Placeholder](img/Share Price_Module.PNG) 
+![SharePriceModul](img/Manager/Module/Share Price_Module.PNG) 
 
 Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.
 
@@ -164,7 +164,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 ***
 ## Slide Show Modul
 
-![Placeholder](img/Slideshow_Module.PNG) 
+![Placeholder](img/Manager/Module/Slideshow_Module.PNG) 
 
 Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbinden. Durch Wischen lässt sich das nächste Bild anzeigen.
 
@@ -184,7 +184,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 ***
 ## External Source Modul
 
-![Placeholder](img/External Source_Module.PNG) 
+![Placeholder](img/Manager/Module/External Source_Module.PNG) 
 
 Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertragen..
 
@@ -202,7 +202,7 @@ Je nach Setup des Showrooms verhalten sich die Multiview Module anders. Das wirk
 ***
 ## Storyboard Modul
 
-![Placeholder](img/Storyboard_Module.PNG)  ![Placeholder](img/Storyboard Right_Module.PNG) 
+![Placeholder](img/Manager/Module/Storyboard_Module.PNG)  ![Placeholder](img/Manager/Module/Storyboard Right_Module.PNG) 
 
 Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slides an, die mit einer Wischgeste nach rechts und links bewegt werden können. Ein Slide welches so bewegt wurde sammelt sich entsprechend rechts oder links in einem Fenster, und ordnet sich in einem Gitter an. 
 
@@ -227,7 +227,7 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 
 Ähnlich wie das Modul *External Source* können hier jedoch mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf Ihr Displaysetup verteilt werden.
 
-![Placeholder](img/Inputselector_Module.PNG) 
+![Placeholder](img/Manager/Module/Inputselector_Module.PNG) 
 
 * Input Source 01 - 06 - Hier lassen sich bis zu vier Quellen auswählen und in verschiedenen Layouts darstellen.
 

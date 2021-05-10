@@ -1,7 +1,7 @@
 # Toolbox Workflow 
 
   
-![Placeholder](img/ToolboxList_Crop.PNG) 
+![ToolboxList](img/Manager/ToolboxList_Crop.PNG) 
 ***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach eine Toolbox bearbeiten, erstellen, duplizieren oder löschen. 
 
@@ -19,7 +19,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </ul>
 ***
 
-![Placeholder](img/ToolboxEditor-NewToolbox.PNG) 
+![ToolboxEditor](img/Manager/ToolboxEditor_NewToolbox.PNG) 
 
 
 **Erstellen einer neuen Toolbox:**  
@@ -70,13 +70,13 @@ Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
 
-![Toolbox_MainMenu](img/Toolbox_MainMenu.PNG)
+![Toolbox_MainMenu](img/Manager/Toolbox_MainMenu.PNG)
 
-![Toolbox_DefaultSub](img/Toolbox_DefaultSub.PNG)
+![Toolbox_DefaultSub](img/Manager/Toolbox_DefaultSub.PNG)
 
 Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über den Bereich ‘Frame Preview’ und platzieren Sie es.
 
-![Toolbox_DragDrop](img/Toolbox_DragDrop.PNG)
+![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.PNG)
 
 **Inhalte verknüpfen:** 
 

@@ -6,7 +6,7 @@ Hier finden sie einen allgemeinen Überblick zu *Toolboxes*.
  
 Die *Toolbox List*
 
-![Placeholder](img/ToolboxList.PNG) 
+![Placeholder](img/Manager/ToolboxList.PNG) 
 
 
 Das *Toolbox List* Fenster unterteilt sich in drei Bereiche. Hier zur besseren Übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
@@ -38,7 +38,7 @@ Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der Toolb
 Der *Toolbox Editor*
 
 
-![ToolboxEditor](img/ToolboxEditor.PNG)
+![ToolboxEditor](img/Manager/ToolboxEditor.PNG)
 
 
 Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
