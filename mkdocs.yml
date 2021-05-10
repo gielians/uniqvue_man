@@ -10,7 +10,7 @@ pages:
     - Toolboxes: toolbox.md
     - Team Gallery: teamgallery.md
     - Styles: styles.md
-    #- Module: module.md
+      #    - Module: module.md
     
     - Module:
       - Übersicht: modulesoverview.md
@@ -35,7 +35,7 @@ pages:
   - Showroom:
     - Showroom Übersicht: showroom.md
     - Home Screen: homescreen.md
-    #- Agenda: agenda.md
+      #    - Agenda: agenda.md
     - Agenda: agendaalternate.md
     - Disc: disc.md
 
