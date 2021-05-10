@@ -24,7 +24,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 
 **Erstellen einer neuen Toolbox:**  
 
-Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Toolbox’ Button gelangen sie zum Toolbox Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen der zu bearbeitenden Toolbox. Beliebig viele Tabs also Toolboxes können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Toolbox Namen, um einen Indikator dafür zu liefern, ob eine Toolbox noch ungespeicherte Änderungen enthält. Zu sehen ist jetzt eine Repräsentation der Toolbox mit einigen voreingestellten Funktionen. Die Konfiguration ihrer Toolbox können sie hier jetzt anpassen. 
+Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Toolbox’ Button gelangen Sie zum Toolbox Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen der zu bearbeitenden Toolbox. Beliebig viele Tabs also Toolboxes können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Toolbox Namen, um einen Indikator dafür zu liefern, ob eine Toolbox noch ungespeicherte Änderungen enthält. Zu sehen ist jetzt eine Repräsentation der Toolbox mit einigen voreingestellten Funktionen. Die Konfiguration ihrer Toolbox können Sie hier jetzt anpassen. 
  ***
 Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
 
@@ -34,7 +34,7 @@ Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 * **Presentation und System:**
 
-    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.
+    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die Sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in ihre Show über die Toolbox verfügbar gemacht werden.
 
 * **Repository:**
 
@@ -68,29 +68,29 @@ Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 **Eine Toolbox anpassen:** 
 
-Im Bereich ‘Presentation’ klicken sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
+Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
 
 ![Toolbox_MainMenu](img/Toolbox_MainMenu.PNG)
 
 ![Toolbox_DefaultSub](img/Toolbox_DefaultSub.PNG)
 
-Wählen sie das leere Element aus. Ziehen sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über den Bereich ‘Frame Preview’ und platzieren sie es.
+Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über den Bereich ‘Frame Preview’ und platzieren Sie es.
 
 ![Toolbox_DragDrop](img/Toolbox_DragDrop.PNG)
 
 **Inhalte verknüpfen:** 
 
-Das platzierte Modul ist nun mit Inhalten zu verknüpfen. Klicken sie auf das Modul in der ‘Frame View’. Der ‘Property Editor’ zeigt nun alle einstellbaren Eigenschaften dieses Moduls an. Inhalte wie Bilder, Videos usw. werden durch den *Asset Browser* verfügbar gemacht. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich dieser. In Kapitel *Asset Browser* gibt es eine detaillierte Erklärung wie dieser funktioniert. 
+Das platzierte Modul ist nun mit Inhalten zu verknüpfen. Klicken Sie auf das Modul in der ‘Frame View’. Der ‘Property Editor’ zeigt nun alle einstellbaren Eigenschaften dieses Moduls an. Inhalte wie Bilder, Videos usw. werden durch den *Asset Browser* verfügbar gemacht. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich dieser. In Kapitel *Asset Browser* gibt es eine detaillierte Erklärung wie dieser funktioniert. 
 
 **Menus benennen:** 
 
-Nachdem sie ihre Menus mit Modulen und Inhalt gefüllt haben, sollten sie diese Sinnvoll benennen. Durch Doppelklick auf den Namen eines Elementes in der Hierarchie, können sie ihren Menüs und Untermenüs Namen vergeben und so sinnvoll strukturieren.  
+Nachdem Sie ihre Menus mit Modulen und Inhalt gefüllt haben, sollten Sie diese Sinnvoll benennen. Durch Doppelklick auf den Namen eines Elementes in der Hierarchie, können Sie ihren Menüs und Untermenüs Namen vergeben und so sinnvoll strukturieren.  
 
 **Speichern:** 
 
-Ist die Toolbox nach ihren Wünschen angepasst muss diese gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die Toolbox gespeichert.  
+Ist die Toolbox nach ihren Wünschen angepasst muss diese gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die Toolbox gespeichert.  
 
 **Toolbox freigeben:** 
 
-Nach dem sie gespeichert haben, navigieren sie zurück in die Toolbox List und ändern sie den Namen der Toolbox durch Doppelklick auf den Namen des Listeneintrags. Der Listeneintrag einer jeden Toolbox enthält die Spalte ‘Released’. Durch setzen des Hakens wird die Toolbox nun der Liste der verfügbaren Toolboxes angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel *Session Workflow* wird das genauer erklärt.  
+Nach dem Sie gespeichert haben, navigieren Sie zurück in die Toolbox List und ändern Sie den Namen der Toolbox durch Doppelklick auf den Namen des Listeneintrags. Der Listeneintrag einer jeden Toolbox enthält die Spalte ‘Released’. Durch setzen des Hakens wird die Toolbox nun der Liste der verfügbaren Toolboxes angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel *Session Workflow* wird das genauer erklärt.  
 

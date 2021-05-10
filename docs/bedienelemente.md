@@ -15,4 +15,4 @@ In jeder Listenansicht befinden sich folgende Bedienelemte am linken, oberen Ran
 <ul>
 
 
-
+Die Icons dieser Liste finden sich im Session Manager in jeder Ebene an dieser Stelle wieder.

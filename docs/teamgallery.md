@@ -12,7 +12,7 @@ Die *Team Gallery List*
 
 Ausgangspunkt zum Erstellen eines Teams ist die *Team Gallery List*. Dieses Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Team Gallery*. Rechts daneben befindet sich der *Team Gallery Inspector*. 
 
-Die *Team Gallery List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der Team Gallery. Ein Teams können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
+Die *Team Gallery List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der Team Gallery List. Teams können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
 
  
 1.    **Name** - Name des Teams. Durch Doppelklick kann dieser geändert werden. 
@@ -45,7 +45,7 @@ Der *Team Editor*
  
 Der *Team Editor* ist in zwei Bereiche aufgeteilt, dem geöffneten Tab des zu bearbeitenden Teams als Listenansicht und dem *Member Inspector*, oben farbig umrandet. 
 
-Durch klicken des Icons mit dem Dokument und dem Pluszeichen wir ein neues Temmitglied erstellt. 
+Durch Klicken des Icons mit dem Dokument und dem Pluszeichen wir ein neues Temmitglied erstellt. 
 
 Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammitglieds eingstellt werden. Folgende Eigenschaften gibt es:
 

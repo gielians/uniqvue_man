@@ -6,7 +6,7 @@
 
 
 
-*Module* treten an verschiedenen Stellen im *Session Manager* auf. In der *Session* sind alle vorhanden, um eine *Agenda* zu füllen. Die Toolboxmodule sind entsprechend in der Toolboxkonfiguration zu finden. In Kapitel **Toolbox** wird darauf detailliert eingegangen. 
+*Module* treten an verschiedenen Stellen im *Session Manager* auf. Der *Session Editor* hält alle Module bereit, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Kapitel **Toolbox** wird darauf detailliert eingegangen. 
 
 
 
@@ -42,7 +42,6 @@ Alle Singleview Module haben konsistente, allgemeine Eigenschaften, die hier auf
 Alle folgenden Module sind Singleview Module. Ihre individuellen Eigenschaften sind zudem aufgelistet. 
 ***
 
-<a name="pookie"></a>
 
 
 ## Browser Modul
@@ -59,7 +58,7 @@ Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation e
 
 •    Bookmarks 01 - 05 - Hier stehen 5 Bookmarks zur Verfügung, denen man auch URLs vergeben kann, diese werden als kleine Icons generiert und oben rechts im Browserfenster angezeigt und dienen der direkten Wahl. 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Browser](agenda.md#browser).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Browser](agenda.md#browser).
 
 
 ***
@@ -74,24 +73,24 @@ Das HTML-Modul ist dazu da eben solche Inhalte im Showroom anzuzeigen.
 •    Transparancy - Der gesetzte Haken schaltet den Hintergrund Transparent. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[HTML](agenda.md#html).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[HTML](agenda.md#html).
 --->
 
 ***
-## Bulletlist Modul
+## Bullet List Modul
 
 ![Placeholder](img/Bullet List_Module.PNG) 
 
-Listen sie wichtige Punkte in einer Bulletlist auf.
+Listen Sie wichtige Punkte in einer Bullet List auf.
 
-•    Title - Hier kann der Titel für die Bulletlist vergeben werden. 
-
-
-
-•    Bullet - In einem internen Texteditor können Bulletpoints erzeugt werden. 
+•    Title - Hier kann der Titel für die Bullet List vergeben werden. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](agenda.md#bullet-list).
+
+•    Bullet - In einem internen Texteditor können Bullet Points erzeugt werden. 
+
+
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](agenda.md#bullet-list).
 
 ***
 
@@ -99,12 +98,12 @@ Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Ab
 
 ![Placeholder](img/Titel_Module.PNG) 
 
-Führen sie in ein Thema mit einer Überschrift, dem Title Modul ein.
+Führen Sie in ein Thema mit einer Überschrift, dem Title Modul ein oder heißen Sie die Teilnehmer der Session Willkommen.
 
-•    Title - Über den internen Texteditor kann eine Title geschrieben werden. 
+•    Title - Über den internen Texteditor kann ein Titel geschrieben werden. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Title](agenda.md#title).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Title](agenda.md#title).
 
 ***
 ## Pause Modul
@@ -117,14 +116,14 @@ Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
 
 
-•    Bullet -  Über den internen Texteditor können Bulletpoints erzeugt werden. 
+•    Bullet -  Über den internen Texteditor können Bullet Points erzeugt werden. 
 
 
 
 •    Timer – Im Timer wird die Länge der Pause festgelegt.  
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Pause](agenda.md#pause).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Pause](agenda.md#pause).
 
 ***
 
@@ -145,7 +144,7 @@ Binden sie Videos in ihre Präsentation ein, mit diesem Modul.
 •    Repeat Video - Ist der Haken gesetzt läuft das Video in Schleife. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Videoplayer](agenda.md#videoplayer).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Videoplayer](agenda.md#videoplayer).
 
 ***
 ## Share Price Modul
@@ -161,7 +160,7 @@ Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in 
 An dieser Stelle sei erwähnt das maximal 5 Abfragen pro Minute und 500 Abfragen pro Tag gemacht werden können. 
 Informationen über die erweiterte Nutzung dieses Services gibt es auf Anfrage. 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Share Price](agenda.md#share-price).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Share Price](agenda.md#share-price).
 
 ***
 ## Slide Show Modul
@@ -178,10 +177,10 @@ Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbin
 
 
 
-•    Navigation Inside Frame – Ein gesetzteer Haken zeigt die Navigation im Bild an. 
+•    Navigation Inside Frame – Ein gesetzter Haken zeigt die Navigation im Bild an. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow](agenda.md#slideshow).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow](agenda.md#slideshow).
 
 ***
 ## External Source Modul
@@ -193,12 +192,12 @@ Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertrag
 •    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[External Source](agenda.md#external-source).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[External Source](agenda.md#external-source).
 
 ***
 ## Multiview Module
 
-Je nach Setup des Showrooms verhalten sich die Multiview Module anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das Modul in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit dem Showroom-Setup möglich sind. Grundsätzlich gilt: Multiview Module haben mehr als ein Fenster und halten dadurch zusätzliche Funktionen bereit. 
+Je nach Setup des Showrooms verhalten sich die Multiview Module anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das Modul in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit Ihrem Showroom-Setup möglich sind. Grundsätzlich gilt: Multiview Module haben mehr als ein Fenster und halten dadurch zusätzliche Funktionen bereit. 
 
 
 ***
@@ -206,7 +205,7 @@ Je nach Setup des Showrooms verhalten sich die Multiview Module anders. Das wirk
 
 ![Placeholder](img/Storyboard_Module.PNG)  ![Placeholder](img/Storyboard Right_Module.PNG) 
 
-Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slides an, die mit einer Wischgeste nach rechts und links bewegt werden können. Ein Slide welches so bewegt wurde sammelt sich entsprechend rechts oder links in einem Fenster, und ordnet sich in einem Gitter ein. 
+Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slides an, die mit einer Wischgeste nach rechts und links bewegt werden können. Ein Slide welches so bewegt wurde sammelt sich entsprechend rechts oder links in einem Fenster, und ordnet sich in einem Gitter an. 
 
 
 
@@ -221,13 +220,13 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 •    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](agenda.md#storyboard).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](agenda.md#storyboard).
 
 ***
 
 ## Input Selector Modul Optional
 
-Ähnlich wie das Modul *External Source* können hier jedoch mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf ihr Displaysetup verteilt werden.
+Ähnlich wie das Modul *External Source* können hier jedoch mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf Ihr Displaysetup verteilt werden.
 
 ![Placeholder](img/Inputselector_Module.PNG) 
 
@@ -236,7 +235,7 @@ Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Ab
 * Show Menü
 
 
-Informationen wie das Modul verwendet wird, finden sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](agenda.md#input-selector).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](agenda.md#input-selector).
 
 ***
 ## Challanges Modul Optional 

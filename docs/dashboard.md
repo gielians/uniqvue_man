@@ -11,7 +11,7 @@ Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Ma
 
 ![SessionHierarchie](img/Session_Diagramm.png) 
 
-Ganz grundsätzlich ist eine *Session* das Übergeordnete Objekt sozusagen der Ursprung, welches weitere Objekte, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team in sich beherbergt. Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
+Ganz grundsätzlich ist eine *Session* das übergeordnete Objekt sozusagen der Ursprung, welches weitere Objekte, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team in sich beherbergt. Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
 Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. In Kapitel [Session](sessions.md) gibt es einen Überblick und in Kapitel [Session Workflow](sessionworkflow.md) wird erläutert wie man damit arbeitet.
 
 
@@ -28,12 +28,11 @@ Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um au
 
 
 
-Darstellung des Teams mit nützlichen Informationen zum Team und den Team Membern. Erstellen und Konfigurieren von verschiedenen Teams in der [Team Gallery](teamgallery.md). 
+Personalisieren Sie die Session Ihrer Taskforce und stellen Sie dazu ein entsprechendes Team zusammen. Ein Team kann mit nützlichen Informationen zu den einzelnen Team Membern angereichert werden. Erstellen und Konfigurieren von verschiedenen Teams wird in Kapitel [Team Gallery](teamgallery.md) erläutert. 
 
 
 ***
 ## Styles 
 
 
-
-Erstellen und Konfigurieren des “Look and Feels” einer Session. In Kapitel [Styles](styles.md) gibt es einen Überblick und in Kapitel [Style Workflow](styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 
+Der Style definiert das gesamte Erscheinungsbild Ihrer Session bzw. des Schowrooms. Erstellen und Konfigurieren Sie “Look and Feel” einer Session. In Kapitel [Styles](styles.md) gibt es einen Überblick und in Kapitel [Style Workflow](styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 
