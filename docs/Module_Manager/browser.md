@@ -1,5 +1,5 @@
 
-![BrowserModul](uniqvue_man/docs/img/Manager/Module/Browser_Module.png)
+![BrowserModul](../img/Manager/Module/Browser_Module.png)
 
 Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation ein.
 
