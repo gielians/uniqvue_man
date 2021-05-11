@@ -1,6 +1,6 @@
 # Asset Browser
 
-![Placeholder](img/Manager/AssetBrowser.PNG)
+![Assetbrowser](img/Manager/AssetBrowser.PNG)
 
 ***
 
@@ -17,5 +17,7 @@ Zur besseren Übersicht sind die Bereiche oben farbig umrandet. Der *Asset Brows
 Der *Asset Browser* öffnet sich an allen Stellen im *Session Manager*, an denen Sie auf den Button mit der Beschriftung 'Browse' klicken. Der *Asset Browser* verhält sich konsistent und ist kontextbezogen. Das bedeutet zum einen, dass der *Asset Browser* automatisch nach entsprechenden Dateien filtert. Möchte Sie zum Beispiel ein Video im Modul 'Video' laden, so werden auch nur Videodateien angezeigt. Entsprechend werden keine Bild- oder Audiodateien angezeigt. Zum anderen zeigt der *Asset Browser* an, wo er geöffnet wurde. Öffnen Sie ihn beim Bearbeiten einer *Toolbox*, so befindet sich der *Asset Browser* innerhalb dieser Ebene. Der Name der aktuellen Bearbeitungsebene (*Toolbox*, *Session*, *Style* oder *Team*) wird links in der Ordnerstruktur angezeigt. Oben im Bild sieht man, das 'New Session' geöffnet ist, entprechend ist unter **Current Folder** ebenfalls 'New Session' als übergeordnetes Verzeichnis zu sehen. Das ist sozusagen der Dateienpool speziell für diese Session.
 
 Verknüpfen Sie ein Asset aus den Ordnern 'Public' oder 'User' im Verzeichnis **Repository**, ändert sich der Button 'Select File', unten rechts im Asset Browser zu 'Add & Select File'. Das hat den Hintergrund, dass hier lediglich eine Referenz erzeugt wird! Die Ordner 'Public' und 'User' sind dafür gedacht allgemein zugängliche Daten wie bspw. einen Imagefilm verfügbar zu halten. Daten aus diesen Ordnern werden also nicht in eine Session importiert. Für den Fall jedoch, dass ein Original später im 'Public' Ordner gelöscht werden sollte, bleibt das zugewiesene Asset in einer *Session, Toolbox, Style* davon unberührt! 
+
+![AessetBrowserVerzeichnisse](img/Manager/Gifs/Assetbrowser_AddAndSelect.gif)
 
 

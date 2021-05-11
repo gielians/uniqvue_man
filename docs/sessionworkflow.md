@@ -1,8 +1,10 @@
 # Session Workflow
 
 
-
+<!---
 ![SessionList](img/Manager/SessionList_Crop.PNG)
+--->
+
 
 ***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach eine Session bearbeiten, erstellen, duplizieren oder löschen. 
@@ -22,12 +24,13 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 ***
 **Erstellen einer neuen Session:**  
 
-Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie der *Session* einen Namen geben. Diese *Session* ist zunächst leer. Sie enthält außer einem Default *Style* und einer Default *Toolbox* keine weiteren Inhalte. Das können Sie jetzt ändern, indem Sie auf den Stift zum Bearbeiten der *Session* klicken. Alternativ kann die *Session*, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leitet weiter zum *Session Editor*. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden *Session* trägt. Beliebig viele Tabs also *Sessions* können gleichzeitig geöffnet sein. Das Sternsymbol (‘\*’) erscheint außerdem im *Session* Namen, um einen Indikator dafür zu liefern, ob eine *Session* noch ungespeicherte Änderungen enthält.
+![SessionList](img/Manager/Gifs/SessionList_Workflow.gif)
+
+Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie der *Session* einen Namen geben. Diese *Session* ist zunächst leer. Sie enthält außer einem Default *Style* und einer Default *Toolbox* keine weiteren Inhalte. Das können Sie jetzt ändern, indem Sie auf den Stift zum Bearbeiten der *Session* klicken. Alternativ kann die *Session*, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leiten weiter zum *Session Editor*. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden *Session* trägt. Beliebig viele Tabs also *Sessions* können gleichzeitig geöffnet sein. Das Sternsymbol (‘\*’) erscheint außerdem im *Session* Namen, um einen Indikator dafür zu liefern, ob eine *Session* noch ungespeicherte Änderungen enthält.
 ***
-
+<!---
 ![SessionEditor](img/Manager/SessionEditor_AgendItemFocused.PNG) 
-
-
+--->
 
 
 
@@ -69,13 +72,13 @@ Zur Erinnerung - Der *Session Editor* besteht aus vier Bereichen:
 
 Im *Agenda Tree* füllen Sie nun ihre *Agenda* mit Punkten. Um einen neuen Punkt in der Hierarchie zu erstellen, drücken Sie den Button ‘Add Agenda Item’. Durch Doppelklick auf den Namen des neu erstellten Agenda-Punktes, kann dieser geändert werden. Im *Agenda Item Editor* erscheint nun ein neues Element, welches das Display Setup des *Showrooms* repräsentiert. Unter einem Agenda-Punkt können Sie zudem weitere Agenda-Unterpunkte erzeugen. In der Hierarchie der *Agenda* werden Unterpunkte eingerückt dargestellt.  
 ***
-
+![SessionWorkflow](img/Manager/Gifs/Agenda_Anlegen.gif)
 
 **Die Agenda mit Modulen füllen:**  
 
 Ziehen Sie aus dem *Agenda Repository* Module ihrer Wahl per Drag and Drop in ein Element im *Agenda Item Editor*. Entsprechend des Display Setups können Module innerhalb des Elements platziert werden. So können mehrere Module auf verschiedene Displays verteilt sein. Füllen Sie so ihre gesamte *Agenda*. 
 ***
-
+![SessionWorkflow](img/Manager/Gifs/Agenda_Fuellen.gif)
 
 **Module mit Inhalten füllen:** 
 
@@ -87,7 +90,7 @@ Klicken Sie auf ein Modul innerhalb des *Agenda Item Editor*. Der *Property Edit
 
 Ist die *Agenda* nach ihren Wünschen gefüllt muss diese gespeichert werden. Wie erwähnt zeigt das Sternsymbol im Tab (‘\*’) an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination `STRG + S` wird die *Agenda* gespeichert. 
 ***
-
+![SessionWorkflow](img/Manager/Gifs/Release_Session.gif)
 
 **Eine Toolbox, einen Style und ein Team der Session zuweisen:** 
 
@@ -97,6 +100,7 @@ Nach dem Speichern navigieren Sie zurück in die *Session Liste*. Der Listeneint
 **Sessions organisieren und freigeben:** 
 
 Vergeben Sie in der Spalte ‘Category’ ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel [Showroom](showroom.md) wird u.a. erläutert, wie Sie *Sessions* laden können.
+
 
 ***
 **Tipps und Tricks:**

@@ -2,7 +2,7 @@
 
 
 
-![DashboardOverview](img/Manager/Dashboard.PNG) 
+![DashboardOverview](img/Manager/Gifs/Dashboard.gif) 
 
 Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie in das Dashboard. Hier zu sehen sind die Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen großen "Bausteine" führen, aus denen sich eine Session zusammensetzt.
 
