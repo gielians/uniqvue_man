@@ -1,4 +1,4 @@
-![VideoplayerModul](/img/Manager/Module/Videoplayer_Module.PNG) 
+![VideoplayerModul](../img/Manager/Module/Videoplayer_Module.PNG) 
 
 Binden sie Videos in ihre Präsentation ein, mit diesem Modul.
 

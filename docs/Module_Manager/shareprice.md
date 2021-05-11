@@ -1,5 +1,5 @@
 
-![SharePriceModul](/img/Manager/Module/Share Price_Module.PNG) 
+![SharePriceModul](../img/Manager/Module/Share_Price_Module.PNG) 
 
 Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.
 

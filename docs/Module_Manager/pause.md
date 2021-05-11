@@ -1,4 +1,4 @@
-![PauseModul](/img/Manager/Module/Pause_Module.PNG) 
+![PauseModul](../img/Manager/Module/Pause_Module.PNG) 
 
 Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
