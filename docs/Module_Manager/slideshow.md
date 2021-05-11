@@ -1,4 +1,4 @@
-![SlideShowModul](/img/Manager/Module/Slideshow_Module.PNG) 
+![SlideShowModul](../img/Manager/Module/Slideshow_Module.PNG) 
 
 Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbinden. Durch Wischen lässt sich das nächste Bild anzeigen.
 

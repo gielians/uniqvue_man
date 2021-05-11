@@ -1,4 +1,5 @@
-![ExternalSourceModul](/img/Manager/Module/External Source_Module.PNG) 
+
+![ExternalSourceModul](../img/Manager/Module/External_Source_Module.PNG) 
 
 Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertragen..
 

@@ -1,5 +1,5 @@
 
-![BulletListModul](/img/Manager/Module/Bullet List_Module.PNG) 
+![BulletListModul](../img/Manager/Module/Bullet_List_Module.PNG) 
 
 Listen Sie wichtige Punkte in einer Bullet List auf.
 

@@ -1,4 +1,4 @@
-![TitleModul](/img/Manager/Module/Titel_Module.PNG) 
+![TitleModul](../img/Manager/Module/Titel_Module.PNG) 
 
 Führen Sie in ein Thema mit einer Überschrift, dem Title Modul ein oder heißen Sie die Teilnehmer der Session Willkommen.
 
