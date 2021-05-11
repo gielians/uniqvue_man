@@ -1,9 +1,6 @@
 
-<<<<<<< HEAD
-![BrowserModul](../img/Manager/Module/Browser_Module.png) 
-=======
-![BrowserModul](../img/Manager/Module/Browser_Module.png)
->>>>>>> fa949e6519033d60808767a0a9cbbd5352041441
+![BrowserModul](../img/Manager/Module/Browser_Module.PNG) 
+
 
 Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation ein.
 
