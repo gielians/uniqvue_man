@@ -1,6 +1,7 @@
 
 ![SharePriceModul](../img/Manager/Module/Share_Price_Module.PNG) 
 
+
 Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.
 
 •    Share Price Symbol – Durch Eingeben der WKN-Nummer eines Unternehmens wird der Share Price angezeigt. 
