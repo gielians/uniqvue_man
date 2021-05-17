@@ -1,6 +1,6 @@
 # Asset Browser
 
-![Assetbrowser](img/Manager/AssetBrowser.PNG)
+![Assetbrowser](../img/Manager/AssetBrowser_2.PNG)
 
 ***
 
@@ -18,6 +18,12 @@ Der *Asset Browser* öffnet sich an allen Stellen im *Session Manager*, an denen
 
 Verknüpfen Sie ein Asset aus den Ordnern 'Public' oder 'User' im Verzeichnis **Repository**, ändert sich der Button 'Select File', unten rechts im Asset Browser zu 'Add & Select File'. Das hat den Hintergrund, dass hier lediglich eine Referenz erzeugt wird! Die Ordner 'Public' und 'User' sind dafür gedacht allgemein zugängliche Daten wie bspw. einen Imagefilm verfügbar zu halten. Daten aus diesen Ordnern werden also nicht in eine Session importiert. Für den Fall jedoch, dass ein Original später im 'Public' Ordner gelöscht werden sollte, bleibt das zugewiesene Asset in einer *Session, Toolbox, Style* davon unberührt! 
 
-![AessetBrowserVerzeichnisse](img/Manager/Gifs/Assetbrowser_AddAndSelect.gif)
+<!---
+![AessetBrowserVerzeichnisse](../img/Manager/Gifs/Assetbrowser_AddAndSelect.gif)
+--->
 
-
+<div class="row post-image-bg" markdown="1">
+    <video width="99%" height="540" autoplay loop muted markdown="1">
+        <source src="../img/Manager/Gifs/Assetbrowser_AddAndSelect.webm" type="video/webm" markdown="1">
+    </video>
+</div>

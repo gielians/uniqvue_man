@@ -1,8 +1,7 @@
 # Toolbox Workflow 
 
   
-![ToolboxList](img/Manager/ToolboxList_Crop.PNG) 
-***
+
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach eine Toolbox bearbeiten, erstellen, duplizieren oder löschen. 
 
 Zur Erinnerung noch einmal Icons und ihre Funktion: 
@@ -19,12 +18,19 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </ul>
 ***
 
-![ToolboxEditor](img/Manager/ToolboxEditor_NewToolbox.PNG) 
+
 
 
 **Erstellen einer neuen Toolbox:**  
-
+<!---
+![ToolboxList](../img/Manager/Gifs/Disc_Create.gif) 
+--->
+<video width="99%" height="140" autoplay loop muted markdown="1">
+    <source src="../img/Manager/Gifs/Disc_Create.webm" type="video/webm" markdown="1">
+</video>
 Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Toolbox’ Button gelangen Sie zum Toolbox Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen der zu bearbeitenden Toolbox. Beliebig viele Tabs also Toolboxes können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Toolbox Namen, um einen Indikator dafür zu liefern, ob eine Toolbox noch ungespeicherte Änderungen enthält. Zu sehen ist jetzt eine Repräsentation der Toolbox mit einigen voreingestellten Funktionen. Die Konfiguration ihrer Toolbox können Sie hier jetzt anpassen. 
+
+![ToolboxEditor](../img/Manager/Toolbox_Editor.PNG)
  ***
 Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
 
@@ -69,18 +75,23 @@ Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 **Eine Toolbox anpassen:** 
 
 Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
-
+<!---
 ![Toolbox_MainMenu](img/Manager/Toolbox_MainMenu.PNG)
 
 ![Toolbox_DefaultSub](img/Manager/Toolbox_DefaultSub.PNG)
+--->
+Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über das neue Element im Bereich 'Presentation' und platzieren Sie es. Alternativ können sie Module in den Bereich ‘Frame Preview’ ziehen und platzieren.
 
-Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul ihrer Wahl über den Bereich ‘Frame Preview’ und platzieren Sie es.
+<video width="99%" height="540" autoplay loop muted markdown="1">
+    <source src="../img/Manager/Gifs/Disc_Configure.webm" type="video/webm" markdown="1">
+</video>
 
+<!---
 ![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.PNG)
-
+--->
 **Inhalte verknüpfen:** 
 
-Das platzierte Modul ist nun mit Inhalten zu verknüpfen. Klicken Sie auf das Modul in der ‘Frame View’. Der ‘Property Editor’ zeigt nun alle einstellbaren Eigenschaften dieses Moduls an. Inhalte wie Bilder, Videos usw. werden durch den *Asset Browser* verfügbar gemacht. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich dieser. In Kapitel *Asset Browser* gibt es eine detaillierte Erklärung wie dieser funktioniert. 
+Das platzierte Modul ist nun mit Inhalten zu verknüpfen. Klicken Sie auf das Modul in der ‘Frame View’. Der ‘Property Editor’ zeigt nun alle einstellbaren Eigenschaften dieses Moduls an. Inhalte wie Bilder, Videos usw. werden durch den *Asset Browser* verfügbar gemacht. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich dieser. In Kapitel [Asset Browser](assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
 
 **Menus benennen:** 
 

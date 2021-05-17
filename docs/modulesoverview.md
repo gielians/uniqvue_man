@@ -2,7 +2,7 @@
 
 
 
-![SessionEditor](img/Manager/SessionEditor_ModuleFocused.PNG) 
+![SessionEditor](../img/Manager/Overview.PNG) 
 
 
 
