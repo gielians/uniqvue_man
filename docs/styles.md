@@ -4,7 +4,7 @@ Ein Style ist für jede Session obligatorisch. Das heißt, ein Style muss zwinge
  
  Die *Style List*  
 
-![Placeholder](img/Manager/StyleList.PNG) 
+![Placeholder](../img/Manager/StyleList.PNG) 
 
 
 Das *Style List* Fenster unterteilt sich in drei Bereiche. Ganz links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Styles*. Rechts daneben befindet sich der *Style Inspector*. 
@@ -35,7 +35,7 @@ Der Style Inspector auf der rechten Seite zeigt das Logo etwas größer.
 
 Mit dem ‘Edit Style’ Button gelangt man in die Bearbeitungsebene des Styles. 
 
-![StyleEditor](img/Manager/StyleEditor.PNG)
+![StyleEditor](../img/Manager/Style_Editor.PNG)
 
 
 Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafischen Elemente des Showrooms auflisten:

@@ -1,8 +1,13 @@
-# Dashboard 
+# Dashboard
 
 
+<!---
+![DashboardOverview](../img/Manager/Gifs/Dashboard.gif) 
+--->
 
-![DashboardOverview](img/Manager/Dashboard.PNG) 
+<video width="99%" height="540" autoplay loop muted markdown="1">
+    <source src="../img/Manager/Gifs/Dashboard.webm" type="video/webm" markdown="1">
+</video>
 
 Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie in das Dashboard. Hier zu sehen sind die Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen großen "Bausteine" führen, aus denen sich eine Session zusammensetzt.
 

@@ -3,7 +3,7 @@
 Nachdem Sie eine Session geladen und gestartet haben, befinden Sie sich nun in der Session. An der rechten und linken Seite Ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von Ihnen erstellten Session. In den Kapiteln [Session](sessions.md) und [Session Workflow](sessionworkflow.md) finden sie detaillierte Informationen was Sessions sind und wie Sie welche erstellen. Die Agenda ist das Navigationstool um durch Ihre Präsentation zu führen. Durch Berühren des entsprechenden Punktes in der Agenda gelangen Sie an die entsprechende Stelle in ihrer Präsentation.
 
 
-![AgendaRoadmap](img/Showroom/Disc_Gifs/Agenda_InOut.gif)
+![AgendaRoadmap](../img/Showroom/Disc_Gifs/Agenda_InOut.gif)
 
 Module, die Sie zuvor im Manager zu ihrer Agenda hinzugefügt haben werden hier schließlich mit den von Ihnen verknüpften Inhalten visualisiert. Alle Module die Sie auf Seite des Managers zu ihrer Agenda hinzufügen können, finden Sie in Kapitel [Module](module.md). Im Folgenden sind hier die Module auf Seite des Showrooms aufgelistet und mit beispielhaften Inhalten gefüllt:
 ***
@@ -13,14 +13,14 @@ Mit dem *Title* Modul führen Sie in neue Themen ein.
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Title](Module_Manager/title.md).
 
 
-![Agenda Modul](img/Showroom/Agenda_Headline.png)
+![Agenda Modul](../img/Showroom/Agenda_Headline.png)
 ***
 ## Bullet List
 
 Das *Bullet List* Modul ist eine Auflistung von Stichpunkten.
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Bullet List](Module_Manager/bulletlist.md).
 
-![Agenda Modul](img/Showroom/Agenda_Bulletlist.png)
+![Agenda Modul](../img/Showroom/Agenda_Bulletlist.png)
 ***
 
 ## Videoplayer
@@ -28,7 +28,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 Das *Videoplayer* Modul bindet ein beliebiges Video in Ihre Präsentation ein. Durch Toucheingabe lässt sich durch das Video scrollen. Darüber hinaus haben Sie die Möglichkeit über die *Disc* durch die einzelnen Frames des Video zu navigieren. In Kapitel [Disc](disc_showroom.md) finden Sie eine detaillierte Beschreibung, wie Sie mit der Disc umgehen.  
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Videoplayer](Module_Manager/videoplayer.md).
 
-![Agenda Modul](img/Showroom/Agenda_Videoplayer.png)
+![Agenda Modul](../img/Showroom/Agenda_Videoplayer.png)
 
 ***
 ## Browser
@@ -36,7 +36,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 Das Modul *Browser* macht Ihnen den Chrome Browser in Ihrer Präsentation verfügbar. 
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Browser](Module_Manager/browser.md).
 
-![Agenda Modul](img/Showroom/Agenda_Browser.png)
+![Agenda Modul](../img/Showroom/Agenda_Browser.png)
 
 ***
 <!---
@@ -54,7 +54,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 Das *Slideshow* Modul ist eine Bildergallerie, die per Wischgeste bedient wird. 
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Slideshow](Module_Manager/slideshow.md).
 
-![Agenda Modul](img/Showroom/Agenda_Slideshow.png)
+![Agenda Modul](../img/Showroom/Agenda_Slideshow.png)
 ***
 ## Storyboard
 

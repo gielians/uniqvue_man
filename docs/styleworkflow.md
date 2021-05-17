@@ -1,9 +1,6 @@
 # Style Workflow
 
 
-![StyleList](img/Manager/StyleList_Crop.PNG)
-
-***
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach einen Style bearbeiten, erstellen, duplizieren oder löschen. 
 
 Zur Erinnerung noch einmal Icons und ihre Funktion: 
@@ -19,14 +16,15 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 <li>Mit dem Mülleimersymbol löscht man einen ausgewählten Style. </p></li>
 </ul>
 ***
-
-![Placeholder](img/Manager/StyleEditor.PNG)
-
-
-***
  
 
 **Erstellen eines neuen Styles:**  
+<!---
+![StyleList](../img/Manager/Gifs/Style_Create.gif)
+--->
+<video width="99%" height="540" autoplay loop muted markdown="1">
+    <source src="../img/Manager/Gifs/Style_Create.webm" type="video/webm" markdown="1">
+</video>
 
 Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen Sie zum Style Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen des zu bearbeitenden Styles. Beliebig viele Tabs also Styles können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Style Namen, um einen Indikator dafür zu liefern, ob ein Style noch ungespeicherte Änderungen enthält. Zu sehen sind jetzt mehrere Spalten mit verschiedenen Eigenschaften.
  ***
@@ -40,6 +38,8 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafisch
 </p>
 <li> <b>3D Background</b></p></li>
 </ul>
+
+![Placeholder](../img/Manager/Style_Editor.PNG)
 
 ***
 
