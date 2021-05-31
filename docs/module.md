@@ -58,7 +58,7 @@ Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation e
 
 •    Bookmarks 01 - 05 - Hier stehen 5 Bookmarks zur Verfügung, denen man auch URLs vergeben kann, diese werden als kleine Icons generiert und oben rechts im Browserfenster angezeigt und dienen der direkten Wahl. 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Browser](agenda.md#browser).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Browser](agendaalternate.md#browser).
 
 
 ***

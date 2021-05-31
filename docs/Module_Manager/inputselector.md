@@ -7,4 +7,4 @@
 * Show Menü
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](/agenda/#input-selector).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](/agendaalternate/#input-selector).

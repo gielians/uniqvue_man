@@ -5,4 +5,4 @@ Führen Sie in ein Thema mit einer Überschrift, dem Title Modul ein oder heiße
 •    Title - Über den internen Texteditor kann ein Titel geschrieben werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Title](/agenda/#title).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Title](/agendaalternate/#title).

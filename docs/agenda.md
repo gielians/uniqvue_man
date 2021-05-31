@@ -3,9 +3,10 @@
 Nachdem Sie eine Session geladen und gestartet haben, befinden Sie sich nun in der Session. An der rechten und linken Seite Ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von Ihnen erstellten Session. In den Kapiteln [Session](sessions.md) und [Session Workflow](sessionworkflow.md) finden sie detaillierte Informationen was Sessions sind und wie Sie welche erstellen. Die Agenda ist das Navigationstool um durch Ihre Präsentation zu führen. Durch Berühren des entsprechenden Punktes in der Agenda gelangen Sie an die entsprechende Stelle in ihrer Präsentation.
 
 <video width="99%" height=920" autoplay loop muted markdown="1"> 
-      <source src="../img/Showroom/Disc_Gifs/Agenda_InOut" type="video/webm" markdown="1">
+      <source src="../img/Showroom/Disc_Gifs/Agenda_InOut.webm" type="video/webm" markdown="1">
  </video>
 
+ 
 Module, die Sie zuvor im Manager zu ihrer Agenda hinzugefügt haben werden hier schließlich mit den von Ihnen verknüpften Inhalten visualisiert. Alle Module die Sie auf Seite des Managers zu ihrer Agenda hinzufügen können, finden Sie in Kapitel [Module](module.md). Im Folgenden sind hier die Module auf Seite des Showrooms aufgelistet und mit beispielhaften Inhalten gefüllt:
 ***
 ## Title
@@ -39,21 +40,19 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 
 ![Agenda Modul](../img/Showroom/Agenda_Browser.png)
 
-<!---
-***
 
 ## HTML
 
 Das *HTML* Modul ist in der Lage HTML-Dateien in Ihre Präsentation einzubinden. Hier können Sie Beispielsweise klickbare Modelle von lokalen Websites in Entwicklung oder andere HTML-basierte Inhalte anzeigen.
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [HTML](module.md#html-modul).
 
-
+<!---
 ![Agenda Modul](img/Screenshots_Showroom/Agenda_HTML.png)
-
-
-![Agenda Modul](img/Showroom/Agenda_HTML.png)
-
 --->
+
+![Agenda Modul](../img/Showroom/Agenda_HTML.png)
+
+
 ***
 ## Slideshow
 

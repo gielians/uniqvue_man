@@ -16,4 +16,4 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 •    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](/agenda/#storyboard).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](/agendaalternate/#storyboard).

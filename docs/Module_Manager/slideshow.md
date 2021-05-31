@@ -13,4 +13,4 @@ Bildsequenzen oder eine Sammlung von Bildern lassen sich mit diesem Modul einbin
 •    Navigation Inside Frame – Ein gesetzter Haken zeigt die Navigation im Bild an. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow](/agenda/#slideshow).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow](/agendaalternate/#slideshow).

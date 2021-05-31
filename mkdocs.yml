@@ -18,6 +18,7 @@ pages:
         - Title: Module_Manager/title.md
         - Bullet List: Module_Manager/bulletlist.md
         - Browser: Module_Manager/browser.md
+        - HTML: Module_Manager/html.md
         - Pause: Module_Manager/pause.md
         - Video Player: Module_Manager/videoplayer.md
         - Share Price: Module_Manager/shareprice.md
@@ -35,7 +36,7 @@ pages:
   - Showroom:
     - Showroom Übersicht: showroom.md
     - Home Screen: homescreen.md
-      #    - Agenda: agenda.md
+    #- Agenda: agenda.md
     - Agenda: agendaalternate.md
     - Disc: disc.md
 
