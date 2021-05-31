@@ -34,11 +34,11 @@ Initial befindet sich in der *Toolbox List* der Eintrag ‘Default DISC’ mit v
 Der *Toolbox Inspector* auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
 
 Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der Toolbox, dem ‘Toolbox Editor’. 
-***
+
 Der *Toolbox Editor*
 
 
-![ToolboxEditor](img/Manager/ToolboxEditor.PNG)
+![ToolboxEditor](img/Manager/Toolbox_Editor.PNG)
 
 
 Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 

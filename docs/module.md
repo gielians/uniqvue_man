@@ -60,7 +60,6 @@ Das Browser Modul bindet Chrome als vollwertigen Browser in ihre Präsentation e
 
 Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Browser](agendaalternate.md#browser).
 
-
 ***
 <!--- ## HTML Modul
 
@@ -90,7 +89,7 @@ Listen Sie wichtige Punkte in einer Bullet List auf.
 •    Bullet - In einem internen Texteditor können Bullet Points erzeugt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](agenda.md#bullet-list).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](agendaalternate.md#bullet-list).
 
 ***
 
@@ -123,7 +122,7 @@ Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 •    Timer – Im Timer wird die Länge der Pause festgelegt.  
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Pause](agenda.md#pause).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Pause](agendaalternate.md#pause).
 
 ***
 
@@ -160,7 +159,7 @@ Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in 
 An dieser Stelle sei erwähnt das maximal 5 Abfragen pro Minute und 500 Abfragen pro Tag gemacht werden können. 
 Informationen über die erweiterte Nutzung dieses Services gibt es auf Anfrage. 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Share Price](agenda.md#share-price).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Share Price](agendaalternate.md#share-price).
 
 ***
 ## Slide Show Modul
@@ -192,7 +191,7 @@ Mit diesem Modul können sie eine externe Quelle in ihre Präsentation übertrag
 •    External Source - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[External Source](agenda.md#external-source).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[External Source](agendaalternate.md#external-source).
 
 ***
 ## Multiview Module
@@ -220,7 +219,7 @@ Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slide
 •    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](agenda.md#storyboard).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Storyboard](agendaalternate.md#storyboard).
 
 ***
 
