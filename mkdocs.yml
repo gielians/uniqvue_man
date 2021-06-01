@@ -36,7 +36,7 @@ pages:
   - Showroom:
     - Showroom Übersicht: showroom.md
     - Home Screen: homescreen.md
-    #- Agenda: agenda.md
+  # - Agenda: agenda.md
     - Agenda: agendaalternate.md
     - Disc: disc.md
 
