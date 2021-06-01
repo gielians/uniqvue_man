@@ -8,5 +8,5 @@ Das HTML-Modul kann HTML Inhalte darstellen.
 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[HTML](/agendaalternate/#html).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[HTML](../../agendaalternate/#html).
 

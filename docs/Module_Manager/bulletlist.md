@@ -10,4 +10,4 @@ Listen Sie wichtige Punkte in einer Bullet List auf.
 •    Bullet - In einem internen Texteditor können Bullet Points erzeugt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](/agendaalternate/#bullet-list).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bullet List](../../agendaalternate/#bullet-list).

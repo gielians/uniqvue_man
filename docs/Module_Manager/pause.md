@@ -13,4 +13,4 @@ Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 •    Timer – Im Timer wird die Länge der Pause festgelegt.  
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Pause](/agendaalternate/#pause).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Pause](../../agendaalternate/#pause).
