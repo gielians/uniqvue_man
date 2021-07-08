@@ -762,46 +762,47 @@
                   <h1>Netzwerk und Hardware</h1>
                 
                 <p>Uniqvue Netzwerk und Hardwarekomponenten</p>
-<p>Uniqvue besteht aus mindestens zwei PCs, die über ein Netzwerk verbunden sind. Einem hochspezialisierten Präsentationsarbeitsplatz, der alle Inhalte anzeigt und die Shows im Ausstellungsraum ausführt, und einem weniger spezifizierten Verwaltungs-PC, der alle Inhalte vorbereitet und speichert. Technisch gesehen kann die Verwaltungssoftware auch auf der Präsentations-Workstation laufen, aber es wird nicht empfohlen, da es sehr benutzerunfreundlich wäre, dies zu tun.
-Uniqvue kann an eine Vielzahl von AV-Komponenten angeschlossen werden, je nach den Anforderungen der installierten Umgebung. Zum Beispiel Raumsteuerungssysteme (Crestron oder AMX), VC-Codecs (Polycom, Cisco), DMX (Art-Net, sACN) Beleuchtung, Soundsysteme (Dante, Analog, AVB). Eine Internetverbindung wird empfohlen, um Echtzeitdaten anzuzeigen, Videokonferenzen durchzuführen, Fernwartungszugriff zu ermöglichen usw.
-Da die AV-Komponenten und der Internetzugang im gesicherten Firmennetzwerk möglicherweise nicht erlaubt sind, kann Uniqvue völlig unabhängig in seinem eigenen Netzwerk laufen. Zur Anzeige von Inhalten, die nur innerhalb des Firmennetzwerks zugänglich sind, gibt es eine Anzeige- und Steuerungslösung, die keine Verbindung des AV-Netzwerks mit dem Firmennetzwerk erfordert.
-Dies wird mit zwei Komponenten erreicht:
-Ein Firmen-PC (wir nennen ihn "Content-PC") Der Display-Output wird von einem HDMI-zu-NDI-Konverter erfasst und in das AV-Netzwerk weitergeleitet. Die Presenter Software auf der Presentation Workstation kann nun diese Displayausgabe als Bild im Bild darstellen.
-Um diesen Content-PC fernzusteuern, werden Tastatur- und Mauseingaben, die auf der Präsentations-Workstation auf das Bild im Bild erfolgen, an ein "HID Converter"-Gerät weitergeleitet, das über USB mit dem Content-PC verbunden ist. Der HID-Konverter meldet sich beim Content-PC als Standard-HID-Hardwaregerät (Tastatur, Maus, Touchscreen). Da es sich bei HID um einen System-Standardtreiber handelt, ist keine zusätzliche Software zur Steuerung des Content-PCs erforderlich.
-Uniqvue unterstützt die Anzeige und Steuerung mehrerer Displays pro PC und mehrerer PCs mit Auflösungen bis zu 3840x2160 Pixel.
-Hardware-Spezifikationen:
-Präsentations-Workstation:
-GPU: Nvidia Quadro RTX 6000 oder besser
-CPU: Intel Core i9 9700k oder besser (maximale Single-Thread-Leistung)
-RAM: mindestens 32GB Dual-Channel
-Speicher: mind. 512Gb SSD. Raid empfohlen. NVMe-Laufwerke empfohlen. Trennung von System- und Content-Laufwerk empfohlen.
-Netzwerk: min 1Gbit/s, 10Gbit/s empfohlen
-OS: Windows 10 englisch oder deutsch
-Management PC
-GPU: Nvidia Quadro P400 oder besser
-CPU: intel Core i5 9. Generation oder besser
-ARBEITSSPEICHER: 16GB
-Speicher: mindestens 512Gb SSD. Raid empfohlen. NVMe-Laufwerke empfohlen. Trennung von System- und Content-Laufwerk empfohlen.
-Netzwerk: mindestens 1Gbit/s, 10Gbit/s empfohlen
-OS: Windows 10 englisch oder deutsch
-Uniqvue Presenter Beschränkungen:
-Auflösung: 24,8 Mpixels (3x4k Display oder äquivalent), kombiniert zu einer Displaygruppe (Nvidia Mosaic)
-Maximal 4 Displayausgänge (können aufgeteilt werden, um Displaywände zu versorgen)
-32 NDI-Eingänge (4 4k60Hz oder 16 FullHD60Hz Eingänge gleichzeitig)
-Uniqvue-Software-Komponenten</p>
-<p>Server:
-Der Uniqvue Server ist die zentrale Verwaltungskomponente in Uniqvue. Er ist ein Windows-Dienst, der im Hintergrund läuft und auf den der Benutzer nicht direkt zugreifen kann. Der Server verwendet eine SQlite-Datenbank, um alle Konfigurationen zu speichern, und einen Dateisystemordner, um verschlüsselte Asset-Dateien zu speichern, die von Benutzern hinzugefügt wurden.
-Manager:
-Der Uniqvue Manager ist eine Windows-Anwendung zur Vorbereitung von Shows und zur Verwaltung der mit dem Presenter angezeigten Inhalte. Uniqvue Manager läuft auf demselben Rechner wie Uniqvue Server.
-Asset-Speicherung:
-Uniqvue AssetStorage ist eine kleine System-Tray-Anwendung, die auf der Präsentations-Workstation läuft. Sie verbindet sich mit dem Server (TCP Port 5001) und kopiert alle freigegebenen Inhalte aus dem verschlüsselten Dateispeicher auf die Präsentations-Workstation und macht sie dem Presenter zugänglich.
-Präsentator:
-Der Uniqvue Presenter ist die Ausspielsoftware, die im Vorführraum angezeigt wird. Er verbindet sich mit dem Server (TCP Port 5001), um die vorbereiteten Shows zu holen und anzuzeigen. Auf eingebettete Assets wird direkt über das Uniqvue AssetStorage zugegriffen.</p>
-<p>Verwendete Software-Umgebungen:
-Server: C# ASP.Net 5, SQlite Datenbank
-Manager: C# .NetCore 3.1 WPF
-Asset-Speicherung: C# .NetCore 5
-Präsentator: Ventuz Runtime Enterprise </p>
+<p>Uniqvue besteht aus mindestens zwei PCs, die über ein Netzwerk verbunden sind. Einem hochspezialisierten Präsentationsarbeitsplatz, der alle Inhalte anzeigt und die Shows im Ausstellungsraum ausführt, und einem weniger spezifizierten Verwaltungs-PC, der alle Inhalte vorbereitet und speichert. Technisch gesehen kann die Verwaltungssoftware auch auf der Präsentations-Workstation laufen, aber es wird nicht empfohlen, da es sehr benutzerunfreundlich wäre, dies zu tun.</p>
+<p>Uniqvue kann an eine Vielzahl von AV-Komponenten angeschlossen werden, je nach den Anforderungen der installierten Umgebung. Zum Beispiel Raumsteuerungssysteme (Crestron oder AMX), VC-Codecs (Polycom, Cisco), DMX (Art-Net, sACN) Beleuchtung, Soundsysteme (Dante, Analog, AVB). Eine Internetverbindung wird empfohlen, um Echtzeitdaten anzuzeigen, Videokonferenzen durchzuführen, Fernwartungszugriff zu ermöglichen usw.</p>
+<p>Da die AV-Komponenten und der Internetzugang im gesicherten Firmennetzwerk möglicherweise nicht erlaubt sind, kann Uniqvue völlig unabhängig in seinem eigenen Netzwerk laufen. Zur Anzeige von Inhalten, die nur innerhalb des Firmennetzwerks zugänglich sind, gibt es eine Anzeige- und Steuerungslösung, die keine Verbindung des AV-Netzwerks mit dem Firmennetzwerk erfordert.</p>
+<p>Dies wird mit zwei Komponenten erreicht:</p>
+<p>Ein Firmen-PC (wir nennen ihn "Content-PC") Der Display-Output wird von einem HDMI-zu-NDI-Konverter erfasst und in das AV-Netzwerk weitergeleitet. Die Presenter Software auf der Presentation Workstation kann nun diese Displayausgabe als Bild im Bild darstellen.</p>
+<p>Um diesen Content-PC fernzusteuern, werden Tastatur- und Mauseingaben, die auf der Präsentations-Workstation auf das Bild im Bild erfolgen, an ein "HID Converter"-Gerät weitergeleitet, das über USB mit dem Content-PC verbunden ist. Der HID-Konverter meldet sich beim Content-PC als Standard-HID-Hardwaregerät (Tastatur, Maus, Touchscreen). Da es sich bei HID um einen System-Standardtreiber handelt, ist keine zusätzliche Software zur Steuerung des Content-PCs erforderlich.</p>
+<p>Uniqvue unterstützt die Anzeige und Steuerung mehrerer Displays pro PC und mehrerer PCs mit Auflösungen bis zu 3840x2160 Pixel.</p>
+<p>Hardware-Spezifikationen:</p>
+<p>Präsentations-Workstation:</p>
+<p>GPU: Nvidia Quadro RTX 6000 oder besser</p>
+<p>CPU: Intel Core i9 9700k oder besser (maximale Single-Thread-Leistung)</p>
+<p>RAM: mindestens 32GB Dual-Channel</p>
+<p>Speicher: mind. 512Gb SSD. Raid empfohlen. NVMe-Laufwerke empfohlen. Trennung von System- und Content-Laufwerk empfohlen.</p>
+<p>Netzwerk: min 1Gbit/s, 10Gbit/s empfohlen</p>
+<p>OS: Windows 10 englisch oder deutsch</p>
+<p>Management PC</p>
+<p>GPU: Nvidia Quadro P400 oder besser</p>
+<p>CPU: intel Core i5 9. Generation oder besser</p>
+<p>ARBEITSSPEICHER: 16GB</p>
+<p>Speicher: mindestens 512Gb SSD. Raid empfohlen. NVMe-Laufwerke empfohlen. Trennung von System- und Content-Laufwerk empfohlen.</p>
+<p>Netzwerk: mindestens 1Gbit/s, 10Gbit/s empfohlen</p>
+<p>OS: Windows 10 englisch oder deutsch</p>
+<p>Uniqvue Presenter Beschränkungen:</p>
+<p>Auflösung: 24,8 Mpixels (3x4k Display oder äquivalent), kombiniert zu einer Displaygruppe (Nvidia Mosaic)</p>
+<p>Maximal 4 Displayausgänge (können aufgeteilt werden, um Displaywände zu versorgen)
+k
+32 NDI-Eingänge (4 4k60Hz oder 16 FullHD60Hz Eingänge gleichzeitig)</p>
+<p>Uniqvue-Software-Komponenten</p>
+<p>Server:</p>
+<p>Der Uniqvue Server ist die zentrale Verwaltungskomponente in Uniqvue. Er ist ein Windows-Dienst, der im Hintergrund läuft und auf den der Benutzer nicht direkt zugreifen kann. Der Server verwendet eine SQlite-Datenbank, um alle Konfigurationen zu speichern, und einen Dateisystemordner, um verschlüsselte Asset-Dateien zu speichern, die von Benutzern hinzugefügt wurden.</p>
+<p>Manager:</p>
+<p>Der Uniqvue Manager ist eine Windows-Anwendung zur Vorbereitung von Shows und zur Verwaltung der mit dem Presenter angezeigten Inhalte. Uniqvue Manager läuft auf demselben Rechner wie Uniqvue Server.</p>
+<p>Asset-Speicherung:</p>
+<p>Uniqvue AssetStorage ist eine kleine System-Tray-Anwendung, die auf der Präsentations-Workstation läuft. Sie verbindet sich mit dem Server (TCP Port 5001) und kopiert alle freigegebenen Inhalte aus dem verschlüsselten Dateispeicher auf die Präsentations-Workstation und macht sie dem Presenter zugänglich.</p>
+<p>Präsentator:</p>
+<p>Der Uniqvue Presenter ist die Ausspielsoftware, die im Vorführraum angezeigt wird. Er verbindet sich mit dem Server (TCP Port 5001), um die vorbereiteten Shows zu holen und anzuzeigen. Auf eingebettete Assets wird direkt über das Uniqvue AssetStorage zugegriffen.</p>
+<p>Verwendete Software-Umgebungen:</p>
+<p>Server: C# ASP.Net 5, SQlite Datenbank</p>
+<p>Manager: C# .NetCore 3.1 WPF</p>
+<p>Asset-Speicherung: C# .NetCore 5</p>
+<p>Präsentator: Ventuz Runtime Enterprise </p>
                 
               
               
