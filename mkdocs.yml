@@ -39,6 +39,8 @@ pages:
   # - Agenda: agenda.md
     - Agenda: agendaalternate.md
     - Disc: disc.md
+  - Technische Spezifikation:
+    - Netzwerk und Hardware: tecspec.md
 
 plugins:
   - search
