@@ -773,7 +773,7 @@
 <p><strong>Uniqvue</strong> besteht aus mindestens zwei PCs, die über ein Netzwerk verbunden sind. Einem hochspezialisierten Präsentationsarbeitsplatz, der alle Inhalte anzeigt und die Shows im Ausstellungsraum ausführt, und einem weniger spezifizierten Verwaltungs-PC, der alle Inhalte vorbereitet und speichert. Technisch gesehen kann die Verwaltungssoftware auch auf der Präsentations-Workstation laufen, aber es wird nicht empfohlen, da es sehr benutzerunfreundlich wäre, dies zu tun.</p>
 <p><strong>Uniqvue </strong>kann an eine Vielzahl von AV-Komponenten angeschlossen werden, je nach den Anforderungen der installierten Umgebung. Zum Beispiel Raumsteuerungssysteme (Crestron oder AMX), VC-Codecs (Polycom, Cisco), DMX (Art-Net, sACN) Beleuchtung, Soundsysteme (Dante, Analog, AVB). Eine Internetverbindung wird empfohlen, um Echtzeitdaten anzuzeigen, Videokonferenzen durchzuführen, Fernwartungszugriff zu ermöglichen usw.</p>
 <p>Da die AV-Komponenten und der Internetzugang im gesicherten Firmennetzwerk möglicherweise nicht erlaubt sind, kann Uniqvue völlig unabhängig in seinem eigenen Netzwerk laufen. Zur Anzeige von Inhalten, die nur innerhalb des Firmennetzwerks zugänglich sind, gibt es eine Anzeige- und Steuerungslösung, die keine Verbindung des AV-Netzwerks mit dem Firmennetzwerk erfordert.</p>
-<p>Dies wird mit zwei Komponenten erreicht:</p>
+<p><strong>Dies wird mit zwei Komponenten erreicht</strong>:</p>
 <p>Ein Firmen-PC (wir nennen ihn "Content-PC") Der Display-Output wird von einem HDMI-zu-NDI-Konverter erfasst und in das AV-Netzwerk weitergeleitet. Die Presenter Software auf der Presentation Workstation kann nun diese Displayausgabe als Bild im Bild darstellen.</p>
 <p>Um diesen Content-PC fernzusteuern, werden Tastatur- und Mauseingaben, die auf der Präsentations-Workstation auf das Bild im Bild erfolgen, an ein "HID Converter"-Gerät weitergeleitet, das über USB mit dem Content-PC verbunden ist. Der HID-Konverter meldet sich beim Content-PC als Standard-HID-Hardwaregerät (Tastatur, Maus, Touchscreen). Da es sich bei HID um einen System-Standardtreiber handelt, ist keine zusätzliche Software zur Steuerung des Content-PCs erforderlich.</p>
 <p><strong>Uniqvue </strong>unterstützt die Anzeige und Steuerung mehrerer Displays pro PC und mehrerer PCs mit Auflösungen bis zu 3840x2160 Pixel.</p>
@@ -793,12 +793,12 @@
 <p><strong>Netzwerk</strong>: mindestens 1Gbit/s, 10Gbit/s empfohlen</p>
 <p><strong>OS</strong>: Windows 10 englisch oder deutsch</p>
 <p><strong>Uniqvue Presenter Beschränkungen</strong>:</p>
-<p>Auflösung: 24,8 Mpixels (3x4k Display oder äquivalent), kombiniert zu einer Displaygruppe (Nvidia Mosaic)</p>
+<p><strong>Auflösung</strong>:24,8 Mpixels (3x4k Display oder äquivalent), kombiniert zu einer Displaygruppe (Nvidia Mosaic)</p>
 <p>Maximal 4 Displayausgänge (können aufgeteilt werden, um Displaywände zu versorgen)
 k
 32 NDI-Eingänge (4 4k60Hz oder 16 FullHD60Hz Eingänge gleichzeitig)</p>
 <h1 id="uniqvue-software-komponenten">Uniqvue-Software-Komponenten</h1>
-<p><img alt="Software Komponenten" src="ing/textspec/UniqVueKomponenten2.png" /></p>
+<p><img alt="Software Komponenten" src="ing/tecspec/UniqVueKomponenten2.png" /></p>
 <p><strong>Server</strong>:</p>
 <p>Der Uniqvue Server ist die zentrale Verwaltungskomponente in Uniqvue. Er ist ein Windows-Dienst, der im Hintergrund läuft und auf den der Benutzer nicht direkt zugreifen kann. Der Server verwendet eine SQlite-Datenbank, um alle Konfigurationen zu speichern, und einen Dateisystemordner, um verschlüsselte Asset-Dateien zu speichern, die von Benutzern hinzugefügt wurden.</p>
 <p><strong>Manager</strong>:</p>
