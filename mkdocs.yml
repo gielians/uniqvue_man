@@ -44,7 +44,7 @@ pages:
 
 plugins:
   - search
-  - pdf-export
+    # - pdf-export
 markdown_extensions:
   - attr_list
 theme:
