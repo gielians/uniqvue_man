@@ -3,6 +3,8 @@
 
 Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das Center Fenster zeigt Slides an, die mit einer Wischgeste nach rechts und links bewegt werden können. Ein Slide welches so bewegt wurde sammelt sich entsprechend rechts oder links in einem Fenster, und ordnet sich in einem Gitter an. 
 
+•    Background Image - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser. 
+
 
 
 •    Slide Folder - Öffnet den Asset Browser, um einen Pfad zum Ordner mit den Slides auszuwählen. 

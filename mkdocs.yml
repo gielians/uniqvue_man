@@ -23,9 +23,11 @@ pages:
         - Video Player: Module_Manager/videoplayer.md
         - Share Price: Module_Manager/shareprice.md
         - Slideshow: Module_Manager/slideshow.md
+        - Slideshow+: Module_Manager/slideshowplus.md
         - External Source: Module_Manager/externalsource.md
       - Multiview Module:
         - Storyboard: Module_Manager/storyboard.md
+        - Storyboard+: Module_Manager/storyboardplus.md
         - Input Selector: Module_Manager/inputselector.md
         - Challenges: Module_Manager/challenges.md
         

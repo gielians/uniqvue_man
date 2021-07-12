@@ -54,7 +54,16 @@ Das *Slideshow* Modul ist eine Bildergallerie, die per Wischgeste bedient wird.
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Slideshow](Module_Manager/slideshow.md).
 
 ![Agenda Modul](../img/Showroom/Agenda_Slideshow.png)
+
 ***
+## Slideshow+
+
+Das *Slideshow+* Modul ist eine Erweiterung der einfachen Slideshow. Neben Bildern können auch Videos in der Slideshow+ enthalten sein, die per Wischgeste bedient wird. 
+Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Slideshow+](Module_Manager/slideshowplus.md).
+
+![Agenda Modul](../img/Showroom/Agenda_Slideshowplus.PNG)
+***
+
 ## Storyboard
 
 Das *Storyboard* Modul ist ein hilfreiches Tool um Bspw. ganze Bildsequenzen auf Ihrem Displaysetup auszulegen um einen besseren Überblick zubekommen. Per Wischgeste lassen sich die einzelnen Bilder aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
@@ -63,6 +72,15 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 ![Agenda Modul](img/Showroom/Agenda_Storyboard-1.png)
 ![Agenda Modul](img/Showroom/Agenda_Storyboard-2.png)
 ***
+
+## Storyboard+
+
+Das *Storyboard+* Modul ist eine erweiterte Version des einfachen Storyboards. Es beinhaltet mehr Features. Neben Bildern lassen sich auch Videos einem Storyboard zuweisen. Per Wischgeste lassen sich die einzelnen Bilder und Videos aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
+Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Storyboard](Module_Manager/storyboardplus.md).
+
+![Agenda Modul](img/Showroom/Agenda_Storyboardplus.PNG)
+***
+
 ## Input Selector
 
 Das *Input Selector* Modul ist in der Lage bis zu 4 externe Quellen, also Bildschirme anderer Geräte, live in die Präsentation einzubinden.
