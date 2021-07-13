@@ -10,16 +10,16 @@ Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen.
 <div style="display: flex; justify-content: space-between;">
 
 <div>
-        <img src="/img/Manager/Module/Storyboardplus_PropertyEditor.PNG" />
+        <img src="../img/Manager/Module/Storyboardplus_PropertyEditor.PNG" />
 </div>
 
 <ul>
-    <li><div><img src="/img/Manager/Module/Storyboardplus_Icon_Folder.PNG" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
+    <li><div><img src="../img/Manager/Module/Storyboardplus_Icon_Folder.PNG" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
     <li><div>
-        <img src="/img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
+        <img src="../img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
     </div></li>
-    <li><div><img src="/img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
-    <li><div><img src="/img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
+    <li><div><img src="../img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
+    <li><div><img src="../img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
 </ul>
 
 
