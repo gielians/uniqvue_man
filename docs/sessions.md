@@ -7,10 +7,11 @@ Hier finden sie einen allgemeinen Überblick zu *Sessions*.
 
 *Die Session List* 
 
-![SessionList](img/Manager/SessionList_Highlighted.PNG) 
+![SessionList](img/Manager/SessionListNew_Highlighted.PNG) 
 
 
-Das *Session List* Fenster unterteilt sich in drei Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen [Bedienelemente](bedienelemente.md). In der Mitte befindet sich das Hauptfenster mit der Listenansicht der Sessions. Rechts daneben befindet sich der *Session Inspector*.
+Das *Session List* Fenster unterteilt sich in vier Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen [Bedienelemente](bedienelemente.md). Daneben befindet sich eine Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar. 
+Das Hauptfenster besteht aus der Listenansicht der Sessions. Rechts daneben befindet sich der *Session Inspector*.
 Am oberen rechten Rand befindet sich ein Suchfeld, über das eine Session gesucht werden kann. Die Eingabe ist sensitiv und filtert dynamisch die Listen entsprechend ihrer Eingabe. 
 
 Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft einer *Session*. *Sessions* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden.  

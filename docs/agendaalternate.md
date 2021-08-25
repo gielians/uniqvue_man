@@ -46,15 +46,16 @@ Das *HTML* Modul ist in der Lage HTML-Dateien in Ihre Präsentation einzubinden.
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [HTML](Module_Manager/html.md).
 
 ![Agenda Modul](../img/Showroom/Agenda_HTML_2.png)
-
+<!--
 ***
+
 ## Slideshow
 
 Das *Slideshow* Modul ist eine Bildergallerie, die per Wischgeste bedient wird. 
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Slideshow](Module_Manager/slideshow.md).
 
 ![Agenda Modul](../img/Showroom/Agenda_Slideshow.png)
-
+-->!
 ***
 ## Slideshow+
 
@@ -63,7 +64,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 
 ![Agenda Modul](../img/Showroom/Agenda_Slideshowplus.PNG)
 ***
-
+<!--
 ## Storyboard
 
 Das *Storyboard* Modul ist ein hilfreiches Tool um Bspw. ganze Bildsequenzen auf Ihrem Displaysetup auszulegen um einen besseren Überblick zubekommen. Per Wischgeste lassen sich die einzelnen Bilder aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
@@ -72,7 +73,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 ![Agenda Modul](img/Showroom/Agenda_Storyboard-1.png)
 ![Agenda Modul](img/Showroom/Agenda_Storyboard-2.png)
 ***
-
+-->
 ## Storyboard+
 
 Das *Storyboard+* Modul ist eine erweiterte Version des einfachen Storyboards. Es beinhaltet mehr Features. Neben Bildern lassen sich auch Videos einem Storyboard zuweisen. Per Wischgeste lassen sich die einzelnen Bilder und Videos aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
@@ -97,10 +98,19 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 ***
 ## Share Price
 
-Das *Share Price Modul* bieten ihnen die Möglichkeit einen Börsenkurs eines beliebiegen Unternehmens in ihrer Präsentation grafisch darzustellen.
+Das *Share Price* Modul bieten ihnen die Möglichkeit einen Börsenkurs eines beliebiegen Unternehmens in ihrer Präsentation grafisch darzustellen.
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Share Price](Module_Manager/shareprice.md).
 
 ![Agenda Modul](img/Showroom/Agenda_SharePrice.png)
+
+
+## Bar Chart
+Das *Bar Chart* Modul bietet ihnen ein einfaches Tool um schnell animierte Balkendiagramme zu erstellen. Bis zu Balken können dargestellt werden.
+
+Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Bar Chart](Module_Manager/barchart.md).
+
+![Agenda Modul](img/Showroom/Agenda_SharePrice.png)
+
 ***
 ## Pause
 

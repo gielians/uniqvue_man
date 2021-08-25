@@ -1,6 +1,9 @@
 ![SlideShowModul](../img/Manager/Module/Slideshowplus_Module.PNG) 
 
-Sammlungen von Videos und Bildern lassen sich mit diesem Modul einbinden. Durch Wischen lässt sich das nächste Element anzeigen.
+Sammlungen von bis zu 50 Videos und Bildern lassen sich mit diesem Modul einbinden.
+Das Modul wird im Showroom über Wischgesten gesteuert.
+
+
 
 
 •    Background Image - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser. 
@@ -19,14 +22,15 @@ Sammlungen von Videos und Bildern lassen sich mit diesem Modul einbinden. Durch 
 
 
 
-•    Show Navigation - Der gesetzte Haken zeigt die Navigation an 
+•    Show Navigation - Der gesetzte Haken zeigt die Navigation an. 
 
 
 
 •    Navigation Inside Frame Slides – Ein gesetzter Haken zeigt die Navigation im Bild an. 
 
 
-Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente dargestellt. Die Reihenfolge der Elemente können via Drag and Drop verändert werden. Elemente können zudem gezielt dupliziert, gelöscht oder eingefügt werden.
+Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Über den Assetbrowser lässt sich entweder ein ganzer Ordner mit Elementen auswählen, oder eine gezielte Multiauswahl wird getroffen. Die funktionalität der Auswahl verhält sich, wie es unter Windows der Fall ist (Strg + Auswahl, Shift + Auswahl).
+Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente dargestellt. Die Reihenfolge der Elemente können via Drag and Drop verändert werden. Elemente können zudem gezielt dupliziert, gelöscht oder eingefügt werden.
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -46,5 +50,5 @@ Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen.
 
 </div>
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../../agendaalternate/#slideshow_1).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../../agendaalternate/#slideshow).
 

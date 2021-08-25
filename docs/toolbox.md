@@ -6,10 +6,11 @@ Hier finden sie einen allgemeinen Überblick zu *Toolboxes*.
  
 Die *Toolbox List*
 
-![Placeholder](img/Manager/ToolboxList.PNG) 
+![Placeholder](img/Manager/ToolboxListNew.PNG) 
 
 
-Das *Toolbox List* Fenster unterteilt sich in drei Bereiche. Hier zur besseren Übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente. In der Mitte befindet sich das Hauptfenster mit der Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
+Das *Toolbox List* Fenster unterteilt sich in vier Bereiche. Hier zur besseren Übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente.
+Daneben befindet sich eine Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse. Das öffentliche Verzeichniss ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar. Das Hauptfenster ist die Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
 
 Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der *Toolbox*. *Toolboxes* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
 
