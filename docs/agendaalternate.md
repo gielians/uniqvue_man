@@ -109,7 +109,7 @@ Das *Bar Chart* Modul bietet ihnen ein einfaches Tool um schnell animierte Balke
 
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Bar Chart](Module_Manager/barchart.md).
 
-![Agenda Modul](img/Showroom/Agenda_SharePrice.png)
+![Agenda Modul](img/Showroom/Agenda_BarChart.PNG)
 
 ***
 ## Pause
