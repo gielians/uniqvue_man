@@ -1,6 +1,6 @@
 # Toolboxes 
 
-Eine Toolbox oder auch DISC ist für jede Session obligatorisch. Das heißt, sie muss zwingend einer Session zugewiesen sein. Die Toolbox ist das zentrale Bedienungstool und wird in jeder Phase in der Arbeit mit dem Showrooms zugänglich sein. Sie können die Toolbox individuell an ihren Workflow aus einem Repertoire an Funktionen und nützlichen Tools anpassen. 
+Eine *Toolbox* oder auch *DISC* ist für jede Session obligatorisch. Das heißt, sie muss zwingend einer *Session* zugewiesen sein. Die *Toolbox* ist das zentrale Bedienungswerkzeug und ist in jeder Phase in der Arbeit mit dem Showrooms zugänglich. Sie können die *Toolbox* individuell an ihren Workflow aus einem Repertoire an Funktionen und nützlichen Tools anpassen. 
  
 Hier finden sie einen allgemeinen Überblick zu *Toolboxes*.
  
@@ -16,11 +16,11 @@ Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert
 
  
 
-1.    **Name** - Name der Toolbox. Durch Doppelklick kann dieser geändert werden. 
+1.    **Name** - Name der *Toolbox*. Durch Doppelklick kann dieser geändert werden. 
 
  
 
-2.    **Date** - Beim Erstellen einer Toolbox wird automatisch das aktuelle Datum vergeben. Das hilft die Toolboxes nach Datum zu sortieren und wiederzufinden. 
+2.    **Date** - Beim Erstellen einer *Toolbox* wird automatisch das aktuelle Datum vergeben. Das hilft die *Toolboxes* nach Datum zu sortieren und wiederzufinden. 
 
  
 
@@ -28,13 +28,13 @@ Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert
 
  
 
-4.    **Released** - Toolboxes, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) wird dies unter *Session List* genauer erläutert.  
+4.    **Released** - *Toolboxes*, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) wird dies unter *Session List* genauer erläutert.  
 
 Initial befindet sich in der *Toolbox List* der Eintrag ‘Default DISC’ mit voreingestellten Funktionen.  
 
 Der *Toolbox Inspector* auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
 
-Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der Toolbox, dem ‘Toolbox Editor’. 
+Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der *Toolbox*, dem ‘Toolbox Editor’. 
 
 Der *Toolbox Editor*
 
@@ -47,11 +47,11 @@ Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 * **Toolbox Preview:**
 
-    Dieser zeigt eine Übersicht der Toolbox als grafische Repräsentation.
+    Dieser zeigt eine Übersicht der *Toolbox* als grafische Repräsentation.
 
 * **Presentation und System:**
 
-    Dieser Bereich strukturiert die Funktionen der Toolbox in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in Ihre Show über die Toolbox verfügbar gemacht werden.
+    Dieser Bereich strukturiert die Funktionen der *Toolbox* in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in Ihre Show über die *Toolbox* verfügbar gemacht werden.
 
 * **Repository:**
 
@@ -75,7 +75,7 @@ Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 * **Frame Preview:**
 
-    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallerie daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt werden, welches dann im Showroom angezeigt wird.
+    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Galerie daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt werden, welches dann im Showroom angezeigt wird.
 
 * **Property Editor:**
 

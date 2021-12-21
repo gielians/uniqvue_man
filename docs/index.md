@@ -5,7 +5,10 @@
 
 
 
-**UNIQVUE** ist ein  interaktives Framework für *Showrooms* und *Experience Center*. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über den *Manager* können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Zur Vereinfachung ist das System in diesem Manual in zwei Teile unterteilt, den **Manager** und den **Showroom**.  
+**UNIQVUE** ist ein  interaktives Framework für *Showrooms* und *Experience Center*. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über den *Manager* können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Zur Vereinfachung ist das System in diesem Manual in zwei Teile unterteilt:
+
+- **Manager**
+- **Showroom**  
 
 ## System Übersicht
 
@@ -14,7 +17,7 @@
 
 **Manager:** 
 
-Im Detail besteht der [Manager](sessionmanager.md) aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für Sie als User wird aber immer nur die App sichtbar sein. Geben Sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. 
+Im Detail besteht der [Manager](sessionmanager.md) aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für Sie als UserInnen wird jedoch nur die App sichtbar sein. Geben Sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. 
 ***
 **Managing App:** 
 

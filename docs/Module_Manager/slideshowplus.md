@@ -18,7 +18,7 @@ Das Modul wird im Showroom über Wischgesten gesteuert.
 
 
 
-•    Show Title - Der gesetzte Haken zeigt den Vergebenen Titel an.
+•    Show Title - Der gesetzte Haken zeigt den vergebenen Titel an.
 
 
 
@@ -29,7 +29,7 @@ Das Modul wird im Showroom über Wischgesten gesteuert.
 •    Navigation Inside Frame Slides – Ein gesetzter Haken zeigt die Navigation im Bild an. 
 
 
-Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Über den Assetbrowser lässt sich entweder ein ganzer Ordner mit Elementen auswählen, oder eine gezielte Multiauswahl wird getroffen. Die funktionalität der Auswahl verhält sich, wie es unter Windows der Fall ist (Strg + Auswahl, Shift + Auswahl).
+Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Über den Assetbrowser lässt sich entweder ein ganzer Ordner mit Elementen auswählen, oder eine gezielte Multiauswahl wird getroffen. Die Funktionalität der Auswahl verhält sich, wie es unter Windows gewohnt ist (Strg + Auswahl, Shift + Auswahl).
 Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente dargestellt. Die Reihenfolge der Elemente können via Drag and Drop verändert werden. Elemente können zudem gezielt dupliziert, gelöscht oder eingefügt werden.
 
 <div style="display: flex; justify-content: space-between;">

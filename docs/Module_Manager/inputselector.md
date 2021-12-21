@@ -1,4 +1,4 @@
-Ähnlich wie das Modul *External Source* können hier jedoch mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf Ihr Displaysetup verteilt werden.
+Dieses Modul ist ähnlich wie das Modul *External Source*, jedoch können hier mehrere Quellen in Echtzeit in ihre Präsentation übertragen und auf Ihr Displaysetup verteilt werden.
 
 ![InputselectorModul](../img/Manager/Module/Inputselector_Module.PNG) 
 

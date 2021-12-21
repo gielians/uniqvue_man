@@ -16,7 +16,7 @@ Das HTML-Modul kann HTML Inhalte darstellen.
 
 
 
-•    Show Title - Der gesetzte Haken zeigt den Vergebenen Titel an.
+•    Show Title - Der gesetzte Haken zeigt den vergebenen Titel an.
 
 
 

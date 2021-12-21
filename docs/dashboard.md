@@ -9,15 +9,14 @@
     <source src="../img/Manager/Gifs/Dashboard.webm" type="video/webm" markdown="1">
 </video>
 
-Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie in das Dashboard. Hier zu sehen sind die Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen großen "Bausteine" führen, aus denen sich eine Session zusammensetzt.
-
+Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie zum Dashboard. Hier zu sehen sind die Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen "Elemente" führen.
 
 ## Session 
 
 ![SessionHierarchie](img/Manager/Session_Diagramm.png) 
 
-Ganz grundsätzlich ist eine *Session* das übergeordnete Objekt sozusagen der Ursprung, welches weitere Objekte, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team in sich beherbergt. Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
-Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. In Kapitel [Session](sessions.md) gibt es einen Überblick und in Kapitel [Session Workflow](sessionworkflow.md) wird erläutert wie man damit arbeitet.
+Grundsätzlich ist eine *Session* das übergeordnete Element sozusagen der Ursprung, welches weitere Elemente, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team beinhaltet . Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
+Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. Kapitel [Session](sessions.md) liefert einen Überblick und in Kapitel [Session Workflow](sessionworkflow.md) wird erläutert wie Sie damit arbeiten.
 
 
 ***
@@ -25,7 +24,7 @@ Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Pr�
 
 
 
-Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. In Kapitel [Toolboxes](toolbox.md) gibt es einen Überblick und in Kapitel [Toolbox Workflow](toolboxworkflow.md) wird erklärt wie [Toolboxes](toolbox.md) erstellt und konfiguriert werden können. 
+Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. Kapitel [Toolboxes](toolbox.md) beinhaltet einen Überblick dazu und in Kapitel [Toolbox Workflow](toolboxworkflow.md) wird erklärt wie [Toolboxes](toolbox.md) erstellt und konfiguriert werden können. 
 
 
 ***
@@ -40,4 +39,4 @@ Personalisieren Sie die Session Ihrer Taskforce und stellen Sie dazu ein entspre
 ## Styles 
 
 
-Der Style definiert das gesamte Erscheinungsbild Ihrer Session bzw. des Schowrooms. Erstellen und Konfigurieren Sie “Look and Feel” einer Session. In Kapitel [Styles](styles.md) gibt es einen Überblick und in Kapitel [Style Workflow](styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 
+Der Style definiert das gesamte Erscheinungsbild Ihrer Session bzw. des Schowrooms. Erstellen Sie ihren persönlichen “Look and Feel”. Kapitel [Styles](styles.md) beinhaltet einen Überblick dazu und in Kapitel [Style Workflow](styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 

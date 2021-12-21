@@ -6,7 +6,7 @@
 
 
 
-*Module* treten an verschiedenen Stellen im *Session Manager* auf. Der *Session Editor* hält alle Module bereit, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Kapitel **Toolbox** wird darauf detailliert eingegangen. 
+*Module* treten an verschiedenen Stellen im *Session Manager* auf. Der *Session Editor* hält alle Module bereit, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Kapitel [Toolboxes](toolboxes.md) wird darauf detailliert eingegangen. 
 
 
 

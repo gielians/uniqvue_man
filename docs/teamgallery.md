@@ -33,7 +33,7 @@ Initial befindet sich in der *Team Gallery List* der Eintrag ‘New Team’.
 
 Der *Team Gallery Inspector* auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
 
-Mit dem ‘Edit Team’ Button gelangt man in die Bearbeitungsebene des Teams, dem ‘Team Editor’. 
+Mit dem ‘Edit Team’ Button gelangen Sie in die Bearbeitungsebene des Teams, dem ‘Team Editor’. 
 
 
 ***
@@ -45,9 +45,9 @@ Der *Team Editor*
  
 Der *Team Editor* ist in zwei Bereiche aufgeteilt, dem geöffneten Tab des zu bearbeitenden Teams als Listenansicht und dem *Member Inspector*, oben farbig umrandet. 
 
-Durch Klicken des Icons mit dem Dokument und dem Pluszeichen wir ein neues Temmitglied erstellt. 
+Durch Klicken des Icons mit dem Dokument und dem Pluszeichen wird ein neues Temmitglied erstellt. 
 
-Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammitglieds eingstellt werden. Folgende Eigenschaften gibt es:
+Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammitglieds eingstellt werden. Folgende Eigenschaften sind zu vergeben:
 
 * <b>Geschlecht</b>
 ***
