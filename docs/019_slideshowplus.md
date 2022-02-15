@@ -6,27 +6,27 @@ Das Modul wird im Showroom über Wischgesten gesteuert.
 
 
 
-•    Background Image - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser. 
+•    **Background Image** - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser.
 
 
 
-•    Size - Ein Skalierungsfaktor zum Anpassen der Darstellung der Slideshow im Showroom. 
+•    **Size** - Ein Skalierungsfaktor zum Anpassen der Darstellung der Slideshow im Showroom. 
 
 
 
-•    Title - Überschrift der Slideshow.
+•    **Title** - Überschrift der Slideshow.
 
 
 
-•    Show Title - Der gesetzte Haken zeigt den vergebenen Titel an.
+•    **Show Title** - Der gesetzte Haken zeigt den vergebenen Titel an.
 
 
 
-•    Show Navigation - Der gesetzte Haken zeigt die Navigation an. 
+•    **Show Navigation** - Der gesetzte Haken zeigt die Navigation an. 
 
 
 
-•    Navigation Inside Frame Slides – Ein gesetzter Haken zeigt die Navigation im Bild an. 
+•    **Navigation Inside Frame Slides** – Ein gesetzter Haken zeigt die Navigation im Bild an. 
 
 
 Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Über den Assetbrowser lässt sich entweder ein ganzer Ordner mit Elementen auswählen, oder eine gezielte Multiauswahl wird getroffen. Die Funktionalität der Auswahl verhält sich, wie es unter Windows gewohnt ist (Strg + Auswahl, Shift + Auswahl).
@@ -50,5 +50,5 @@ Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente da
 
 </div>
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../../agendaalternate/#slideshow).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../031_agenda/#slideshow).
 

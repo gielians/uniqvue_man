@@ -17,7 +17,7 @@
 
 **Manager:** 
 
-Im Detail besteht der [Manager](sessionmanager.md) aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für Sie als UserInnen wird jedoch nur die App sichtbar sein. Geben Sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. 
+Im Detail besteht der [Manager](002_sessionmanager.md) aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für Sie als UserInnen wird jedoch nur die App sichtbar sein. Geben Sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. 
 ***
 **Managing App:** 
 
@@ -37,7 +37,7 @@ Alle Abläufe und Strukturen werden in einer Datenbank abgelegt.
 ***
 **Showroom:** 
 
-Der [Showroom](showroom.md) ist die Bühne auf der alle Inhalte zusammenkommen und in hoher Auflösung und vielen Bildern pro Sekunde dargestellt werden. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. UNIQVUE basiert auf einer 3D Echtzeit Rendering Engine ähnlich einer 3D Spiele Engine, aber mit dem Fokus auf Präsentation. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt. Dadurch ist das System auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. In diesem Zusammenhang spricht man von Skalierbarkeit und datengetriebenen oder "datadriven" Inhalten. Grundsätzlich stehen zwei verschiedenen Wege bereit Ihre Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren, sich durch eine Agenda navigieren oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexibel aufrufen. Beide Möglichkeiten können natürlich auch kombiniert werden.  
+Der [Showroom](029_showroom.md) ist die Bühne auf der alle Inhalte zusammenkommen und in hoher Auflösung und vielen Bildern pro Sekunde dargestellt werden. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. UNIQVUE basiert auf einer 3D Echtzeit Rendering Engine ähnlich einer 3D Spiele Engine, aber mit dem Fokus auf Präsentation. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt. Dadurch ist das System auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. In diesem Zusammenhang spricht man von Skalierbarkeit und datengetriebenen oder "datadriven" Inhalten. Grundsätzlich stehen zwei verschiedenen Wege bereit Ihre Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren, sich durch eine Agenda navigieren oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexibel aufrufen. Beide Möglichkeiten können natürlich auch kombiniert werden.  
 ***
 **Remote Client:**
 

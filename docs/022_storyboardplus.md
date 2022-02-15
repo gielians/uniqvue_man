@@ -25,16 +25,16 @@ Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen.
 
 </div>
 
-•    Background Image - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser. 
+•    **Background Image** - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser. 
 
 
 
-•    Storyboard Left - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
+•    **Storyboard Left** - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 
 
-•    Storyboard Right - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
+•    **Storyboard Right** - Je nach Setup und Platzierung ist der Haken gesetzt. Außerdem kann für dieses Fenster separat ein Background Image mit dem Asset Browser ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/ [Storyboard](../../agendaalternate/#storyboard).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/ [Storyboard](../031_agenda/#storyboard).
 

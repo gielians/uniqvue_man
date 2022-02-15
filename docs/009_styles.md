@@ -1,6 +1,6 @@
 # Styles 
 
-Ein *Style* ist für jede Session obligatorisch. Das heißt, ein *Style* muss zwingend einer Session zugewiesen werden. Der *Style* definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich weitere Parameter Einstellen. Das Kapitel [Style Workflow](styleworkflow.md) geht darauf genauer ein. 
+Ein *Style* ist für jede Session obligatorisch. Das heißt, ein *Style* muss zwingend einer Session zugewiesen werden. Der *Style* definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich weitere Parameter einstellen. Das Kapitel [Style Workflow](028_styleworkflow.md) geht darauf genauer ein. 
  
  Die *Style List*  
 
@@ -25,13 +25,13 @@ Die *Style List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert d
 
  
 
-4.    **Author** - Automatisch wird hier die Person mit ihrem Username eingetragen. 
+4.    **Author** - Automatisch wird hier der Username des eingeloggten Accounts eingetragen.
 
  
 
-Initial befindet sich in der *Style List* der Eintrag ‘First Style’. Dieser ist an die Konfiguration ihres Setups und der Corporate Identity Ihres Unternehmens angepasst.  
+Initial befindet sich in der *Style List* der Eintrag ‘First Style’. Dieser ist an die Konfiguration Ihres Setups und der Corporate Identity Ihres Unternehmens angepasst.  
 
-Der Style Inspector auf der rechten Seite zeigt das Logo etwas größer. 
+Der Style Inspector, auf der rechten Seite, zeigt das Logo etwas größer. 
 
 Mit dem ‘Edit Style’ Button gelangt man in die Bearbeitungsebene des *Styles*. 
 
@@ -49,4 +49,4 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafisch
 <li> <b>3D Background</b></p></li>
 </ul>
 
-Einen detaillierten Einstieg beinhaltet Kapitel [Style Worfklow](styleworkflow.md). 
+Einen detaillierten Einstieg beinhaltet Kapitel [Style Worfklow](028_styleworkflow.md). 

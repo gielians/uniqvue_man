@@ -28,7 +28,7 @@ Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert
 
  
 
-4.    **Released** - *Toolboxes*, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) wird dies unter *Session List* genauer erläutert.  
+4.    **Released** - *Toolboxes*, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](006_sessions.md) wird dies unter *Session List* genauer erläutert.  
 
 Initial befindet sich in der *Toolbox List* der Eintrag ‘Default DISC’ mit voreingestellten Funktionen.  
 
@@ -45,33 +45,36 @@ Der *Toolbox Editor*
 Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
 
 
-* **Toolbox Preview:**
+* **DISC Preview:**
 
-    Dieser zeigt eine Übersicht der *Toolbox* als grafische Repräsentation.
+    Diese zeigt eine grafische Repräsentation der konfigurierten *DISC*.
 
 * **Presentation und System:**
 
     Dieser Bereich strukturiert die Funktionen der *Toolbox* in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in Ihre Show über die *Toolbox* verfügbar gemacht werden.
 
 * **Repository:**
-
+<!---
     Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in Kapitel [Modul](module.md) detailliert erläutert werden. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
+--->
 
-    -  **Confidential:** 
+Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show:
 
-        Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Dieser lässt sich dauerhaft einrasten. Durch Eingabe einer von Ihnen definierten Pin werden dann die Inhalte wieder freigegeben.</li>
+-  **Confidential:** 
 
-    - **Frame Manager:**
+    Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Dieser lässt sich dauerhaft einrasten. Durch Eingabe einer von Ihnen definierten Pin werden dann die Inhalte wieder freigegeben.</li>
 
-        Hiermit können offene Module schnell und einfach verteilt und angeordnet werden.
+- **Frame Manager:**
+
+    Hiermit können offene Module schnell und einfach verteilt und angeordnet werden.
 
 
-    - **Snap Shot:** 
+- **Snap Shot:** 
 
-        Erzeugt einen Screenshot des gesamten Showrooms.
+    Erzeugt einen Screenshot des gesamten Showrooms.
 
-    - **Paint:**
-        Freies Zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
+- **Paint:**
+    Freies Zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
 
 * **Frame Preview:**
 
@@ -79,9 +82,9 @@ Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt:
 
 * **Property Editor:**
 
-    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
+    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](025_assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
 
 
-Einen detaillierten Einstieg zum Umgang mit dem *Toolbox Editor* gibt es in Kapitel [Toolbox Worfklow](toolboxworkflow.md). 
+Einen detaillierten Einstieg zum Umgang mit dem *Toolbox Editor* gibt es in Kapitel [Toolbox Worfklow](027_toolboxworkflow.md). 
 
 

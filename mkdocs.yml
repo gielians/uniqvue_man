@@ -1,50 +1,50 @@
 site_name: UNIQVUE MANUAL
 pages:
-  - Übersicht: index.md
+  - Übersicht: 001_index.md
   - Manager:
-    - Session Manager: sessionmanager.md
-    - Login: login.md
-    - Dashboard: dashboard.md
-    - Bedienelemente: bedienelemente.md
-    - Sessions: sessions.md
-    - Toolboxes: toolbox.md
-    - Team Gallery: teamgallery.md
-    - Styles: styles.md
+    - Session Manager: 002_sessionmanager.md
+    - Login: 003_login.md
+    - Dashboard: 004_dashboard.md
+    - Bedienelemente: 005_bedienelemente.md
+    - Sessions: 006_sessions.md
+    - Toolboxes: 007_toolbox.md
+    - Team Gallery: 008_teamgallery.md
+    - Styles: 009_styles.md
+    - Administration: 010_administration.md
       #    - Module: module.md
     
     - Module:
-      - Übersicht: modulesoverview.md
+      - Übersicht: 011_modulesoverview.md
       - Singleview Module:
-        - Title: Module_Manager/title.md
-        - Bullet List: Module_Manager/bulletlist.md
-        - Browser: Module_Manager/browser.md
-        - HTML: Module_Manager/html.md
-        - Pause: Module_Manager/pause.md
-        - Video Player: Module_Manager/videoplayer.md
-        - Share Price: Module_Manager/shareprice.md
+        - Title: 012_title.md
+        - Bullet List: 013_bulletlist.md
+        - Browser: 014_browser.md
+        - HTML: 015_html.md
+        - Pause: 016_pause.md
+        - Video Player: 017_videoplayer.md
+        - Share Price: 018_shareprice.md
         #- Slideshow: Module_Manager/slideshow.md
-        - Slideshow+: Module_Manager/slideshowplus.md
-        - Bar Chart: Module_Manager/barchart.md
-
-        - External Source: Module_Manager/externalsource.md
+        - Slideshow+: 019_slideshowplus.md
+        - Bar Chart: 020_barchart.md
+        - External Source: 021_externalsource.md
       - Multiview Module:
-        #- Storyboard: Module_Manager/storyboard.md
-        - Storyboard+: Module_Manager/storyboardplus.md
-        - Input Selector: Module_Manager/inputselector.md
-        - Challenges: Module_Manager/challenges.md
+    #- Storyboard: Module_Manager/storyboard.md
+        - Storyboard+: 022_storyboardplus.md
+        - Input Selector: 023_inputselector.md
+        - Challenges: 024_challenges.md
         
-    - Asset Browser: assetbrowser.md
-    - Session Workflow: sessionworkflow.md
-    - Toolbox Workflow: toolboxworkflow.md
-    - Style Workflow: styleworkflow.md
+    - Asset Browser: 025_assetbrowser.md
+    - Session Workflow: 026_sessionworkflow.md
+    - Toolbox Workflow: 027_toolboxworkflow.md
+    - Style Workflow: 028_styleworkflow.md
   - Showroom:
-    - Showroom Übersicht: showroom.md
-    - Home Screen: homescreen.md
+    - Showroom Übersicht: 029_showroom.md
+    - Home Screen: 030_homescreen.md
   # - Agenda: agenda.md
-    - Agenda: agendaalternate.md
-    - Disc: disc.md
+    - Agenda: 031_agenda.md
+    - Disc: 032_disc.md
   - Technische Spezifikation:
-    - Netzwerk und Hardware: tecspec.md
+    - Netzwerk und Hardware: 033_tecspec.md
 
 plugins:
   - search

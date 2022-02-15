@@ -1,19 +1,19 @@
 # Style Workflow
 
 
-Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann man einfach einen Style bearbeiten, erstellen, duplizieren oder löschen. 
+Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, können Sie einen Style bearbeiten, erstellen, duplizieren oder löschen. 
 
 Zur Erinnerung noch einmal Icons und ihre Funktion: 
 <ul>
-<li>Der Pfeil der nach links zeigt, führt zurück in das Menü von dem aus man gestartet ist. </p></li>
+<li>Der Pfeil der nach links zeigt, führt zurück in das Menü von dem aus Sie gestartet sind. </p></li>
 </p>
-<li>Der Stift ist das Symbol, um eine ausgewählten Style zu bearbeiten. </p></li>
+<li>Der Stift ist das Symbol, um einen ausgewählten Style zu bearbeiten. </p></li>
 </p>
 <li>Das Dokument mit dem Pluszeichen ist zum Erstellen eines neuen Styles. </p></li>
 </p>
-<li>Der Dokumentenstapel darunter ist zum Duplizieren einen ausgewählten Style. </p></li>
+<li>Der Dokumentenstapel darunter ist zum Duplizieren eines ausgewählten Styles. </p></li>
 </p>
-<li>Mit dem Mülleimersymbol löscht man einen ausgewählten Style. </p></li>
+<li>Mit dem Mülleimersymbol löschen Sie einen ausgewählten Style. </p></li>
 </ul>
 ***
  
@@ -45,22 +45,22 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafisch
 
 **Einen Style anpassen:** 
 
-Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen nach Belieben vor. Dabei sind die Namen der einzelnen Eigenschaften quasi selbsterklärend. Bei den Fontgrößen beudeutet 1 = maximale Skalierung. Die maximale größe ist festgelegt und kann nicht geändert werden.
+Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen nach Belieben vor. Dabei sind die Namen der einzelnen Eigenschaften quasi selbsterklärend. Bei den Fontgrößen beudeutet 1 = maximale Skalierung. Die maximale Größe ist festgelegt und kann nicht geändert werden.
 
 **Icons verknüpfen:** 
 
 Unter den Kategorien *Widget* und *Toolbox* lassen sich ganze Icon-Sets ändern.
 Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bildatei in Form eines Pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
-Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich *Asset Browser*, um ein entsrpechendes Icon-Set auszuwählen. In Kapitel [Asset Browser](assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
+Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich *Asset Browser*, um ein entsrpechendes Icon-Set auszuwählen. In Kapitel [Asset Browser](025_assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
 
 
 **Styles Speichern und benennen:** 
 
-Ist der Style nach Ihren Wünschen angepasst muss dieser gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird der Style gespeichert. Navigieren Sie zurück in die Style List hier können Sie durch Doppelklick auf den Namen des Listeneintrags den Namen ihres Styles ändern.
+Ist der Style nach Ihren Wünschen angepasst, muss dieser gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird der Style gespeichert. Navigieren Sie zurück in die Style List. Hier können Sie durch Doppelklick auf den Namen des Listeneintrags den Namen Ihres Styles ändern.
 
 **Style freigeben:** 
 
-Der Listeneintrag eines jeden Styles enthält die Spalte ‘Released’. Durch setzen des Hakens wird der Style der Liste der verfügbaren Styles angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel [Session Workflow](sessionworkflow.md) wird das genauer erklärt.  
+Der Listeneintrag eines jeden Styles enthält die Spalte ‘Released’. Durch Setzen des Hakens wird der Style der Liste der verfügbaren Styles angefügt und somit zur Zuweisung zu einer Session freigegeben. In Kapitel [Session Workflow](026_sessionworkflow.md) wird dies genauer erklärt.  
 
 
 **Tipps und Tricks**

@@ -1,6 +1,7 @@
 # Teams 
 
-Teams sind optional für eine Session. 
+Teams sind optional für eine Session. Hiermit lassen sich jedoch Sessions mit Arbeitsgruppen bzw. einem Team verknüpfen. Tragen sie hier die MitarbeiterInnen ein, die eine Arbeitsgruppe in einer Session zu einem Projekt bilden.
+
 
 Sie finden hier einen Überblick zu diesem Thema.
 
@@ -27,7 +28,7 @@ Die *Team Gallery List* ist in mehrere Spalten unterteilt. Jede Spalte repräsen
 
  
 
-4.    **Released** - Teams, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](sessions.md) unter *Session List* wird dies genauer erläutert.  
+4.    **Released** - Teams, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](006_sessions.md) unter *Session List* wird dies genauer erläutert.  
 
 Initial befindet sich in der *Team Gallery List* der Eintrag ‘New Team’.  
 
@@ -51,7 +52,7 @@ Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammit
 
 * <b>Geschlecht</b>
 ***
-* <b>Avatar</b> - Ein individuelles Bild, welches über den *Asset Browser* vergeben werden kann. Alles zum *Asset Browser* ist in Kapitel [Asset Browser](assetbrowser.md) nachzulesen. 
+* <b>Avatar</b> - Ein individuelles Bild, welches über den *Asset Browser* vergeben werden kann. Alles zum *Asset Browser* ist in Kapitel [Asset Browser](025_assetbrowser.md) nachzulesen. 
 ***
 * <b>First Name</b>
 ***
