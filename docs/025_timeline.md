@@ -31,5 +31,5 @@ Für jede Station der Timeline stehen Ihnen folgende Module zur Verfügung:
 
 - **Color** - Die Farbe der Timeline.
 - **Line Animation** - Ist die Checkbox markiert, wird die Linie der Timeline animiert.
-- **Touch Animation** - Ist die Checkbox markiert, sind werden Animationen bei Touchereignissen gezeigt.
-- **FX Animation** - Ist die Checkbox markiert, sind grafische Effekte aktiv.
+- **Touch Animation** - Ist die Checkbox markiert, generieren die Touchereignisse im UI ringförmige Impulse. 
+- **FX Animation** - Ist die Checkbox markiert, wird das aktuelle Modul, skaliert und transparent im Hintergrund angezeigt. Zusätzlich enthält diese Ebene einen "The Matrix"-ähnlichen Texteffekt. 
