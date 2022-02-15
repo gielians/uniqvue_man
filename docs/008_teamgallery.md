@@ -52,7 +52,7 @@ Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammit
 
 * <b>Geschlecht</b>
 ***
-* <b>Avatar</b> - Ein individuelles Bild, welches über den *Asset Browser* vergeben werden kann. Alles zum *Asset Browser* ist in Kapitel [Asset Browser](025_assetbrowser.md) nachzulesen. 
+* <b>Avatar</b> - Ein individuelles Bild, welches über den *Asset Browser* vergeben werden kann. Alles zum *Asset Browser* ist in Kapitel [Asset Browser](050_assetbrowser.md) nachzulesen. 
 ***
 * <b>First Name</b>
 ***

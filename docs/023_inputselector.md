@@ -7,4 +7,4 @@ Dieses Modul ist ähnlich wie das Modul *External Source*, jedoch können hier m
 * **Show Menü**
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](../031_agenda/#input-selector).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](../056_agenda/#input-selector).

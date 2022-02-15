@@ -71,7 +71,7 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber 
 
 * **Property Editor:**
 
-    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](025_assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
+    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](050_assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
 
 ***
 
@@ -94,7 +94,7 @@ Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bere
 --->
 **Inhalte verknüpfen:** 
 
-Das platzierte Modul ist nun mit Inhalten zu verknüpfen. Klicken Sie auf das Modul in der ‘Frame View’. Der ‘Property Editor’ zeigt nun alle einstellbaren Eigenschaften dieses Moduls an. Inhalte wie Bilder, Videos usw. werden durch den *Asset Browser* verfügbar gemacht. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich dieser. In Kapitel [Asset Browser](025_assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
+Das platzierte Modul ist nun mit Inhalten zu verknüpfen. Klicken Sie auf das Modul in der ‘Frame View’. Der ‘Property Editor’ zeigt nun alle einstellbaren Eigenschaften dieses Moduls an. Inhalte wie Bilder, Videos usw. werden durch den *Asset Browser* verfügbar gemacht. Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich dieser. In Kapitel [Asset Browser](050_assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
 
 **Menus benennen:** 
 

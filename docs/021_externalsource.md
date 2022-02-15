@@ -6,4 +6,4 @@ Mit diesem Modul können Sie eine externe Quelle in ihre Präsentation einbinden
 •    **External Source** - Über das Dropdownmenü können verfügbare Quellen ausgewählt werden. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[External Source](../031_agenda/#external-source).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[External Source](../056_agenda/#external-source).

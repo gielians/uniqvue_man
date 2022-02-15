@@ -97,7 +97,7 @@ Ziehen Sie aus dem *Agenda Repository* Module Ihrer Wahl per Drag and Drop in ei
 
 **Module mit Inhalten füllen:** 
 
-Klicken Sie auf ein Modul innerhalb des *Agenda Item Editor*. Der *Property Editor* am rechten Rand zeigt Ihnen entsprechend des Moduls dessen Eigenschaften an. Durch Klicken auf eine Eigenschaft öffnet sich der *Asset Browser*. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der *Asset Browser* genauer funktioniert, lesen Sie im Abschnitt [Asset Browser](025_assetbrowser.md). Eine Übersicht über Module finden Sie im Abschnitt [Module](011_modulesoverview.md).
+Klicken Sie auf ein Modul innerhalb des *Agenda Item Editor*. Der *Property Editor* am rechten Rand zeigt Ihnen entsprechend des Moduls dessen Eigenschaften an. Durch Klicken auf eine Eigenschaft öffnet sich der *Asset Browser*. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der *Asset Browser* genauer funktioniert, lesen Sie im Abschnitt [Asset Browser](050_assetbrowser.md). Eine Übersicht über Module finden Sie im Abschnitt [Module](011_modulesoverview.md).
 ***
 
 
@@ -113,12 +113,12 @@ Ist die *Agenda* nach Ihren Wünschen gefüllt muss diese gespeichert werden. Wi
     <source src="../img/Manager/Gifs/Release_Session.webm" type="video/webm" markdown="1" align="left">
 </video>
 
-Nach dem Speichern navigieren Sie zurück in die *Session Liste*. Der Listeneintrag einer jeden *Session* enthält die Spalte ‘Toolbox’, ‘Style’ und 'Team'. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. 'Team' ist per Default nicht zugewiesen. Durch Klicken auf diese, können Sie aus einer Liste von *Styles*,*Toolboxes* und *Teams* auswählen, die Sie zuvor erstellt haben. In den Kapiteln [Toolbox Workflow](027_toolboxworkflow.md),  [Style Workflow](028_styleworkflow.md) und [Team Gallery](008_teamgallery.md) gibt es detaillierte Beschreibungen dazu. 
+Nach dem Speichern navigieren Sie zurück in die *Session Liste*. Der Listeneintrag einer jeden *Session* enthält die Spalte ‘Toolbox’, ‘Style’ und 'Team'. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. 'Team' ist per Default nicht zugewiesen. Durch Klicken auf diese, können Sie aus einer Liste von *Styles*,*Toolboxes* und *Teams* auswählen, die Sie zuvor erstellt haben. In den Kapiteln [Toolbox Workflow](052_toolboxworkflow.md),  [Style Workflow](053_styleworkflow.md) und [Team Gallery](008_teamgallery.md) gibt es detaillierte Beschreibungen dazu. 
 ***
 
 **Sessions organisieren und freigeben:** 
 
-Vergeben Sie in der Spalte ‘Category’ Ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel [Showroom](029_showroom.md) wird u.a. erläutert, wie Sie *Sessions* laden können.
+Vergeben Sie in der Spalte ‘Category’ Ihrer *Session* eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die *Session* im *Showroom Dashboard* innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel [Showroom](054_showroom.md) wird u.a. erläutert, wie Sie *Sessions* laden können.
 
 
 ***

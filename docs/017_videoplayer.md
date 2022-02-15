@@ -13,5 +13,5 @@ Binden Sie mit diesem Modul Videos in ihre Präsentation ein.
 •    **Repeat Video** - Ist der Haken gesetzt läuft das Video in schleife. 
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Videoplayer](../031_agenda/#videoplayer).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Videoplayer](../056_agenda/#videoplayer).
 

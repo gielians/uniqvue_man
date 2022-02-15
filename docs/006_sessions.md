@@ -20,7 +20,7 @@ Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spa
 **Name** - Name der *Session*. Durch Doppelklick kann dieser geändert werden.
 
 ***
-**Category** - Hier können Sie ihrer *Session* eine Kategorie vergeben. Die Kategorien finden sich als Ordner im *Dashboard* bzw. im *Home Screen* des [Showrooms](030_homescreen.md) wieder, in denen die *Sessions* dann verfügbar sind.
+**Category** - Hier können Sie ihrer *Session* eine Kategorie vergeben. Die Kategorien finden sich als Ordner im *Dashboard* bzw. im *Home Screen* des [Showrooms](055_homescreen.md) wieder, in denen die *Sessions* dann verfügbar sind.
 ***
 **Date** - Beim Erstellen einer *Session* wird automatisch das aktuelle Datum vergeben. Das hilft die *Sessions* nach Datum zu sortieren und wiederzufinden.
 ***
@@ -29,7 +29,7 @@ Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spa
 **Session Type** - Eine *Session* kann einem bestimmten Typ angehören wie Workshop oder Präsentation. Haben Sie einen Typ vergeben ist es einfach alle Workshops zu filtern und anzeigen zu lassen.
 
 ***
-**Released** - Durch Setzen eines Hakens wird die *Session* im [Showroom](029_showroom.md) verfügbar gemacht.
+**Released** - Durch Setzen eines Hakens wird die *Session* im [Showroom](054_showroom.md) verfügbar gemacht.
 
 ***
 **Preload** - Ist Preload aktiv wird die *Session* vorgeladen. So werden Ladezeiten beim Öffnen der *Session* im Showroom verkürzt. Es kann nur eine *Session* vorgeladen werden. 
@@ -63,7 +63,7 @@ Der *Session Editor*
 ![SessionEditor](img/Manager/SessionEditor.PNG)
 
 
-* **Agenda:** Dieser zeigt die Struktur der Agenda als hierarchischen Baum. Im Showroom wird die konfigurierte [Agenda](031_agenda.md) grafisch dragestellt und bildet das zentrale Navigationselement einer Session. </p></li>  
+* **Agenda:** Dieser zeigt die Struktur der Agenda als hierarchischen Baum. Im Showroom wird die konfigurierte [Agenda](056_agenda.md) grafisch dragestellt und bildet das zentrale Navigationselement einer Session. </p></li>  
 
 
 
@@ -78,4 +78,4 @@ Der *Session Editor*
 
 
 
-Einen detaillierten Einstieg in den Workflow des *Session Editors* gibt es in Kapitel [Session Worfklow](026_sessionworkflow.md). 
+Einen detaillierten Einstieg in den Workflow des *Session Editors* gibt es in Kapitel [Session Worfklow](051_sessionworkflow.md). 

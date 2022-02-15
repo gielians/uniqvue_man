@@ -1,6 +1,6 @@
 # Styles 
 
-Ein *Style* ist für jede Session obligatorisch. Das heißt, ein *Style* muss zwingend einer Session zugewiesen werden. Der *Style* definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich weitere Parameter einstellen. Das Kapitel [Style Workflow](028_styleworkflow.md) geht darauf genauer ein. 
+Ein *Style* ist für jede Session obligatorisch. Das heißt, ein *Style* muss zwingend einer Session zugewiesen werden. Der *Style* definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich weitere Parameter einstellen. Das Kapitel [Style Workflow](053_styleworkflow.md) geht darauf genauer ein. 
  
  Die *Style List*  
 
@@ -49,4 +49,4 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafisch
 <li> <b>3D Background</b></p></li>
 </ul>
 
-Einen detaillierten Einstieg beinhaltet Kapitel [Style Worfklow](028_styleworkflow.md). 
+Einen detaillierten Einstieg beinhaltet Kapitel [Style Worfklow](053_styleworkflow.md). 

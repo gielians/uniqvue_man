@@ -7,7 +7,7 @@ Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser
 
 * **Session Selection:** 
 
-    Dieses Widget ist das Wichtigste, es zeigt eine Ordnerstruktur in denen Sessions organisiert sind. Sessions die sie zuvor im Manager angelegt und freigegeben haben stehen Ihnen hier zur Verfügung. In Kapitel [Sessions](006_sessions.md) und [Session Worklfow](026_sessionworkflow.md) finden Sie eine detaillierte Erklärung, wie diese angelegt werden. Betätigen der Schaltfläche 'Load Session' lädt die ausgewählte Session, dabei zeigt ein Ladebalken den aktuellen Ladestatus an. Nach einem kurzen Moment ist die Session dann bereit gestartet zu werden.
+    Dieses Widget ist das Wichtigste, es zeigt eine Ordnerstruktur in denen Sessions organisiert sind. Sessions die sie zuvor im Manager angelegt und freigegeben haben stehen Ihnen hier zur Verfügung. In Kapitel [Sessions](006_sessions.md) und [Session Worklfow](051_sessionworkflow.md) finden Sie eine detaillierte Erklärung, wie diese angelegt werden. Betätigen der Schaltfläche 'Load Session' lädt die ausgewählte Session, dabei zeigt ein Ladebalken den aktuellen Ladestatus an. Nach einem kurzen Moment ist die Session dann bereit gestartet zu werden.
     
     ![SessionSelection](img/Showroom/Session_Selection.PNG)
 
@@ -71,7 +71,7 @@ Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser
 
 * **Agenda:**
 
-    Am rechten und linken Rand Ihres Displaysetups befindet sich die Agenda, welche ausgefahren werden kann. Hierüber lässt sich zum einen direkt in die Session springen oder zuerst eine Startanimation abspielen. Darüber hinaus ist die Agenda das zentrale Werkzeug zum Navigieren durch Ihre Präsentation. In Kapitel [Agenda](031_agenda.md) wird dies genauer erläutert.
+    Am rechten und linken Rand Ihres Displaysetups befindet sich die Agenda, welche ausgefahren werden kann. Hierüber lässt sich zum einen direkt in die Session springen oder zuerst eine Startanimation abspielen. Darüber hinaus ist die Agenda das zentrale Werkzeug zum Navigieren durch Ihre Präsentation. In Kapitel [Agenda](056_agenda.md) wird dies genauer erläutert.
 
 <p align="left">
 <video width="99%" height=220" autoplay loop muted markdown="1"> 

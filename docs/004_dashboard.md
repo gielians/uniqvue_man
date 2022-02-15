@@ -16,7 +16,7 @@ Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Ma
 ![SessionHierarchie](img/Manager/Session_Diagramm.png) 
 
 Grundsätzlich ist eine *Session* das übergeordnete Element sozusagen der Ursprung, welches weitere Elemente, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team beinhaltet . Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
-Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. Kapitel [Session](006_sessions.md) liefert einen Überblick und in Kapitel [Session Workflow](026_sessionworkflow.md) wird erläutert wie Sie damit arbeiten.
+Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. Kapitel [Session](006_sessions.md) liefert einen Überblick und in Kapitel [Session Workflow](051_sessionworkflow.md) wird erläutert wie Sie damit arbeiten.
 
 
 ***
@@ -24,7 +24,7 @@ Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Pr�
 
 
 
-Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. Kapitel [Toolboxes](007_toolbox.md) beinhaltet einen Überblick dazu und in Kapitel [Toolbox Workflow](027_toolboxworkflow.md) wird erklärt wie [Toolboxes](007_toolbox.md) erstellt und konfiguriert werden können. 
+Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. Kapitel [Toolboxes](007_toolbox.md) beinhaltet einen Überblick dazu und in Kapitel [Toolbox Workflow](052_toolboxworkflow.md) wird erklärt wie [Toolboxes](007_toolbox.md) erstellt und konfiguriert werden können. 
 
 
 ***
@@ -39,7 +39,7 @@ Personalisieren Sie die Session Ihrer Taskforce und stellen Sie dazu ein entspre
 ## Styles 
 
 
-Der Style definiert das gesamte Erscheinungsbild Ihrer Session bzw. des Schowrooms. Erstellen Sie ihren persönlichen “Look and Feel”. Kapitel [Styles](009_styles.md) beinhaltet einen Überblick dazu und in Kapitel [Style Workflow](028_styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 
+Der Style definiert das gesamte Erscheinungsbild Ihrer Session bzw. des Schowrooms. Erstellen Sie ihren persönlichen “Look and Feel”. Kapitel [Styles](009_styles.md) beinhaltet einen Überblick dazu und in Kapitel [Style Workflow](053_styleworkflow.md) wird erklärt wie Sessions erstellt und konfiguriert werden können. 
 
 ***
 ## Administration

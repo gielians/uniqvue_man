@@ -50,5 +50,5 @@ Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente da
 
 </div>
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../031_agenda/#slideshow).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../056_agenda/#slideshow).
 

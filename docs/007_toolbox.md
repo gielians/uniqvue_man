@@ -82,9 +82,9 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber 
 
 * **Property Editor:**
 
-    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](025_assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
+    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](050_assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
 
 
-Einen detaillierten Einstieg zum Umgang mit dem *Toolbox Editor* gibt es in Kapitel [Toolbox Worfklow](027_toolboxworkflow.md). 
+Einen detaillierten Einstieg zum Umgang mit dem *Toolbox Editor* gibt es in Kapitel [Toolbox Worfklow](052_toolboxworkflow.md). 
 
 

@@ -1,6 +1,6 @@
 # Agenda
 
-Nachdem Sie eine Session geladen und gestartet haben, befinden Sie sich nun in der Session. An der rechten und linken Seite Ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von Ihnen erstellten Session. In den Kapiteln [Session](006_sessions.md) und [Session Workflow](026_sessionworkflow.md) finden sie detaillierte Informationen was Sessions sind und wie Sie welche erstellen.
+Nachdem Sie eine Session geladen und gestartet haben, befinden Sie sich nun in der Session. An der rechten und linken Seite Ihres Displaysetups ist nun die Agenda zu sehen. Sie repräsentiert die Hierarchie, der von Ihnen erstellten Session. In den Kapiteln [Session](006_sessions.md) und [Session Workflow](051_sessionworkflow.md) finden sie detaillierte Informationen was Sessions sind und wie Sie welche erstellen.
 Die Agenda ist das zentrale Navigationstool um durch Ihre Präsentation zu führen. Durch Berühren das entsprechenden Punktes in der Agenda gelangen Sie an die entsprechende Stelle in Ihrer Präsentation.
 
 
@@ -26,7 +26,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Absc
 
 ## Videoplayer
 
-Das *Videoplayer* Modul bindet ein beliebiges Video in Ihre Präsentation ein. Durch Toucheingabe lässt sich durch das Video scrollen. Darüber hinaus haben Sie die Möglichkeit über die *Disc* durch die einzelnen Frames des Video zu navigieren. In Kapitel [Disc](032_disc.md) finden Sie eine detaillierte Beschreibung, wie Sie mit der Disc umgehen.  
+Das *Videoplayer* Modul bindet ein beliebiges Video in Ihre Präsentation ein. Durch Toucheingabe lässt sich durch das Video scrollen. Darüber hinaus haben Sie die Möglichkeit über die *Disc* durch die einzelnen Frames des Video zu navigieren. In Kapitel [Disc](057_disc.md) finden Sie eine detaillierte Beschreibung, wie Sie mit der Disc umgehen.  
 Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Videoplayer](017_videoplayer.md).
 
 ![Agenda Modul](../img/Showroom/Agenda_Videoplayer.png)
@@ -122,3 +122,20 @@ Das *Pause* Modul ist ähnlich wie das *Bullet List* Modul, bloß haben Sie die 
 ## Challenges
 
 Das *Challenges* Modul ist kundenspezifisch und optional. Informationen zu diesem Modul erhalten Sie auf Anfrage.
+
+
+***
+## Timeline
+
+Das *Timeline* Modul vereint mehrere Module in einer chronologischen Abfolge. Verknüpfen Sie eine Auswahl von Modulen in einer Abfolge miteinander, um Zusammenhänge köharent, multimedial und innerhalb eines Agendapunktes zusammenzubringen. Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Timeline](025_timeline.md).
+
+![Agenda Modul](img/Showroom/Agenda_Timeline.png)
+<!---
+Folgende Module stehen Ihnen innerhalb einer Station jeweils zur Verfügung:
+
+- Videoplayer
+- Slideshow+
+- Browser
+- HTML
+- Live Input
+--->

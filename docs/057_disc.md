@@ -2,7 +2,7 @@
 
 
 
-Die Disc ist neben den direkten Toucheingaben auf die entsprechenden Schaltflächen das zentrale Bedienelement. Es ermöglicht Ihnen eine schnelle und einfache Navigation und die Kontrolle über den gesamten Showroom. Die Disc ist in Ihrem Funktionsumfang managerseitig auf Ihre Wünsche und Ihren Workflow anpassbar. Neben den Standardtools, die für die Kontrolle des Systems wie z.B Audio Volumen und dem Managment von Inhalten zuständig sind, ist auch der direkte Zugriff auf Module unabhängig der Agenda möglich. In Kapitel [Toolbox](007_toolbox.md) und [Toolbox Workflow](027_toolboxworkflow.md) wird dies im Detail erläutert. 
+Die Disc ist neben den direkten Toucheingaben auf die entsprechenden Schaltflächen das zentrale Bedienelement. Es ermöglicht Ihnen eine schnelle und einfache Navigation und die Kontrolle über den gesamten Showroom. Die Disc ist in Ihrem Funktionsumfang managerseitig auf Ihre Wünsche und Ihren Workflow anpassbar. Neben den Standardtools, die für die Kontrolle des Systems wie z.B Audio Volumen und dem Managment von Inhalten zuständig sind, ist auch der direkte Zugriff auf Module unabhängig der Agenda möglich. In Kapitel [Toolbox](007_toolbox.md) und [Toolbox Workflow](052_toolboxworkflow.md) wird dies im Detail erläutert. 
 
 In jeder Phase des Showrooms, unabhängig davon ob eine Session geladen ist, ist die Disc "griffbereit". Durch ein längeres Berühren auf der Touchfläche kommt die Disc zum Vorschein oder lässt sich von einer anderen Stelle auf dem Display herholen. 
 

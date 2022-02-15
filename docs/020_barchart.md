@@ -63,5 +63,5 @@ Folgende Attribute bestimmten die Darstellung und das Verhalten des Diagramms im
 </li>
 </ul>
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bar Chart](../031_agenda/#bar-chart).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bar Chart](../056_agenda/#bar-chart).
 
