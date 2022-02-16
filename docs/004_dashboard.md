@@ -2,7 +2,7 @@
 
 
 
-![DashboardOverview](../img/Manager/Gifs/Dashboard.gif) 
+![DashboardOverview](img/Manager/Gifs/Dashboard.gif) 
 
 
 <!---<video width="99%" height="540" autoplay loop muted markdown="1">

@@ -18,7 +18,7 @@ Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser
     Durch längeres berühren der Fläche umschließt ein Ring die Hand. Ist der Ring vollständig, startet eine 3D Animation auf der gesamten Displayfläche. Die Animation ist die Überleitung von dem Homescreen hinein in eine Session. Dies ist ein eindrucksvoller Weg eine Präsentation zu starten. Die Startanimation ist optional. Sie können auch über die Agenda direkt in eine Session navigieren und die Startanimation überspringen.
   <p align="center">
   <video width="99%" height=920" autoplay loop muted markdown="1"> 
-        <source src="../img/Showroom/Start_Intro.webm" type="video/webm" markdown="1">
+        <source src="img/Showroom/Start_Intro.webm" type="video/webm" markdown="1">
    </video>
    </p>
 
@@ -75,12 +75,12 @@ Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser
 
 <p align="left">
 <video width="99%" height=220" autoplay loop muted markdown="1"> 
-      <source src="../img/Showroom/Agenda_Start_Session_Small.webm" type="video/webm" markdown="1">
+      <source src="img/Showroom/Agenda_Start_Session_Small.webm" type="video/webm" markdown="1">
  </video>
  </p>
  
 <p align="left">
 <video width="99%" height=220" autoplay loop muted markdown="1"> 
-       <source src="../img/Showroom/Agenda_Start_Intro_Small.webm" type="video/webm" markdown="1">
+       <source src="img/Showroom/Agenda_Start_Intro_Small.webm" type="video/webm" markdown="1">
 </video>
 </p>

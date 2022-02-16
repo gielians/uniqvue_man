@@ -1,5 +1,5 @@
 
-![HTMLModul](../img/Manager/Module/HTML_Module.PNG) 
+![HTMLModul](img/Manager/Module/HTML_Module.PNG) 
 
 
 Das HTML-Modul kann HTML Inhalte darstellen. 
@@ -38,5 +38,5 @@ Außerdem ist bei den HTML-Dateien darauf zu achten, dass diese UTF-8 kodiert si
 •    **Background Transparent** - Durch Setzen des Hakens wird der Hintergrund der HTML-Darstellung transparent.  
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[HTML](../056_agenda/#html).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[HTML](056_agenda/#html).
 

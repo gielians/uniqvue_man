@@ -26,11 +26,11 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 ![ToolboxList](../img/Manager/Gifs/Disc_Create.gif) 
 --->
 <video width="99%" height="140" autoplay loop muted markdown="1">
-    <source src="../img/Manager/Gifs/Disc_Create.webm" type="video/webm" markdown="1">
+    <source src="img/Manager/Gifs/Disc_Create.webm" type="video/webm" markdown="1">
 </video>
 Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Toolbox’ Button gelangen Sie zum Toolbox Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen der zu bearbeitenden Toolbox. Beliebig viele Tabs also Toolboxes können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Toolbox Namen, um einen Indikator dafür zu liefern, ob eine Toolbox noch ungespeicherte Änderungen enthält. Zu sehen ist jetzt eine Repräsentation der Toolbox mit einigen voreingestellten Funktionen. Die Konfiguration Ihrer Toolbox können Sie hier jetzt anpassen. 
 
-![ToolboxEditor](../img/Manager/Toolbox_Editor.PNG)
+![ToolboxEditor](img/Manager/Toolbox_Editor.PNG)
  ***
 Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
 
@@ -86,7 +86,7 @@ Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’
 Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul Ihrer Wahl über das neue Element im Bereich 'Presentation' und platzieren Sie es. Alternativ können sie Module in den Bereich ‘Frame Preview’ ziehen und platzieren.
 
 <video width="99%" height="540" autoplay loop muted markdown="1">
-    <source src="../img/Manager/Gifs/Disc_Configure.webm" type="video/webm" markdown="1">
+    <source src="img/Manager/Gifs/Disc_Configure.webm" type="video/webm" markdown="1">
 </video>
 
 <!---

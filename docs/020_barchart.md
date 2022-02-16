@@ -1,4 +1,4 @@
-![BarChartModul](../img/Manager/Module/BarChart_Module.PNG) 
+![BarChartModul](img/Manager/Module/BarChart_Module.PNG) 
 
 Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre Show zu verwenden. Jeder Balken wird im Property Editor als Element in einer Liste repräsentiert. Jeder von maximal 12 Balken kann mit einem beliebigen Wert, einer Bezeichung und einer Farbe versehen werden.
 
@@ -6,15 +6,15 @@ Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre
 <div style="display: flex; justify-content: space-between;">
 
 <div>
-        <img src="../../img/Manager/Module/BarChart_PropertyEditor.PNG" />
+        <img src="img/Manager/Module/BarChart_PropertyEditor.PNG" />
 </div>
 
 <ul>
     <li><div>
-        <img src="../../img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
+        <img src="img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
     </div></li>
-    <li><div><img src="../../img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
-    <li><div><img src="../../img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
 </ul>
 
 
@@ -63,5 +63,5 @@ Folgende Attribute bestimmten die Darstellung und das Verhalten des Diagramms im
 </li>
 </ul>
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bar Chart](../056_agenda/#bar-chart).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Bar Chart](056_agenda/#bar-chart).
 

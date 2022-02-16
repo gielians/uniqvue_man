@@ -26,6 +26,6 @@ Verknüpfen Sie ein Asset aus den Ordnern 'Public' oder 'User' im Verzeichnis **
 
 <div class="row post-image-bg" markdown="1">
     <video width="99%" height="540" autoplay loop muted markdown="1">
-        <source src="../img/Manager/Gifs/Assetbrowser_AddAndSelect.webm" type="video/webm" markdown="1">
+        <source src="img/Manager/Gifs/Assetbrowser_AddAndSelect.webm" type="video/webm" markdown="1">
     </video>
 </div>

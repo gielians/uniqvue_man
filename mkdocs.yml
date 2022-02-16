@@ -1,6 +1,6 @@
 site_name: UNIQVUE MANUAL
 pages:
-  - Übersicht:                  001_index.md
+  - Übersicht:                  index.md
   - Manager:
     - Session Manager:          002_sessionmanager.md
     - Login:                    003_login.md
@@ -61,7 +61,7 @@ theme:
     - accent: teal
   logo: img/logo.png
   favicon: img/logo.png
-
+use_directory_urls: false
 extra:
   version:
     provider: mike

@@ -22,13 +22,13 @@ Zur Erinnerung noch einmal die Icons und ihre Funktion:
 **Erstellen einer neuen Session:**  
 
 <video align="left" width="99%" height="220" autoplay loop muted markdown="1">
-<source src="../img/Manager/Gifs/SessionList_Workflow.webm" type="video/webm" markdown="1">
+<source src="img/Manager/Gifs/SessionList_Workflow.webm" type="video/webm" markdown="1">
 </video>
 
 Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszeichen. Zunächst werden Sie aufgefordert eine 'Stage Configuration' auszuwählen. Dies ist nur erforderlich wenn Ihnen mehr als ein Showroomsetup zur Verfügung steht, sonst wird automatisch das einzige Setup verwendet.
 
 <p align="center">
- <img src="../img/Manager/StageConfiguration.PNG" width="50%" height="300px" markdown="1" >
+ <img src="img/Manager/StageConfiguration.PNG" width="50%" height="300px" markdown="1" >
 </p>
 
 <!---
@@ -82,7 +82,7 @@ Im *Agenda Tree* füllen Sie nun Ihre *Agenda* mit Punkten. Um einen neuen Punkt
 ![SessionWorkflow](img/Manager/Gifs/Agenda_Anlegen.gif)
 --->
 <video width="99%" height="540" autoplay loop muted markdown="1">
-    <source src="../img/Manager/Gifs/Agenda_Anlegen.webm" type="video/webm" markdown="1" align="left">
+    <source src="img/Manager/Gifs/Agenda_Anlegen.webm" type="video/webm" markdown="1" align="left">
 </video>
 
 Ziehen Sie aus dem *Agenda Repository* Module Ihrer Wahl per Drag and Drop in ein Element im *Agenda Item Editor*. Entsprechend des Display Setups können Module innerhalb des Elements platziert werden. So können mehrere Module auf verschiedene Displays verteilt sein. Füllen Sie so Ihre gesamte *Agenda*. 
@@ -92,7 +92,7 @@ Ziehen Sie aus dem *Agenda Repository* Module Ihrer Wahl per Drag and Drop in ei
 --->
 
 <video width="99%" height="540" autoplay loop muted markdown="1">
-    <source src="../img/Manager/Gifs/Agenda_Fuellen.webm" type="video/webm" markdown="1" align="left">
+    <source src="img/Manager/Gifs/Agenda_Fuellen.webm" type="video/webm" markdown="1" align="left">
 </video>
 
 **Module mit Inhalten füllen:** 
@@ -110,7 +110,7 @@ Ist die *Agenda* nach Ihren Wünschen gefüllt muss diese gespeichert werden. Wi
 ![SessionWorkflow](img/Manager/Gifs/Release_Session.gif)
 --->
 <video width="99%" height="180" autoplay loop muted markdown="1">
-    <source src="../img/Manager/Gifs/Release_Session.webm" type="video/webm" markdown="1" align="left">
+    <source src="img/Manager/Gifs/Release_Session.webm" type="video/webm" markdown="1" align="left">
 </video>
 
 Nach dem Speichern navigieren Sie zurück in die *Session Liste*. Der Listeneintrag einer jeden *Session* enthält die Spalte ‘Toolbox’, ‘Style’ und 'Team'. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. 'Team' ist per Default nicht zugewiesen. Durch Klicken auf diese, können Sie aus einer Liste von *Styles*,*Toolboxes* und *Teams* auswählen, die Sie zuvor erstellt haben. In den Kapiteln [Toolbox Workflow](052_toolboxworkflow.md),  [Style Workflow](053_styleworkflow.md) und [Team Gallery](008_teamgallery.md) gibt es detaillierte Beschreibungen dazu. 

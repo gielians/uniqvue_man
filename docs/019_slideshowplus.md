@@ -1,4 +1,4 @@
-![SlideShowModul](../img/Manager/Module/Slideshowplus_Module.PNG) 
+![SlideShowModul](img/Manager/Module/Slideshowplus_Module.PNG) 
 
 Sammlungen von bis zu 50 Videos und Bildern lassen sich mit diesem Modul einbinden.
 Das Modul wird im Showroom über Wischgesten gesteuert.
@@ -35,20 +35,20 @@ Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente da
 <div style="display: flex; justify-content: space-between;">
 
 <div>
-        <img src="../../img/Manager/Module/Slideshowplus_PropertyEditor.PNG" />
+        <img src="img/Manager/Module/Slideshowplus_PropertyEditor.PNG" />
 </div>
 
 <ul>
-    <li><div><img src="../../img/Manager/Module/Storyboardplus_Icon_Folder.PNG" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Folder.PNG" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
     <li><div>
-        <img src="../../img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
+        <img src="img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
     </div></li>
-    <li><div><img src="../../img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
-    <li><div><img src="../../img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
 </ul>
 
 
 </div>
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](../056_agenda/#slideshow).
+Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](056_agenda/#slideshow).
 

@@ -2,7 +2,7 @@
 
 
 
-![SessionEditor](../img/Manager/Overview.PNG) 
+![SessionEditor](img/Manager/Overview.PNG) 
 
 
 
