@@ -1,5 +1,5 @@
 site_name: UNIQVUE MANUAL
-pages:
+nav:
   - Übersicht:                  index.md
   - Manager:
     - Session Manager:          002_sessionmanager.md
