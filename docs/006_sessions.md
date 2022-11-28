@@ -1,6 +1,6 @@
 # Sessions 
 
-Sessions sind die Kernelemente einer jeden Präsentation und werden im *Showroom* verfügbar gemacht. In einer *Session* ist zum Einen ihre *Agenda*, also die Struktur Ihrer Präsentation und zum Anderen das gesamte Erscheinungsbild und die Funktionalität des *Showrooms* definiert. Kapitel [Dashboard](004_dashboard.md) liefert dazu einen Überblick. 
+*Sessions* sind die Kernelemente einer jeden Präsentation und werden im *Showroom* ausgespielt. In einer *Session* ist zum Einen ihre *Agenda*, also die Struktur Ihrer Präsentation und zum Anderen das gesamte Erscheinungsbild und die Funktionalität des *Showrooms* definiert. Kapitel [Dashboard](004_dashboard.md) liefert dazu einen Überblick. 
 
 Hier finden Sie einen allgemeinen Überblick zu *Sessions*.
 

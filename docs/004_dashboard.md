@@ -9,14 +9,14 @@
     <source src="../img/Manager/Gifs/Dashboard.webm" type="video/webm" markdown="1">
 </video>--->
 
-Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie zum Dashboard. Hier zu sehen sind die Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen "Elemente" führen.
+Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie zum Dashboard. Hier befinden sich Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen "Elemente" führen.
 
-## Session 
+## Agendas 
 
 ![SessionHierarchie](img/Manager/Session_Diagramm.png) 
 
-Grundsätzlich ist eine *Session* das übergeordnete Element sozusagen der Ursprung, welches weitere Elemente, namentlich eine *Disc (Toolbox)*, einen *Style* und ein Team beinhaltet . Während es zwingend notwendig ist eine Disc und einen Style einer Session zuzuweisen, ist ein Team optional.
-Eine *Session* beinhaltet alle Elemente und Bedienkonzepte die man für eine Präsentation im *Showroom* benötigt. Kapitel [Session](006_sessions.md) liefert einen Überblick und in Kapitel [Session Workflow](051_sessionworkflow.md) wird erläutert wie Sie damit arbeiten.
+Grundsätzlich ist eine *Session* das übergeordnete Element sozusagen der Ursprung, welches weitere Elemente, die *Toolbox (Disc)*, einen *Style* beinhaltet und vor allem eine *Agenda* beinhaltet.
+Eine *Agenda* beinhaltet alle Elemente und Bedienkonzepte die Sie für eine Präsentation im *Showroom* benötigen. Kapitel [Session](006_sessions.md) liefert einen Überblick und in Kapitel [Session Workflow](051_sessionworkflow.md) wird erläutert wie Sie damit arbeiten.
 
 
 ***
