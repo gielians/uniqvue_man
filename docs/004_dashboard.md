@@ -4,14 +4,14 @@
 
 Das Daschboard ist der Einstiegspunkt nach dem Login. Von hier aus gelangen Sie in die Bearbeitungsebenen der einzelnen Komponenten:
 <ul>
-	<li>Shows</li>
-	<li>Sessions</li>
-	<li>Toolboxes</li>
-	<li>Styles</li>
-	<li>Administration</li>
+	<li><b>Shows</b></li>
+	<li><b>Sessions</b></li>
+	<li><b>Toolboxes</b></li>
+	<li><b>Styles</b></li>
+	<li><b>Administration</b></li>
 	
 </ul>
-
+***
 ## Shows 
 
 Eine Show wird definiert durch einen Ablauf bzw. Agenda (Session), einen Style und einer Toolbox.  
@@ -26,6 +26,10 @@ Grundsätzlich ist eine *Show* das übergeordnete Element sozusagen der Ursprung
 Eine *Agenda* beinhaltet alle Elemente und Bedienkonzepte die Sie für eine Präsentation im *Showroom* benötigen. Abschnitt [Session](006_sessions.md) liefert einen Überblick und in Abschnitt [Session Workflow](051_sessionworkflow.md) wird erläutert wie Sie damit arbeiten.
 -->
 ***
+##Sessions
+
+//TODO: Kurzbeschreibung Session.
+
 ## Toolboxes 
 
 

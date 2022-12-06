@@ -1,90 +1,155 @@
-# Toolboxes 
+# Toolboxes
+<img src="img/Manager/GetToolbox.PNG" width="400"/>
 
-Eine *Toolbox* oder auch *DISC* ist für jede Session obligatorisch. Das heißt, sie muss zwingend einer *Session* zugewiesen sein. Die *Toolbox* ist das zentrale Bedienungswerkzeug und ist in jeder Phase in der Arbeit mit dem Showrooms zugänglich. Sie können die *Toolbox* individuell an ihren Workflow aus einem Repertoire an Funktionen und nützlichen Tools anpassen. 
- 
-Hier finden sie einen allgemeinen Überblick zu *Toolboxes*.
- 
-Die *Toolbox List*
+<!---
+<img src="img/Manager/GetToolbox.PNG" style="float:right;margin:0 10px 30px 0;width: 25%;" markdown="1"/>
+-->
+
+Eine *Toolbox* ist für jede *Show* obligatorisch. Das heißt, sie muss zwingend einer *Show* zugewiesen sein. Die *Toolbox* ist das zentrale Bedienungswerkzeug und ist in jeder Phase in der Arbeit mit dem Showrooms zugänglich. Sie können die *Toolbox* individuell an ihren Workflow aus einem Repertoire an Funktionen und nützlichen Tools anpassen.
+
+<!---
+<hr style="width:100%;text-align:left;height: 1px; margin-left:0">
+-->
+***
+##Toolbox List
 
 ![Placeholder](img/Manager/ToolboxListNew.PNG) 
 
+Das *Toolbox List* Fenster unterteilt sich in 4 Bereiche (farbig markiert) 
 
-Das *Toolbox List* Fenster unterteilt sich in vier Bereiche. Hier zur besseren Übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente.
-Daneben befindet sich eine Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse. Das öffentliche Verzeichniss ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar. Das Hauptfenster ist die Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
+<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Allgemeine [Bedienelemente](005_bedienelemente.md)**
 
-Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der *Toolbox*. *Toolboxes* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
+<span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **User Folder:**
 
- 
+Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse, in denen *Toolboxes* gespeichert sein können. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar, siehe [Administration](004_dashboard.md) in Abschnitt Dashboard.
 
-1.    **Name** - Name der *Toolbox*. Durch Doppelklick kann dieser geändert werden. 
+<span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Listenansicht:**
 
- 
+Listenansicht der verfügbaren *Toolboxes* mit Suchfunktion - Die Eingabe ist sensitiv und filtert dynamisch die Liste entsprechend Ihrer Eingabe. Jede *Toolbox* in der Liste hat folgende Attribute:
+<ul>
+<li><b>Name</b></li>
+<li><b>Date</b></li>
+<li><b>Author</b></li>
+<li><b>Released (Freigabestatus)</b></li>
+</ul>
 
-2.    **Date** - Beim Erstellen einer *Toolbox* wird automatisch das aktuelle Datum vergeben. Das hilft die *Toolboxes* nach Datum zu sortieren und wiederzufinden. 
+<span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **Toolbox Inspector:**
 
- 
+Der *Toolbox Inspector* stellt die wichtigsten Eigenschaften einer ausgewählten *Toolbox* bereit. Mit dem ‘Edit Toolbox’ Button gelangen Sie in die Bearbeitungsebene der *Toolbox*, den *Toolbox Editor*. 
 
-3.    **Author** - Automatisch wird hier die Person mit ihrem Username eingetragen. 
+***
 
- 
-
-4.    **Released** - *Toolboxes*, die mit einem Haken bei ‘Released’ markiert sind, werden in der *Session List* zur Auswahl verfügbar gemacht. In Kapitel [Sessions](006_sessions.md) wird dies unter *Session List* genauer erläutert.  
-
-Initial befindet sich in der *Toolbox List* der Eintrag ‘Default DISC’ mit voreingestellten Funktionen.  
-
-Der *Toolbox Inspector* auf der rechten Seite zeigt nochmal wichtige Eigenschaften im Überblick. 
-
-Mit dem ‘Edit Toolbox’ Button gelangt man in die Bearbeitungsebene der *Toolbox*, dem ‘Toolbox Editor’. 
-
-Der *Toolbox Editor*
+##Toolbox Editor
 
 
-![ToolboxEditor](img/Manager/Toolbox_Editor.PNG)
+![ToolboxEditor](img/Manager/ToolboxEditor-Highlighted.PNG)
 
 
-Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
+Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt (farbig markiert) 
 
+<span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span>**Toolbox Preview:**
 
-* **DISC Preview:**
+Dieser Bereich zeigt eine grafische Repräsentation der konfigurierten *Toolbox*.
 
-    Diese zeigt eine grafische Repräsentation der konfigurierten *DISC*.
+<span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Frame Preview:**
 
-* **Presentation und System:**
+Hier werden die Module gezeigt, die in einem Menüpunkt gruppiert sind. Via Drag-and-drop können Module aus dem Repository einem Menüpunkt zugewiesen werden. 
 
-    Dieser Bereich strukturiert die Funktionen der *Toolbox* in einer Hierarchie, die sie selbst erstellen können. Unabhängig von der Agenda können hier verschiedene Module dynamisch in Ihre Show über die *Toolbox* verfügbar gemacht werden.
+<span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **Property Editor:**
 
-* **Repository:**
-<!---
-    Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen wie sie in Kapitel [Modul](module.md) detailliert erläutert werden. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show: 
---->
+Der Property Editor zeigt Parameter der aktuellen Selektion an, die geändert werden können.   
 
-Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber hinaus beinhaltet ‘System Tools’ ein paar sehr hilfreiche Funktionen für ihre Show:
+<span style="color: #BF00FF; background: #BF00FF; border-radius: 100px">&#9711</span> **Repository:**
 
--  **Confidential:** 
+Dieser Bereich enthält Module, die in einer Toolbox zugewiesen werden können.
 
-    Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Dieser lässt sich dauerhaft einrasten. Durch Eingabe einer von Ihnen definierten Pin werden dann die Inhalte wieder freigegeben.</li>
+<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Module Menu Tree:**
+
+Dieser Bereich strukturiert die Menüpunkte der *Toolbox* in einer Hierarchie. Unabhängig von der Session bzw. Agenda können hier verschiedene Module dynamisch in Ihre Show über die *Toolbox* verfügbar gemacht werden.
+
+<span style="color: black; background: #FFFFFF; border-radius: 100px">&#9711</span> **System Tools:**
+
+Hier sind Funktionen gelistet, die anders als Module nur in einer Toolbox vorkommen können.
+    
+***
+
+##System Tools
 
 - **Frame Manager:**
 
-    Hiermit können offene Module schnell und einfach verteilt und angeordnet werden.
+    Hiermit können im Playout angezeigte Module schnell und einfach verteilt und angeordnet werden. Ein Frame Manager ist immer Teil einer *Toolbox*.
 
+-  **Confidential:** 
+
+    Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Dieser lässt sich dauerhaft einrasten. Durch Eingabe einer von Ihnen definierten Pin werden dann die Inhalte wieder freigegeben.
 
 - **Snap Shot:** 
 
     Erzeugt einen Screenshot des gesamten Showrooms.
 
 - **Paint:**
+
     Freies Zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
 
-* **Frame Preview:**
+- **Microphone:**
 
-    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Galerie daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt werden, welches dann im Showroom angezeigt wird.
+    Falls ein Mikrofon zum Einsatz kommt, kann hiermit die Lautstärke im Playout reguliert werden.
+   
+***
+##Toolbox Workflow
 
-* **Property Editor:**
+**Erstellen einer neuen Toolbox:**  
 
-    Hier werden spezifische Eigenschaften angezeigt und Inhalte von Modulen zugewiesen. Der *Asset Browser* macht die entsprechenden Inhalte verfügbar. In Kapitel [Asset Browser](050_assetbrowser.md) findet sich eine detaillierte Erläuterung dazu.
+Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern.
+<video width="99%" height="140" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/CreateToolbox.webm" type="video/webm" markdown="1">
+</video>
 
+**Eine Toolbox anpassen:** 
 
-Einen detaillierten Einstieg zum Umgang mit dem *Toolbox Editor* gibt es in Kapitel [Toolbox Worfklow](052_toolboxworkflow.md). 
+Klicken Sie auf den Button 'Edit Toolbox' um in den *Toolbox Editor* zu gelangen.
+
+Füllen Sie die Toolbox mit Modulen... 
+
+<video width="99%" height="" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/AddModulesToToolbox.webm" type="video/webm" markdown="1">
+</video>
+
+...und System Tools.
+
+<video width="99%" height="" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/AddSystemToolsToToolbox.webm" type="video/webm" markdown="1">
+</video>
+
+<!---
+![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.PNG)
+-->
+**Inhalte verknüpfen:** 
+
+Über den Assetbrowser verknüpfen Sie Inhalte mit Modulen.
+
+<video width="99%" height="" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/AddAssetsToolbox.webm" type="video/webm" markdown="1">
+</video>
+
+**Menus benennen:** 
+
+Durch Doppelklick auf den Namen eines Elementes in der Hierarchie, können Sie diesen ändern.  
+
+<img src="img/Manager/NameToolboxMenu.png" style="margin-left:auto; margin-right: auto; width: 50%">
+
+<!---![NameTooolboxMenu](img/Manager/NameToolboxMenu.png)
+-->
+
+**Speichern und Veröffneltichen:** 
+
+Ist die Toolbox nach Ihren Wünschen angepasst muss diese gespeichert werden! Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die Toolbox gespeichert.
+
+<video width="99%" height="" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/SaveToolbox.webm" type="video/webm" markdown="1">
+</video>
+
+Durch Setzen des Hakens bei ‘Released’ wird die Toolbox in der Show List verfügbar gemacht und kann so einer Show zugeordnet werden.
+
 
 

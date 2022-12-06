@@ -21,7 +21,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 **Erstellen eines neuen Styles:**  
 <!---
 ![StyleList](img/Manager/Gifs/Style_Create.gif)
---->
+-->
 <video width="99%" height="540" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/Style_Create.webm" type="video/webm" markdown="1">
 </video>

@@ -6,22 +6,19 @@ nav:
     - Login:                    003_login.md
     - Dashboard:                004_dashboard.md
     - Bedienelemente:           005_bedienelemente.md
-    - Shows:   
-      - Show List:              00100_shows.md
-      - Show Workflow:           00105_showworkflow.md
-    - Sessions:
-      - Session List:           006_sessions.md
-      - Session Editor:         00102_sessioneditor.md
-      - Session Workflow:       051_sessionworkflow.md
-    - Toolboxes:
-      - Toolbox List:           007_toolbox.md
-      - Toolbox Editor:         00103_toolboxeditor.md
-      - Toolbox Workflow:       052_toolboxworkflow.md
-    #- Team Gallery:             008_teamgallery.md
-    - Styles:  
-      - Style List:              009_styles.md
-      - Style Editor:           00104_styleditor.md
-      - Style Workflow:         053_styleworkflow.md
+    - Shows:                    00100_shows.md
+ 
+    - Sessions:                 006_sessions.md
+      #- Session Editor:         00102_sessioneditor.md
+      #- Session Workflow:       051_sessionworkflow.md
+    - Toolboxes:                007_toolbox.md
+      #- Toolbox List:           
+      #- Toolbox Editor:         00103_toolboxeditor.md
+      #- Toolbox Workflow:       052_toolboxworkflow.md
+    
+    - Styles:                   009_styles.md
+      #- Style Editor:           00104_styleditor.md
+      #- Style Workflow:         053_styleworkflow.md
       #    - Module: module.md
     
     - Module:
@@ -53,7 +50,7 @@ nav:
   - Showroom:
     - Showroom Übersicht:       054_showroom.md
     - Home Screen:              055_homescreen.md
-    - Agenda:                   056_agenda.md
+    - Agenda & Module:                   056_agenda.md
     - Disc:                     057_disc.md
   - Technische Spezifikation:
     - Netzwerk und Hardware:    058_tecspec.md
@@ -63,6 +60,11 @@ plugins:
     # - pdf-export
 markdown_extensions:
   - attr_list
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 theme:
   name: material
   features:

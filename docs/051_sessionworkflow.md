@@ -3,7 +3,7 @@
 
 <!---
 ![SessionList](img/Manager/SessionList_Crop.PNG)
---->
+-->
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann einfach eine Session bearbeitet, erstellet, duplizieret oder gelöscht werden. 
 
 Zur Erinnerung noch einmal die Icons und ihre Funktion: 
@@ -34,13 +34,13 @@ Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszei
 <!---
 src="..img/Manager/StageConfiguration.PNG"
 !['Stage Configuration'-Auswahl](img/Manager/StageConfiguration.PNG)
---->
+-->
 
 Mit Doppelklick auf den Namen können Sie der *Session* einen Namen geben. Diese *Session* ist zunächst leer. Sie enthält außer einem Default *Style* und einer Default *Toolbox* keine weiteren Inhalte. Das können Sie ändern, indem Sie auf den Stift zum Bearbeiten der *Session* klicken. Alternativ kann die *Session*, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leiten weiter zum *Session Editor*. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden *Session* trägt. Beliebig viele Tabs also *Sessions* können gleichzeitig geöffnet sein. Das Sternsymbol (‘\*’) erscheint außerdem im *Session* Namen, um einen Indikator dafür zu liefern, ob eine *Session* noch ungespeicherte Änderungen enthält.
 ***
 <!---
 ![SessionEditor](img/Manager/SessionEditor_AgendItemFocused.PNG) 
---->
+-->
 
 ***
 
@@ -80,7 +80,7 @@ Im *Agenda Tree* füllen Sie nun Ihre *Agenda* mit Punkten. Um einen neuen Punkt
 **Die Agenda mit Modulen füllen:**  
 <!---
 ![SessionWorkflow](img/Manager/Gifs/Agenda_Anlegen.gif)
---->
+-->
 <video width="99%" height="540" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/Agenda_Anlegen.webm" type="video/webm" markdown="1" align="left">
 </video>
@@ -89,7 +89,7 @@ Ziehen Sie aus dem *Agenda Repository* Module Ihrer Wahl per Drag and Drop in ei
 ***
 <!---
 ![SessionWorkflow](img/Manager/Gifs/Agenda_Fuellen.gif)
---->
+-->
 
 <video width="99%" height="540" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/Agenda_Fuellen.webm" type="video/webm" markdown="1" align="left">
@@ -108,7 +108,7 @@ Ist die *Agenda* nach Ihren Wünschen gefüllt muss diese gespeichert werden. Wi
 **Eine Toolbox, einen Style und ein Team der Session zuweisen:** 
 <!---
 ![SessionWorkflow](img/Manager/Gifs/Release_Session.gif)
---->
+-->
 <video width="99%" height="180" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/Release_Session.webm" type="video/webm" markdown="1" align="left">
 </video>
