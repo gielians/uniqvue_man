@@ -1,31 +1,38 @@
 # Asset Browser
 
-![Assetbrowser](img/Manager/Assetbrowser_2.PNG)
+![Assetbrowser](img/Manager/AssetBrowser-Highlighted.PNG)
 
 ***
 
-Zur besseren Übersicht sind die Bereiche oben farbig umrandet. Der *Asset Browser* ist wie folgt aufgebaut:
+Der *Asset Browser* ist in 4 Bereiche eingeteilt (farbig markiert).
 
 
-* Links befindet sich die Ordnerstruktur. Diese ist vertikal zweigeteilt. Oben sieht man den Projektordner, in dem der Asset Browser geöffnet ist, der sog. **Current Folder**. Darunter ist die allgemeine Ordnerstruktur zusehen, die nach den eigenen Wünschen angepasst werden kann. Hier wählen Sie aus, wo die Datei gespeichert werden soll. Neue Ordner können hier angelegt werden, um eine eigene Struktur aufzubauen. Darunter ist das sog. **Repository** zu sehen. Dabei handelt es sich um ein Verzeichniss, in dem Dateien liegen, die über andere Sessions hinaus verwendet werden können.
+<span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **Current Folder:**
 
-* In der Mitte ist das Hauptfenster zusehen. Hier werden die Dateien des ausgewählten Ordners aufgelistet. 
+*Current Folder* zeigt die Ordnerstruktur der aktuellen Bearbeitungsebene. Ist der Asset Browser aus dem *Session Editor* geöffnet worden, ist das Rootverzeichnis der Name der aktuellen Session. Importierte Assets werden hier aufgelistet. Ausserdem können hier neue Ordner angelegt werden, um importierte Assets zu sortieren. 
 
-* Im Inspektor Fenster auf der rechten Seite, werden aktuelle Attribute einer ausgewählten Datei angezeigt. Zusätzlich dazu wird eine Miniaturvorschau in Form eines Icons oder eines Thumbnails bereitgestellt. Bei Videos ist es zudem möglich über einen Slider eine Stelle des Videos als Thumbnail auszuwählen.
+
+<span style="color: #BF00FF; background: #BF00FF; border-radius: 100px">&#9711</span> **Repository:**
+
+*Repository* listet Verzeichnisse auf, in denen Dateien liegen, die über andere Sessions hinaus verwendet werden können.
+
+
+<span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Assetliste:**
+
+Die Assetliste zeigt die Dateien des ausgewählten Ordners. 
+
+<span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **File Inspector:**
+
+Der *File Inspector* zeigt die Eigenschaften einer ausgewählten Datei an. Zusätzlich dazu wird eine Miniaturvorschau in Form eines Icons oder eines Thumbnails bereitgestellt. Bei Videos ist es zudem möglich über einen Slider eine Stelle des Videos als Thumbnail auszuwählen.
 
 ***
-Der *Asset Browser* öffnet sich an allen Stellen im *Session Manager*, an denen Sie auf den Button mit der Beschriftung 'Browse' klicken. Der *Asset Browser* verhält sich konsistent und ist kontextbezogen. Das bedeutet zum einen, dass der *Asset Browser* automatisch nach entsprechenden Dateien filtert. Möchten Sie zum Beispiel ein Video im Modul 'Video' laden, so werden auch nur Videodateien angezeigt. Entsprechend werden keine Bild- oder Audiodateien angezeigt. Zum anderen zeigt der *Asset Browser* an, wo er geöffnet wurde. Öffnen Sie ihn beim Bearbeiten einer *Toolbox*, so befindet sich der *Asset Browser* innerhalb dieser Ebene. Der Name der aktuellen Bearbeitungsebene (*Toolbox*, *Session*, *Style* oder *Team*) wird links in der Ordnerstruktur angezeigt. Oben im Bild sieht man, das 'New Session' geöffnet ist, entprechend ist unter **Current Folder** ebenfalls 'New Session' als übergeordnetes Verzeichnis zu sehen. Das ist sozusagen der Dateienpool speziell für diese Session.
+Der *Asset Browser* öffnet sich an allen Stellen im *UNIQVUE Manager*, an denen Sie Assets zuweisen. Der *Asset Browser* verhält sich konsistent und ist kontextbezogen. Das bedeutet, dass der *Asset Browser* automatisch nach entsprechenden Dateien filtert. Möchten Sie zum Beispiel ein Video im Modul [Video](017_videoplayer.md) laden, so werden auch nur Videodateien angezeigt. Entsprechend werden keine Bild- oder Audiodateien angezeigt. 
 
-Verknüpfen Sie ein Asset aus den Ordnern 'Public' oder 'User' im Verzeichnis **Repository**, ändert sich der Button 'Select File', unten rechts im Asset Browser zu 'Add & Select File'. Das hat den Hintergrund, dass hier lediglich eine Referenz erzeugt wird! Die Ordner 'Public' und 'User' sind dafür gedacht allgemein zugängliche Daten wie bspw. einen Imagefilm verfügbar zu halten. Daten aus diesen Ordnern werden also nicht in eine Session importiert. Für den Fall jedoch, dass ein Original später im 'Public' Ordner gelöscht werden sollte, bleibt das zugewiesene Asset in einer *Session, Toolbox, Style* davon unberührt!
+Verknüpfen Sie ein Asset aus den Ordnern 'Public' oder 'User' im Verzeichnis *Repository*, ändert sich der Button 'Select File', unten rechts im Asset Browser zu 'Add & Select File'. Das hat den Hintergrund, dass hier lediglich eine Referenz erzeugt wird! Die Ordner 'Public' und 'User' sind dafür gedacht allgemein zugängliche Daten wie bspw. einen Imagefilm verfügbar zu halten. Daten aus diesen Ordnern werden also nicht in eine Session importiert. Für den Fall jedoch, dass ein Original später im 'Public' Ordner gelöscht werden sollte, bleibt das zugewiesene Asset in einer *Session, Toolbox, Style* davon unberührt!
 
-**Hinweis:** Der Assetsbrowser unterstützt eine maximale Dateiengröße von 2 GB!
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/AddSelectFile.webm" type="video/webm" markdown="1">
+</video>
 
-<!---
-![AessetBrowserVerzeichnisse](../img/Manager/Gifs/Assetbrowser_AddAndSelect.gif)
---->
 
-<div class="row post-image-bg" markdown="1">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
-        <source src="img/Manager/Gifs/Assetbrowser_AddAndSelect.webm" type="video/webm" markdown="1">
-    </video>
-</div>
+**Hinweis:* Der Assetsbrowser unterstützt eine maximale Dateiengröße von 2 GB!*

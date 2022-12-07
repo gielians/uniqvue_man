@@ -50,7 +50,7 @@ nav:
   - Showroom:
     - Showroom Übersicht:       054_showroom.md
     - Home Screen:              055_homescreen.md
-    - Agenda & Module:                   056_agenda.md
+    - Agenda & Module:          056_agenda.md
     - Disc:                     057_disc.md
   - Technische Spezifikation:
     - Netzwerk und Hardware:    058_tecspec.md

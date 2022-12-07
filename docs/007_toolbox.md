@@ -141,7 +141,7 @@ Durch Doppelklick auf den Namen eines Elementes in der Hierarchie, können Sie d
 <!---![NameTooolboxMenu](img/Manager/NameToolboxMenu.png)
 -->
 
-**Speichern und Veröffneltichen:** 
+**Speichern und Veröffentlichen:** 
 
 Ist die Toolbox nach Ihren Wünschen angepasst muss diese gespeichert werden! Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die Toolbox gespeichert.
 

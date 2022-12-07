@@ -4,11 +4,11 @@
 
 Das HTML-Modul kann HTML Inhalte darstellen. 
 
-•    **Background Image** - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser. 
+•    **Background Image** - Das gesamte HTML-Modul kann mit einem Hintergrund versehen werden. Klicken auf 'Browse' öffnet den Asset Browser. 
 
 
 
-•    **Size** - Ein Skalierungsfaktor zum Anpassen der Darstellung der Slideshow im Showroom. 
+•    **Size** - Ein Skalierungsfaktor zum Anpassen der Darstellung der HTML-Moduls im Showroom. 
 
 
 
@@ -38,5 +38,5 @@ Außerdem ist bei den HTML-Dateien darauf zu achten, dass diese UTF-8 kodiert si
 •    **Background Transparent** - Durch Setzen des Hakens wird der Hintergrund der HTML-Darstellung transparent.  
 
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[HTML](056_agenda/#html).
+Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* unter [Agenda & Modules](056_agenda.html#html).
 

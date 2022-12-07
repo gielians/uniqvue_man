@@ -54,10 +54,7 @@ Dieser Bereich stellt jeden Agendapunkt und dessen zugeordneten Module grafisch 
 ![AddStageConfiguration](img/Manager/AddStageConfiguration.PNG)
 
 
-**Jedes Modul ist in einem Slot angeordnet. Ein Agendapunkt kann mehrere Slots mit verschiedener Anordnung beinhalten - 'Slot Layouts'**
-    
-![SlotLayout](img/Manager/SlotLayout-1.png) 
-![SlotLayout](img/Manager/SlotLayout-2.png)
+
 
 <span style="color: #BF00FF; background: #BF00FF; border-radius: 100px">&#9711</span> **Repository:**
 
@@ -73,6 +70,12 @@ Hier werden entweder die Eigenschaften eines ausgewählten Moduls oder eines aus
 ***
 
 ##Slot Layout Editor
+
+Jedes Modul ist in einem Slot oder mehreren angeordnet. Ein Agendapunkt kann mehrere Slots mit verschiedener Anordnung beinhalten - 'Slot Layouts'. Sie können Ihre eigenen Slot Layouts mit dem Slot Layout Editor erstellen.
+    
+![SlotLayout](img/Manager/SlotLayout-1.png)
+
+![SlotLayout](img/Manager/SlotLayout-2.png)
 
 ![SlotLayoutEditor](img/Manager/SlotLayoutEditor-Highlighted.png)
 

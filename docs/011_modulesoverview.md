@@ -1,22 +1,64 @@
 # Übersicht
 
+<div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 10px;justify-content: center;
+    align-items: center;">
+  <div>
+	<img src="img/Manager/Module/Titel_Module.PNG" width="250">
+  </div>
+  <div>
+	<img src="img/Manager/Module/BarChart_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Browser_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Bullet_List_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/External_Source_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Headline_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/HTML_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Inputselector_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Pause_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Share_Price_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Slideshow_Module.PNG" width="250">
+  </div>
+   <div>
+	<img src="img/Manager/Module/Slideshowplus_Module.PNG" width="250">
+  </div>
+  <div>
+	<img src="img/Manager/Module/Storyboard_Module.PNG" width="250">
+  </div>
+ 
+     <div>
+	<img src="img/Manager/Module/Videoplayer_Module.PNG" width="250">
+  </div>
+  
+</div>
 
-
-![SessionEditor](img/Manager/Overview.PNG) 
-
-
-
-*Module* treten an verschiedenen Stellen im *Session Manager* auf. Der *Session Editor* hält alle *Module* bereit, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Kapitel [Toolboxes](007_toolbox.md) wird darauf detailliert eingegangen. 
-
-
-Module unterteilen sich grundsätzlich in zwei Kategorien, Singleview und Multiview.
+*Module* treten an verschiedenen Stellen im *UNIQVUE Manager* auf. Der *Session Editor* hält alle *Module* bereit, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Abschnitt [Toolboxes](007_toolbox.md) wird darauf detailliert eingegangen. 
 
 ***
+
+Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Multiview*.
+
 
 
  **Singleview Module** 
 
-Diese *Module* können je nach Display Setup an eine Position gezogen werden und erscheinen später im Showroom auf dem entsprechenden Display. 
+Diese *Module* nehmen maximal ein Slot eines [Slot Layouts](006_sessions.html#slot-layout-editor) ein. 
 
 Alle Singleview *Module* teilen dieselben grundlegenden Eigenschaften: 
 

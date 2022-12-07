@@ -55,7 +55,7 @@ Der Style definiert das gesamte Erscheinungsbild Ihrer Session bzw. des Schowroo
 ***
 ## Administration
 
-In Administration lassen sich User-Accounts für UNIQVUE verwalten. Dieser Bereich ist nur für UserInnen sichtbar, welche Administratorrechte für UNIQVUE besitzen. Hier können User-Accounts erstellt und gelöscht werden. 
+In [Administration](010_administration.md) lassen sich User-Accounts für UNIQVUE verwalten. Dieser Bereich ist nur für UserInnen sichtbar, welche Administratorrechte für UNIQVUE besitzen. Hier können User-Accounts erstellt und gelöscht werden. 
 
 Einstellungen also Shows, Sessions, Toolboxes etc. werden in einem Ordner nur für eingeloggte UserInnen gespeichert. Es besteht aber die Möglichkeit gezielt diese Objekte für alle UserInnen verfügbar zu machen.
 
