@@ -1,6 +1,18 @@
 # Übersicht
 
-<div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 10px;justify-content: center;
+
+
+*Module* treten an verschiedenen Stellen im *UNIQVUE Manager* auf. Im *Session Editor* stehen alle *Module* zur Verfügung, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Abschnitt [Toolboxes](007_toolbox.md) wird darauf detailliert eingegangen. 
+
+***
+
+Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Multiview*.
+
+
+
+ **Singleview Module** 
+
+ <div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 10px;justify-content: center;
     align-items: center;">
   <div>
 	<img src="img/Manager/Module/Titel_Module.PNG" width="250">
@@ -18,13 +30,7 @@
 	<img src="img/Manager/Module/External_Source_Module.PNG" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Headline_Module.PNG" width="250">
-  </div>
-   <div>
 	<img src="img/Manager/Module/HTML_Module.PNG" width="250">
-  </div>
-   <div>
-	<img src="img/Manager/Module/Inputselector_Module.PNG" width="250">
   </div>
    <div>
 	<img src="img/Manager/Module/Pause_Module.PNG" width="250">
@@ -33,34 +39,18 @@
 	<img src="img/Manager/Module/Share_Price_Module.PNG" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Slideshow_Module.PNG" width="250">
-  </div>
-   <div>
 	<img src="img/Manager/Module/Slideshowplus_Module.PNG" width="250">
   </div>
-  <div>
-	<img src="img/Manager/Module/Storyboard_Module.PNG" width="250">
-  </div>
- 
      <div>
 	<img src="img/Manager/Module/Videoplayer_Module.PNG" width="250">
   </div>
-  
 </div>
-
-*Module* treten an verschiedenen Stellen im *UNIQVUE Manager* auf. Der *Session Editor* hält alle *Module* bereit, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Abschnitt [Toolboxes](007_toolbox.md) wird darauf detailliert eingegangen. 
-
-***
-
-Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Multiview*.
-
-
-
- **Singleview Module** 
 
 Diese *Module* nehmen maximal ein Slot eines [Slot Layouts](006_sessions.html#slot-layout-editor) ein. 
 
-Alle Singleview *Module* teilen dieselben grundlegenden Eigenschaften: 
+
+![SingleView](img/Manager/SingleviewModul.PNG)
+<!-- Alle Singleview *Module* teilen dieselben grundlegenden Eigenschaften: 
 
 
 
@@ -76,12 +66,27 @@ Alle Singleview *Module* teilen dieselben grundlegenden Eigenschaften:
 
 
 
-   - **Showtitle:** Durch Setzen des Hakens wird dieser Titel auch im Showroom angezeigt.  
+   - **Showtitle:** Durch Setzen des Hakens wird dieser Titel auch im Showroom angezeigt.   -->
 
 
-
-
-***
 **Multiview Module**
 
-Je nach Setup des Showrooms verhalten sich die *Multiview Module* anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das *Modul* in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit Ihrem Showroom-Setup möglich sind. Grundsätzlich gilt: *Multiview Module* haben mehr als ein Fenster und halten dadurch zusätzliche Funktionen bereit. 
+ <div style="display: grid;
+    grid-template: 170px / auto / auto;
+    padding: 4px;
+    justify-content: start;
+    align-items: center;">
+  <div >
+	<img style="width: max-content" src="img/Manager/Module/Timeline_Module.PNG" width="250">
+  </div>
+  <div  >
+	<img style="width: max-content" src="img/Manager/Module/Storyboardplus_Module.PNG" width="250">
+  </div>
+  
+</div>
+
+*Multiview Module* können maximal 3 Slots einnehmen. Das Main Modul kann um jeweils ein weiteres Modul, links und rechts vom Main Modul, erweitert werden. Die Erweiterungsmodule lassen sich über die Pfeile im Main Modul ausklappen (siehe Abbildung).
+<!-- Je nach Setup des Showrooms verhalten sich die *Multiview Module* anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das *Modul* in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit Ihrem Showroom-Setup möglich sind.  -->
+
+
+![SingleView](img/Manager/MultiviewModul.PNG)

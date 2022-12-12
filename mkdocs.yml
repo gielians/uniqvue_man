@@ -37,7 +37,7 @@ nav:
     
       - Multiview Module:
         - Storyboard+:          022_storyboardplus.md
-        - Input Selector:       023_inputselector.md
+    #    - Input Selector:       023_inputselector.md
         - Challenges:           024_challenges.md
         - Timeline:             025_timeline.md
         

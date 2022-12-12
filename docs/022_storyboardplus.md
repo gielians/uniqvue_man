@@ -1,7 +1,7 @@
 
 ![Storyboard+](img/Manager/Module/Storyboardplus_Module.PNG) 
-![Storyboard+](img/Manager/Module/Storyboard_Left_Module.PNG)
-![Storyboard+](img/Manager/Module/Storyboard_Right_Module.PNG) 
+<!-- ![Storyboard+](img/Manager/Module/Storyboard_Left_Module.PNG)
+![Storyboard+](img/Manager/Module/Storyboard_Right_Module.PNG)  -->
 
 Dieses Modul kann aus bis zu 3 Fenstern bestehen. Das mittlere Fenster zeigt Slides an, die mit einer Wischgeste nach rechts und links bewegt werden können. Ein Slide welches so bewegt wurde sammelt sich entsprechend rechts oder links in einem Fenster, und ordnet sich in einem Gitter an.
 

@@ -33,7 +33,7 @@ Der Home Screen (Dashboard) bildet den Ausgangspunkt einer jeden Session. Dieser
 ***
 * **RSS Feed**
 
-    Dieses Widget bindet einen RSS-Feed in Ihren Homscreen ein.
+    Dieses Widget bindet einen RSS-Feed in Ihren Homescreen ein.
     
     ![RSSFeed](img/Showroom/RSS_Feed.PNG)
     

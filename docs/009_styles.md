@@ -49,7 +49,7 @@ Die *Style List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert d
 ***
 ##Style Editor
 ![StyleEditor](img/Manager/StyleEditor-Highlighted.PNG)
-Der Style Editor ist in 4 Bereiche eingeteilt (farbig markiert), die die Eigenschften der grafischen Elemente des Showrooms auflisten:
+Der Style Editor ist in 4 Bereiche eingeteilt (farbig markiert), die die Eigenschaften der grafischen Elemente des Showrooms auflisten:
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **[Home Screen](055_homescreen.md):** 
 
@@ -61,7 +61,7 @@ In diesem Bereich werden Styleeigenschaften für Agenden und Module definiert.
 
 <span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **[DISC & Frames](057_disc.md): **
 
-Hier kann der Look der Toolbox angepast werden. 
+Hier kann der Look der Toolbox angepasst werden. 
 
 <span style="color: #BF00FF; background: #BF00FF; border-radius: 100px">&#9711</span> **3D Backgrounds:** 
 
@@ -79,7 +79,7 @@ Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeiche
 
 **Einen Style anpassen:** 
 
-Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen vor. Bei den Fontgrößen beudeutet 2 = maximale Skalierung.
+Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen grafischen Elementen vor. Bei den Fontgrößen bedeutet 2 = maximale Skalierung.
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/ModifyStyle.webm" type="video/webm" markdown="1">
 </video>
@@ -87,7 +87,7 @@ Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen graf
 **Icons Sets verknüpfen:** 
 
 Unter den Kategorien *Widget* und *Toolbox* lassen sich ganze Icon-Sets ändern.
-Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bildatei in Form eines Pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
+Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines Pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/ModifyIconSetStyle.webm" type="video/webm" markdown="1">
 </video>

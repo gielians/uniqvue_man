@@ -12,7 +12,7 @@ Hier können Sie UserInnen-Accounts verwalten. Dazu gehört:
  ![Administratorbereich](img/Manager/UserAccountList.PNG)
  
  
- Beim Erstellen eines neuen Accounts öffnet sich eine Eingabenmaske. Hier müssen folgende Eingaben gemacht werden:
+ Beim Erstellen eines neuen Accounts öffnet sich eine Eingabemaske. Hier müssen folgende Eingaben gemacht werden:
  
  - Name
  - Username

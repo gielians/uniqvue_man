@@ -1,13 +1,22 @@
+#Share Price
 
 ![SharePriceModul](img/Manager/Module/Share_Price_Module.PNG) 
 
 
 Aktuelle Werte eines Unternehmens an der Börse können Sie mit diesem Modul in ihre Präsentation aufnehmen.
 
-•    **Share Price Symbol** – Durch Eingeben der WKN-Nummer eines Unternehmens wird der Share Price angezeigt. 
+<div style="display: flex">
+    <img src="img/Manager/Module/SharepriceProperties.PNG" width="350" style="float:left">
+    <div>
+        <ul>
+            <li><b>Share Price Symbol:</b> Durch Eingabe der WKN-Nummer eines Unternehmens wird der Share Price angezeigt.</li>
+        </ul>
+    </div>
+</div>
 
+***Wichtig: Maximal 5 Abfragen pro Minute und 500 Abfragen pro Tag können gemacht werden.***
 
-An dieser Stelle sei erwähnt das maximal 5 Abfragen pro Minute und 500 Abfragen pro Tag gemacht werden können. 
 Informationen über die erweiterte Nutzung dieses Services können auf Anfrage bei Realtime Department eingeholt werden.
 
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Share Price](056_agenda/#share-price).
+Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* unter [Agenda & Modules](056_agenda.html#share-price).
+

@@ -46,9 +46,9 @@ Der *Team Editor*
  
 Der *Team Editor* ist in zwei Bereiche aufgeteilt, dem geöffneten Tab des zu bearbeitenden Teams als Listenansicht und dem *Member Inspector*, oben farbig umrandet. 
 
-Durch Klicken des Icons mit dem Dokument und dem Pluszeichen wird ein neues Temmitglied erstellt. 
+Durch Klicken des Icons mit dem Dokument und dem Pluszeichen wird ein neues Teammitglied erstellt. 
 
-Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammitglieds eingstellt werden. Folgende Eigenschaften sind zu vergeben:
+Rechts im *Member Inspector* können die individuellen Eigenschaften des Teammitglieds eingestellt werden. Folgende Eigenschaften sind zu vergeben:
 
 * <b>Geschlecht</b>
 ***

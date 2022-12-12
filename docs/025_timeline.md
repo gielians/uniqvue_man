@@ -1,7 +1,7 @@
 ![TimelineModul](img/Manager/Module/Timeline_Module.png)
 
 Dieses Modul verknüpft bis zu 36 Module in einer chronologischen Abfolge miteinander.
-Dieses Modul bietet sich ideal an, um Zusammenhänge, köharent und multimedial innerhalb eines Agendapunktes zusammenzubringen.
+Dieses Modul bietet sich ideal an, um Zusammenhänge, kohärent und multimedial innerhalb eines Agendapunktes zusammenzubringen.
 
 Für jede Station der Timeline stehen Ihnen folgende Module zur Verfügung:
 

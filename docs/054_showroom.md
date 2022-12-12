@@ -12,5 +12,5 @@ Um dies zu gewährleisten müssen Sessions mit einer oder mehreren Displaykonfig
 
 Ausgebreitet auf Ihrem Displaysetup entfalten Sessions ihren immersiven Charakter. In jeder Phase Ihrer Präsentation haben Sie hier die Möglichkeit inhaltlich und darüber hinaus dynamisch auf verschiedene Situationen zu reagieren. Durch Toucheingaben auf den Displays können Sie intuitiv und schnell alle Funktionen des Showrooms erreichen und einzelne Module steuern.  
 
-In den folgenden Abschnitten werden die einzenen Elemente und Workflows des User Interfaces erläutert und wie Sie diese optimal bedienen können.    
+In den folgenden Abschnitten werden die einzelnen Elemente und Workflows des User Interfaces erläutert und wie Sie diese optimal bedienen können.    
 

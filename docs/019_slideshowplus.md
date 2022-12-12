@@ -1,42 +1,28 @@
+#Slideshow+
+
 ![SlideShowModul](img/Manager/Module/Slideshowplus_Module.PNG) 
 
 Sammlungen von bis zu 50 Videos und Bildern lassen sich mit diesem Modul einbinden.
 Das Modul wird im Showroom über Wischgesten gesteuert.
 
+<div style="display: flex">
+    <img src="img/Manager/Module/SlideshowplusProperties.PNG" width="350" style="float:left">
+    <div>
+        <ul>
+            <li><b>Show Navigation:</b> Ist der Haken gesetzt werden Navigationselemente angezeigt.</li>
+            <li><b>Navigation Inside Frame Slides:</b> Ist der Haken gesetzt werden die Navigationselemente im Slide angezeigt.</li>
+        </ul>
+    </div>
+</div>
 
-
-
-•    **Background Image** - Die gesamte Slideshow kann mit einem Hintergrund hinterlegt werden. Klicken auf 'Browse' öffnet den Asset Browser.
-
-
-
-•    **Size** - Ein Skalierungsfaktor zum Anpassen der Darstellung der Slideshow im Showroom. 
-
-
-
-•    **Title** - Überschrift der Slideshow.
-
-
-
-•    **Show Title** - Der gesetzte Haken zeigt den vergebenen Titel an.
-
-
-
-•    **Show Navigation** - Der gesetzte Haken zeigt die Navigation an. 
-
-
-
-•    **Navigation Inside Frame Slides** – Ein gesetzter Haken zeigt die Navigation im Bild an. 
-
-
-Im Sessioneditor lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Über den Assetbrowser lässt sich entweder ein ganzer Ordner mit Elementen auswählen, oder eine gezielte Multiauswahl wird getroffen. Die Funktionalität der Auswahl verhält sich, wie es unter Windows gewohnt ist (Strg + Auswahl, Shift + Auswahl).
-Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente dargestellt. Die Reihenfolge der Elemente können via Drag and Drop verändert werden. Elemente können zudem gezielt dupliziert, gelöscht oder eingefügt werden.
+Im [Sessioneditor](006_sessions.html#session-editor) lassen sich Slides entweder einzeln oder gesammelt hinzufügen. Über den [Asset Browser](050_assetbrowser.md) lässt sich entweder ein ganzer Ordner mit Elementen auswählen oder mehrere Dateien über eine Multiauswahl. Die Funktionalität der Auswahl verhält sich, wie es unter Windows gewohnt ist (`STRG` + `Klick`, `SHIFT` + `Klick`).
+Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente dargestellt. Die Reihenfolge der Elemente kann via Drag and Drop verändert werden. Elemente können zudem gezielt dupliziert, gelöscht oder eingefügt werden.
 
 <div style="display: flex; justify-content: space-between;">
 
-<div>
+<!-- <div>
         <img src="img/Manager/Module/Slideshowplus_PropertyEditor.PNG" />
-</div>
+</div> -->
 
 <ul>
     <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Folder.PNG" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
@@ -49,6 +35,5 @@ Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente da
 
 
 </div>
-
-Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Slideshow+](056_agenda/#slideshow).
+Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* unter [Agenda & Modules](056_agenda.html#slideshow).
 

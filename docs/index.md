@@ -19,7 +19,7 @@ Der Bereich des Managers besteht im Detail aus einer App/Benutzeroberfläche, ei
 
 **Manager App:** 
 
-Über die Manager App ([UNIQVUE Manager](002_sessionmanager.md)) erstellen Sie Shows, verknüpfen hier Sessions, Styles und Toolboxes, kreiren Abläufe, verwalten Inhalte und stellen diese für die Auspielung im Showroom bereit - Sie verleihen hiermit Ihrem Showroom mit einer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren.
+Über die Manager App ([UNIQVUE Manager](002_sessionmanager.md)) erstellen Sie Shows, verknüpfen hier Sessions, Styles und Toolboxes, kreieren Abläufe, verwalten Inhalte und stellen diese für die Ausspielung im Showroom bereit - Sie verleihen hiermit Ihrem Showroom mit einer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren.
 
 
 **Server:**
