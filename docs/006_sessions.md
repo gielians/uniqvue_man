@@ -49,7 +49,7 @@ Dieser Bereich zeigt die Struktur der *Agenda* als hierarchischen Baum. Im Showr
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Stage Configuration:**
 
-Dieser Bereich stellt jeden Agendapunkt und dessen zugeordneten Module grafisch so dar, wie es durch eine Playout Instanz und dessen Displaysetup ausgespielt würde. Jede Stage Configuration einer Session wird als Registrierkarte hinzugefügt, so lassen sich mehrere Stage Configurations parallel bearbeiten. **Wichtig: Bevor Agendapunkte erstellt werden können muss mindestens eine 'Stage Configuration' der *Session* zugewiesen werden. Die Stage Configuration Profile, die zur Auswahl stehen, entsprechen den vorhandenen Displaysetups bzw. Playout Instanzen Ihres Showrooms.**
+Dieser Bereich stellt jeden Agendapunkt und dessen zugeordneten Module grafisch so dar, wie es durch eine Playout Instanz und dessen Displaysetup ausgespielt würde. Jede Stage Configuration einer *Session* wird als Registrierkarte hinzugefügt, so lassen sich mehrere Stage Configurations parallel bearbeiten. **Wichtig: Bevor Agendapunkte erstellt werden können muss mindestens eine 'Stage Configuration' der *Session* zugewiesen werden. Die Stage Configuration Profile, die zur Auswahl stehen, entsprechen den vorhandenen Displaysetups bzw. Playout Instanzen Ihres Showrooms.**
 
 ![AddStageConfiguration](img/Manager/AddStageConfiguration.PNG)
 
@@ -62,7 +62,7 @@ Enthält alle verfügbaren Module wie Slideshows etc. Detaillierte Informationen
 
 <span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **Property Editor:**
 
-Hier werden entweder die Eigenschaften eines ausgewählten Moduls oder eines ausgewählten Agendapunktes angezeigt. Agendapunkte und Module besitzen individuelle Eigenschaften. Ist ein Agendapunkt ausgewählt gelangen Sie im Property Editor über den Button 'Layout Editor' in eine Einstellungsebene, in der Sie Slot Layouts erstellen können.
+Hier werden entweder die Eigenschaften eines ausgewählten Moduls oder eines ausgewählten Agendapunktes angezeigt. Agendapunkte und Module besitzen individuelle Eigenschaften. Ist ein Agendapunkt ausgewählt gelangen Sie im Property Editor über den Button 'Layout Editor' in eine Einstellungsebene, in der Sie *Slot Layouts* erstellen können.
     
 <!---
 <div style="width:100%; height: 2px; background: dimgrey; text-align:left;margin-left:0"></div>
@@ -71,13 +71,13 @@ Hier werden entweder die Eigenschaften eines ausgewählten Moduls oder eines aus
 
 ##Slot Layout Editor
 
-Slots definieren die Position und die Größe eines Moduls. Auf freie Slots können Module platziert werden. Ist ein Slot oder ein darauf platziertes Modul ausgewählt, steht im Property Editor die Möglichkeit bereit ein Hintergrundbild über den [Assetbrowser](050_assetbrowser.md) zuzuordnen.
+*Slots* definieren die Position und die Größe eines Moduls. Auf freie *Slots* können Module platziert werden. Ist ein *Slot* oder ein darauf platziertes Modul ausgewählt, steht im Property Editor die Möglichkeit bereit ein Hintergrundbild über den [Assetbrowser](050_assetbrowser.md) zuzuordnen.
 
 ![Slot](img/Manager/Slots.png)
 
 <!-- ##Slot Layout Editor -->
 
-Module erstrecken sich über ein oder mehrere Slots. Ein Agendapunkt kann mehrere Slots mit verschiedener Anordnung beinhalten - 'Slot Layouts'. Sie können Ihre eigenen Slot Layouts mit dem Slot Layout Editor erstellen.
+Module erstrecken sich über ein oder mehrere *Slots*. Ein Agendapunkt kann mehrere *Slots* mit verschiedener Anordnung beinhalten - 'Slot Layouts'. Sie können Ihre eigenen *Slot Layouts* mit dem *Slot Layout Editor* erstellen.
     
 ![SlotLayout](img/Manager/SlotLayout-1.png)
 
@@ -85,26 +85,26 @@ Module erstrecken sich über ein oder mehrere Slots. Ein Agendapunkt kann mehrer
 
 ![SlotLayoutEditor](img/Manager/SlotLayoutEditor-Highlighted.png)
 
-Der Slot Layout Editor besteht aus drei Bereichen (farbig markiert)
+Der *Slot Layout Editor* besteht aus drei Bereichen (farbig markiert)
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **Object List:**
 
-Übersicht der vorhandenen Slots mit Informationen zur aktuellen Größe und Anordnung eines Slots. Es lassen sich maximal 12 Slots pro Layout erzeugen.
+Übersicht der vorhandenen *Slots* mit Informationen zur aktuellen Größe und Anordnung eines *Slots*. Es lassen sich maximal 12 *Slots* pro Layout erzeugen.
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Layout: **
 
-Grafische Repräsentation der aktuellen Stage! Die angezeigten Slots können hier mit der Maus in Position und Größe verändert werden. Mit gehaltener `SHIFT`-Taste können mehrere Slot einer Auswahl hinzugefügt werden und zusammen verschoben oder skaliert werden.
+Grafische Repräsentation der aktuellen Stage! Die angezeigten *Slots* können hier mit der Maus in Position und Größe verändert werden. Mit gehaltener `SHIFT`-Taste können mehrere *Slot* einer Auswahl hinzugefügt werden und zusammen verschoben oder skaliert werden.
 
 ![SlotMultiselection](img/Manager/SlotMultiselection.PNG)
 
-Zusätzlich dazu stellt der Layout Bereich eine Auswahl an Tool zur Verfügung um Slots mit einem Klick anzuordnen.
+Zusätzlich dazu stellt der Layout Bereich eine Auswahl an Tool zur Verfügung um *Slots* mit einem Klick anzuordnen.
 
 ![AlignmentTools](img/Manager/AlignmentTools.PNG)
 
 
 <span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **Object Properties:** 
 
-Hier wird Größe, Anordnung und Ankerpunkt eines Slots pixelgenau definiert. 
+Hier wird Größe, Anordnung und Ankerpunkt eines *Slots* pixelgenau definiert. 
 
 ***
 ##Session Worklfow

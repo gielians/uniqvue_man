@@ -2,14 +2,36 @@
 
 
 
-*Module* treten an verschiedenen Stellen im *UNIQVUE Manager* auf. Im *Session Editor* stehen alle *Module* zur Verfügung, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die Toolbox erreichbar sind. In Abschnitt [Toolboxes](007_toolbox.md) wird darauf detailliert eingegangen. 
+*Module* treten an verschiedenen Stellen im *UNIQVUE Manager* auf. Im *Session Editor* stehen alle *Module* zur Verfügung, um eine *Agenda* zu gestalten. Der *Toolbox Editor* enthält zusätzlich zu den Modulen, die auch im *Session Editor* existieren, weitere spezielle Module, die nur über die *Toolbox* erreichbar sind. In Abschnitt [Toolboxes](007_toolbox.md) wird darauf detailliert eingegangen. 
+
+
+Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Multiview*. Alle Module teilen einen Attribut: 
+
+**Thumbnail** 
+<div style="display: flex; align-items: center;">
+    <img src="img/Manager/Module/Thumbnail.PNG" width="350" style="float:left; height: fit-content;">
+    <div>
+        <ul>
+            <li><b>Thumbnail:</b> Hierüber lässt sich definieren, was für ein Icon die Darstellung des Moduls im <i>Session Editor</i> haben soll. Die Standardeinstellung ist 'Default Icon'.</li>
+        </ul>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="img/Manager/Module/CustomThumbnail.PNG" width="350" style="float:left; height: fit-content;">
+    <div>
+        <ul>
+            <li>Ist 'Custom Thumbnail' ausgewählt, kann über den <i>Asset Browser</i> ein eigenes Icon ausgewählt werden.</li>
+        </ul>
+    </div>
+</div>
+
+    
+<!-- ![ThumbnailParameter](img/Manager/Module/Thumbnail.PNG)
+
+![ThumbnailParameter](img/Manager/Module/CustomThumbnail.PNG) -->
 
 ***
-
-Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Multiview*.
-
-
-
  **Singleview Module** 
 
  <div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 10px;justify-content: center;
@@ -90,3 +112,5 @@ Diese *Module* nehmen maximal ein Slot eines [Slot Layouts](006_sessions.html#sl
 
 
 ![SingleView](img/Manager/MultiviewModul.PNG)
+
+***

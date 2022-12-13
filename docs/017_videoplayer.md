@@ -13,4 +13,4 @@ Binden Sie mit diesem Modul Videos in ihre Präsentation ein.
     </div>
 </div>
 
-Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* unter [Agenda & Modules](056_agenda.html#videoplayer).
+Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* unter [Agenda & Modules](056_agenda.html#video-player).

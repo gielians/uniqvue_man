@@ -9,7 +9,7 @@ Listen Sie wichtige Punkte in einer Bullet List auf.
     <div>
         <ul>
             <li><b>Headline:</b> Über den internen Texteditor kann ein Titel geschrieben werden.</li>
-            <li><b>Bullet Text:</b> Über den Texteditor schreiben schreiben Sie die Bulletpoints</li>
+            <li><b>Bullet Text:</b> Über den Texteditor schreiben Sie die Bulletpoints</li>
         </ul>
     </div>
 </div>

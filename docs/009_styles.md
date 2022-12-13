@@ -1,6 +1,6 @@
 # Styles 
 
-Ein *Style* ist für jede Show obligatorisch. Das heißt, ein *Style* muss zwingend einer Show zugewiesen werden. Der *Style* definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich weitere Parameter einstellen.  
+Ein *Style* ist für jede *Show* obligatorisch. Das heißt, ein *Style* muss zwingend einer *Show* zugewiesen werden. Der *Style* definiert das gesamte Erscheinungsbild des Showrooms. Über Schriftart, Lichtfarbe der Beleuchtung und Icons lassen sich weitere Parameter einstellen.  
 ***
 
 ##Style List  
@@ -49,11 +49,11 @@ Die *Style List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert d
 ***
 ##Style Editor
 ![StyleEditor](img/Manager/StyleEditor-Highlighted.PNG)
-Der Style Editor ist in 4 Bereiche eingeteilt (farbig markiert), die die Eigenschaften der grafischen Elemente des Showrooms auflisten:
+Der *Style Editor* ist in 4 Bereiche eingeteilt (farbig markiert), die die Eigenschaften der grafischen Elemente des Showrooms auflisten:
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **[Home Screen](055_homescreen.md):** 
 
-Der Home Screen ist der Startpunkt einer Show. Von hier aus können Sie unter Anderem [Sessions](006_sessions.md) laden.
+Der Home Screen ist der Startpunkt einer *Show*. Von hier aus können Sie unter Anderem [Sessions](006_sessions.md) laden.
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **[Agenda & Modules](056_agenda.md):**
 
@@ -61,18 +61,18 @@ In diesem Bereich werden Styleeigenschaften für Agenden und Module definiert.
 
 <span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **[DISC & Frames](057_disc.md): **
 
-Hier kann der Look der Toolbox angepasst werden. 
+Hier kann der Look der *Toolbox* angepasst werden. 
 
 <span style="color: #BF00FF; background: #BF00FF; border-radius: 100px">&#9711</span> **3D Backgrounds:** 
 
-Das Aussehen des 3D-Hintergrundes einer Show kann hier durch einige Parameter angepasst werden.
+Das Aussehen des 3D-Hintergrundes einer *Show* kann hier durch einige Parameter angepasst werden.
 
 ***
 ##Style Workflow
 
 **Erstellen eines neuen Styles:**  
 
-Sie erstellen eine neuen Style durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen Sie zum Style Editor.
+Sie erstellen eine neuen *Style* durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Style’ Button gelangen Sie zum *Style Editor*.
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/CreateStyle.webm" type="video/webm" markdown="1">
 </video>
@@ -94,7 +94,7 @@ Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilem
 
 **Styles Speichern und benennen:** 
 
-Ist der Style nach Ihren Wünschen angepasst, muss dieser gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird der Style gespeichert.
+Ist der *Style* nach Ihren Wünschen angepasst, muss dieser gespeichert werden. Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird der *Style* gespeichert.
 
 **Tipps und Tricks**
 

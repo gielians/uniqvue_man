@@ -61,7 +61,7 @@ Der Property Editor zeigt Parameter der aktuellen Selektion an, die geändert we
 
 <span style="color: #BF00FF; background: #BF00FF; border-radius: 100px">&#9711</span> **Repository:**
 
-Dieser Bereich enthält Module, die in einer Toolbox zugewiesen werden können.
+Dieser Bereich enthält Module, die in einer *Toolbox* zugewiesen werden können.
 
 <span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Module Menu Tree:**
 
@@ -69,7 +69,7 @@ Dieser Bereich strukturiert die Menüpunkte der *Toolbox* in einer Hierarchie. U
 
 <span style="color: black; background: #FFFFFF; border-radius: 100px">&#9711</span> **System Tools:**
 
-Hier sind Funktionen gelistet, die anders als Module nur in einer Toolbox vorkommen können.
+Hier sind Funktionen gelistet, die anders als Module nur in einer *Toolbox* vorkommen können.
     
 ***
 
@@ -95,12 +95,14 @@ Hier sind Funktionen gelistet, die anders als Module nur in einer Toolbox vorkom
 
     Falls ein Mikrofon zum Einsatz kommt, kann hiermit die Lautstärke im Playout reguliert werden.
    
+Der Abschnitt [Disc](057_disc.md) erläutert wie die Tools im Showroom benutzt werden.
+
 ***
 ##Toolbox Workflow
 
 **Erstellen einer neuen Toolbox:**  
 
-Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern.
+Sie erstellen eine neue *Toolbox* durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern.
 <video width="99%" height="140" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/CreateToolbox.webm" type="video/webm" markdown="1">
 </video>
@@ -109,7 +111,7 @@ Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeich
 
 Klicken Sie auf den Button 'Edit Toolbox' um in den *Toolbox Editor* zu gelangen.
 
-Füllen Sie die Toolbox mit Modulen... 
+Füllen Sie die *Toolbox* mit Modulen... 
 
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/AddModulesToToolbox.webm" type="video/webm" markdown="1">
@@ -126,7 +128,7 @@ Füllen Sie die Toolbox mit Modulen...
 -->
 **Inhalte verknüpfen:** 
 
-Über den Assetbrowser verknüpfen Sie Inhalte mit Modulen.
+Über den *Asset Browser* verknüpfen Sie Inhalte mit Modulen.
 
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/AddAssetsToolbox.webm" type="video/webm" markdown="1">
@@ -143,13 +145,13 @@ Durch Doppelklick auf den Namen eines Elementes in der Hierarchie, können Sie d
 
 **Speichern und Veröffentlichen:** 
 
-Ist die Toolbox nach Ihren Wünschen angepasst muss diese gespeichert werden! Das Sternsymbol im Tab (‘*’) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die Toolbox gespeichert.
+Ist die *Toolbox* nach Ihren Wünschen angepasst muss diese gespeichert werden! Das Sternsymbol im Tab ( \* ) zeigt Ihnen an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination STRG + S wird die *Toolbox* gespeichert.
 
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/SaveToolbox.webm" type="video/webm" markdown="1">
 </video>
 
-Durch Setzen des Hakens bei ‘Released’ wird die Toolbox in der Show List verfügbar gemacht und kann so einer Show zugeordnet werden.
+Durch Setzen des Hakens bei ‘Released’ wird die *Toolbox* in der Show List verfügbar gemacht und kann so einer *Show* zugeordnet werden.
 
 
 

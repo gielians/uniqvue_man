@@ -1,6 +1,6 @@
 # Teams 
 
-Teams sind optional für eine Session. Hiermit lassen sich jedoch Sessions mit Arbeitsgruppen bzw. einem Team verknüpfen. Tragen sie hier die MitarbeiterInnen ein, die eine Arbeitsgruppe in einer Session zu einem Projekt bilden.
+Teams sind optional für eine *Session*. Hiermit lassen sich jedoch *Sessions* mit Arbeitsgruppen bzw. einem Team verknüpfen. Tragen sie hier die MitarbeiterInnen ein, die eine Arbeitsgruppe in einer *Session* zu einem Projekt bilden.
 
 
 Sie finden hier einen Überblick zu diesem Thema.
