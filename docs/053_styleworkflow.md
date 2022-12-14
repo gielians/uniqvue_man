@@ -39,7 +39,7 @@ Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschaften der grafisc
 <li> <b>3D Background</b></p></li>
 </ul>
 
-![Placeholder](img/Manager/Style_Editor.PNG)
+![Placeholder](img/Manager/Style_Editor.png)
 
 ***
 
@@ -50,7 +50,7 @@ Nehmen Sie Änderungen an den Farben, den Fonts und den Icons der einzelnen graf
 **Icons verknüpfen:** 
 
 Unter den Kategorien *Widget* und *Toolbox* lassen sich ganze Icon-Sets ändern.
-Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines Pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
+Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
 Durch Klicken auf die Schaltfläche ‘Browse’ öffnet sich *Asset Browser*, um ein entsprechendes Icon-Set auszuwählen. In Kapitel [Asset Browser](050_assetbrowser.md) gibt es eine detaillierte Erklärung wie dieser funktioniert. 
 
 

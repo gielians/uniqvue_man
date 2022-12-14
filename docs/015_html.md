@@ -1,13 +1,13 @@
 #HTML
 
-![HTMLModul](img/Manager/Module/HTML_Module.PNG) 
+![HTMLModul](img/Manager/Module/HTML_Module.png) 
 
 
 Das HTML-Modul kann HTML Inhalte darstellen. 
 
 
 <div style="display: flex">
-    <img src="img/Manager/Module/HtmlProperties.PNG" width="350" style="float:left">
+    <img src="img/Manager/Module/HtmlProperties.png" width="350" style="float:left">
     <div>
         <ul>
             <li><b>HTML File:</b> Über den <a href="050_assetbrowser.html">Asset Browser</a> wählen Sie ein Verzeichnis aus, welches eine 'index.html' enthält.</li>

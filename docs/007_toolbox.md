@@ -1,8 +1,8 @@
 # Toolboxes
-<img src="img/Manager/GetToolbox.PNG" width="400"/>
+<img src="img/Manager/GetToolbox.png" width="400"/>
 
 <!---
-<img src="img/Manager/GetToolbox.PNG" style="float:right;margin:0 10px 30px 0;width: 25%;" markdown="1"/>
+<img src="img/Manager/GetToolbox.png" style="float:right;margin:0 10px 30px 0;width: 25%;" markdown="1"/>
 -->
 
 Eine *Toolbox* ist für jede *Show* obligatorisch. Das heißt, sie muss zwingend einer *Show* zugewiesen sein. Die *Toolbox* ist das zentrale Bedienungswerkzeug und ist in jeder Phase in der Arbeit mit dem Showrooms zugänglich. Sie können die *Toolbox* individuell an ihren Workflow aus einem Repertoire an Funktionen und nützlichen Tools anpassen.
@@ -13,7 +13,7 @@ Eine *Toolbox* ist für jede *Show* obligatorisch. Das heißt, sie muss zwingend
 ***
 ##Toolbox List
 
-![Placeholder](img/Manager/ToolboxListNew.PNG) 
+![Placeholder](img/Manager/ToolboxListNew.png) 
 
 Das *Toolbox List* Fenster unterteilt sich in 4 Bereiche (farbig markiert) 
 
@@ -42,7 +42,7 @@ Der *Toolbox Inspector* stellt die wichtigsten Eigenschaften einer ausgewählten
 ##Toolbox Editor
 
 
-![ToolboxEditor](img/Manager/ToolboxEditor-Highlighted.PNG)
+![ToolboxEditor](img/Manager/ToolboxEditor-Highlighted.png)
 
 
 Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt (farbig markiert) 
@@ -124,7 +124,7 @@ Füllen Sie die *Toolbox* mit Modulen...
 </video>
 
 <!---
-![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.PNG)
+![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.png)
 -->
 **Inhalte verknüpfen:** 
 

@@ -10,7 +10,7 @@ In jeder Listenansicht befinden sich folgende Bedienelemte am linken, oberen Ran
 </ul>
 
 
-![Placeholder](img/Manager/Bedienelemente.PNG)
+![Placeholder](img/Manager/Bedienelemente.png)
 
 ***
 
@@ -24,5 +24,5 @@ Auf jeder Editorebene befinden sich zusätzlich folgende Bedienelemente:
 <li><div><img src="img/Manager/saveas.png"/> Bearbeitung speichern unter</div></li>
 </ul>
 
-![Placeholder](img/Manager/Bedienelemente-Editor.PNG)
+![Placeholder](img/Manager/Bedienelemente-Editor.png)
 

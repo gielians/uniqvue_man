@@ -2,7 +2,7 @@
 
 
 <!---
-![SessionList](img/Manager/SessionList_Crop.PNG)
+![SessionList](img/Manager/SessionList_Crop.png)
 -->
 Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann einfach eine Session bearbeitet, erstellt, dupliziert oder gelöscht werden. 
 
@@ -28,18 +28,18 @@ Zur Erinnerung noch einmal die Icons und ihre Funktion:
 Sie erstellen eine neue *Session* durch Klicken auf das Dokument mit dem Pluszeichen. Zunächst werden Sie aufgefordert eine 'Stage Configuration' auszuwählen. Dies ist nur erforderlich wenn Ihnen mehr als ein Showroomsetup zur Verfügung steht, sonst wird automatisch das einzige Setup verwendet.
 
 <p align="center">
- <img src="img/Manager/StageConfiguration.PNG" width="50%" height="300px" markdown="1" >
+ <img src="img/Manager/StageConfiguration.png" width="50%" height="300px" markdown="1" >
 </p>
 
 <!---
-src="..img/Manager/StageConfiguration.PNG"
-!['Stage Configuration'-Auswahl](img/Manager/StageConfiguration.PNG)
+src="..img/Manager/StageConfiguration.png"
+!['Stage Configuration'-Auswahl](img/Manager/StageConfiguration.png)
 -->
 
 Mit Doppelklick auf den Namen können Sie der *Session* einen Namen geben. Diese *Session* ist zunächst leer. Sie enthält außer einem Default *Style* und einer Default *Toolbox* keine weiteren Inhalte. Das können Sie ändern, indem Sie auf den Stift zum Bearbeiten der *Session* klicken. Alternativ kann die *Session*, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leiten weiter zum *Session Editor*. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden *Session* trägt. Beliebig viele Tabs also *Sessions* können gleichzeitig geöffnet sein. Das Sternsymbol (‘\*’) erscheint außerdem im *Session* Namen, um einen Indikator dafür zu liefern, ob eine *Session* noch ungespeicherte Änderungen enthält.
 ***
 <!---
-![SessionEditor](img/Manager/SessionEditor_AgendItemFocused.PNG) 
+![SessionEditor](img/Manager/SessionEditor_AgendItemFocused.png) 
 -->
 
 ***

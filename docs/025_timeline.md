@@ -12,7 +12,7 @@ Für jede Station der Timeline stehen Ihnen folgende Module zur Verfügung:
 - [HTML](015_html.md)
 
 <div style="display: flex">
-    <img src="img/Manager/Module/TimelineProperties.PNG" width="350" style="float:left">
+    <img src="img/Manager/Module/TimelineProperties.png" width="350" style="float:left">
     <div>
         <ul>
             <li><b>Color:</b> Farbe der grafischen Elemente der Timeline.</li>
@@ -39,16 +39,16 @@ Die zugewiesenen Slides werden im Property Editor als einzelne Listenelemente da
 <div style="display: flex; justify-content: space-between;">
 
 <ul>
-    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Folder.PNG" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Folder.png" /> Asset Browser öffnen um mehrere Bild- oder Videodateien als neue Liste zu erstellen</div> </li>
     <li><div>
-        <img src="img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
+        <img src="img/Manager/Module/Storyboardplus_Icon_New.png"/> Neuen Listeneintrag am Ende erstellen
     </div></li>
-    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
-    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
-    <li><div><img src="img/Manager/Module/ClipboardCopyIcon.PNG" /> Kopieren eines Listenelementes mit Eigenschaften.</div> </li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.png"/> Neuen Listeneintrag duplizieren</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Delete.png"/> Ausgewählten Listeneintrag löschen</div></li>
+    <li><div><img src="img/Manager/Module/ClipboardCopyIcon.png" /> Kopieren eines Listenelementes mit Eigenschaften.</div> </li>
     <li>
     <div>
-    <img src="img/Manager/Module/ClipboardPasteIcon.PNG" /> Neuen Listeneintrag aus Kopie erzeugen.</div> </li>
+    <img src="img/Manager/Module/ClipboardPasteIcon.png" /> Neuen Listeneintrag aus Kopie erzeugen.</div> </li>
 </ul>
 </div>
 
@@ -60,15 +60,15 @@ Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* u
 <!-- <div style="display: flex; justify-content: space-between;">
 
 <div>
-        <img src="img/Manager/Module/Timeline_PropertyEditor.PNG" />
+        <img src="img/Manager/Module/Timeline_PropertyEditor.png" />
 </div>
 
 <ul>
     <li><div>
-        <img src="img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neues Modul zur Timeline hinzufügen
+        <img src="img/Manager/Module/Storyboardplus_Icon_New.png"/> Neues Modul zur Timeline hinzufügen
     </div></li>
-    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Listeneintrag bzw. Modul duplizieren</div></li>
-    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag bzw. Modul löschen</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.png"/> Listeneintrag bzw. Modul duplizieren</div></li>
+    <li><div><img src="img/Manager/Module/Storyboardplus_Icon_Delete.png"/> Ausgewählten Listeneintrag bzw. Modul löschen</div></li>
 </ul>
 
 

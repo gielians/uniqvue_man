@@ -61,7 +61,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Ab
 Das *Slideshow+* Modul kann neben Bildern auch Videos darstellen. Per Wischgeste kann durch die Slides navigiert werden. 
 Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [Slideshow+](019_slideshowplus.md).
 
-![Agenda Modul](img/Showroom/Agenda_Slideshowplus.PNG)
+![Agenda Modul](img/Showroom/Agenda_Slideshowplus.png)
 ***
 <!--
 ## Storyboard
@@ -78,7 +78,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Ab
 Das *Storyboard+* Modul ist eine erweiterte Version des einfachen Storyboards. Es beinhaltet mehr Features. Neben Bildern lassen sich auch Videos einem Storyboard zuweisen. Per Wischgeste lassen sich die einzelnen Bilder und Videos aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
 Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [Storyboard](022_storyboardplus.md).
 
-![Agenda Modul](img/Showroom/Agenda_Storyboardplus.PNG)
+![Agenda Modul](img/Showroom/Agenda_Storyboardplus.png)
 ***
 
 ## Input Selector
@@ -108,7 +108,7 @@ Das *Bar Chart* Modul bietet ihnen ein einfaches Tool um schnell animierte Balke
 
 Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [Bar Chart](020_barchart.md).
 
-![Agenda Modul](img/Showroom/Agenda_BarChart.PNG)
+![Agenda Modul](img/Showroom/Agenda_BarChart.png)
 
 ***
 ## Pause

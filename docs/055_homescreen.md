@@ -10,7 +10,7 @@ Der Home Screen (Dashboard) ist der Startpunkt einer jeden Show. Der Home Screen
 Dieses Widget ist das Wichtigste, es zeigt eine Ordnerstruktur in denen Shows organisiert sind. Enthält eine Show eine Session mit der passenden 'Stage Configuration' zu Ihrer aktuellen Playout-Instanz, wird die enthaltene Session angezeigt und kann von hier geladen werden.
 Shows die Sie zuvor im UNIQVUE Manager angelegt und freigegeben haben stehen Ihnen hier zur Verfügung. In Abschnitt [Shows](006_sessions.md) finden Sie detaillierte Informationen, wie Shows angelegt werden. Betätigen der Schaltfläche 'Load Session' lädt eine verfügbare Session, dabei zeigt ein Ladebalken den aktuellen Ladestatus an. Nach kurzer Ladezeit ist die Session bereit gestartet zu werden.
 
-![SessionSelection](img/Showroom/Session_Selection.PNG)
+![SessionSelection](img/Showroom/Session_Selection.png)
 
 
 ***
@@ -29,21 +29,21 @@ Durch längeres berühren der Fläche umschließt ein Ring die Hand. Ist der Rin
 
    
 Dieses Widget zeigt Ihnen den Börsenindex eines Unternehmens.
-![SharePrice](img/Showroom/Share_Price.PNG)
+![SharePrice](img/Showroom/Share_Price.png)
 
 ***
 ##RSS Feed
 
 Dieses Widget bindet einen RSS-Feed in Ihren Home Screen ein.
 
-![RSSFeed](img/Showroom/RSS_Feed.PNG)
+![RSSFeed](img/Showroom/RSS_Feed.png)
     
 ***    
 ##Controls
 
 Hiermit können Sie Volumen und Helligkeit des Showrooms steuern.
 
-![Controls](img/Showroom/Controls.PNG)
+![Controls](img/Showroom/Controls.png)
 
 ***
 
@@ -51,7 +51,7 @@ Hiermit können Sie Volumen und Helligkeit des Showrooms steuern.
 
 Dieses Widget zeig Ihnen das ausgewählte Team Ihrer geladenen Session an.
 
-![TeamGallery](img/Showroom/Team_Gallery.PNG)
+![TeamGallery](img/Showroom/Team_Gallery.png)
 
 
 ***
@@ -60,7 +60,7 @@ Dieses Widget zeig Ihnen das ausgewählte Team Ihrer geladenen Session an.
 
 Das World Clock Widget zeigt Ihnen die unterschiedlichen Zeiten auf der Erde.
 
-![WorldClock](img/Showroom/World_Clock.PNG)
+![WorldClock](img/Showroom/World_Clock.png)
     
 ***
 
@@ -68,7 +68,7 @@ Das World Clock Widget zeigt Ihnen die unterschiedlichen Zeiten auf der Erde.
 
 Das Locations Widget visualisiert auf die Standorte Ihres Unternehmens. Durch Klicken auf einen Namen in der Liste, wird die entsprechende Stelle auf dem Globus fokussiert.
 
-![Locations](img/Showroom/Locations.PNG)
+![Locations](img/Showroom/Locations.png)
 
 ##Agenda
 

@@ -1,11 +1,11 @@
 #Browser
 
-![BrowserModul](img/Manager/Module/Browser_Module.PNG) 
+![BrowserModul](img/Manager/Module/Browser_Module.png) 
 
 Das Browser Modul bindet Chrome als vollwertigen Browser in Ihre Präsentation ein.
 
 <div style="display: flex">
-    <img src="img/Manager/Module/BrowserProperties.PNG" width="350" style="float:left">
+    <img src="img/Manager/Module/BrowserProperties.png" width="350" style="float:left">
     <div>
         <ul>
             <li><b>Show Header:</b> Der gesetzte Haken zeigt die URL-Leiste, Bookmarks etc. an.</li>

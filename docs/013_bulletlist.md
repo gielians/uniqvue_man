@@ -1,11 +1,11 @@
 #Bullet List
 
-![TitleModul](img/Manager/Module/Bullet_List_Module.PNG)
+![TitleModul](img/Manager/Module/Bullet_List_Module.png)
 
 Listen Sie wichtige Punkte in einer Bullet List auf.
 
 <div style="display: flex">
-    <img src="img/Manager/Module/BulletlistProperties.PNG" width="350" style="float:left">
+    <img src="img/Manager/Module/BulletlistProperties.png" width="350" style="float:left">
     <div>
         <ul>
             <li><b>Headline:</b> Über den internen Texteditor kann ein Titel geschrieben werden.</li>
@@ -18,4 +18,4 @@ Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* u
 ***
 #Text Editor
 
-![TextEditor](img/Manager/Module/Texteditor_1.PNG)
+![TextEditor](img/Manager/Module/Texteditor_1.png)

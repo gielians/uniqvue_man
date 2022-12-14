@@ -10,7 +10,7 @@
 ***
 ##Session List 
 
-![SessionList](img/Manager/SessionList_Highlighted.PNG) 
+![SessionList](img/Manager/SessionList_Highlighted.png) 
 Das *Session List* Fenster unterteilt sich in 4 Bereiche (farbig markiert).
 
 <span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Allgemeine [Bedienelemente](005_bedienelemente.md)**
@@ -39,7 +39,7 @@ Der *Session Inspector* stellt die wichtigsten Eigenschaften einer ausgewählten
 
 ##Session Editor
 
-![SessionEditor](img/Manager/SessionEditor-Highlighted.PNG)
+![SessionEditor](img/Manager/SessionEditor-Highlighted.png)
 
 Der *Session* Editor besteht aus mehreren Bereichen (farbig markiert)
 
@@ -51,7 +51,7 @@ Dieser Bereich zeigt die Struktur der *Agenda* als hierarchischen Baum. Im Showr
 
 Dieser Bereich stellt jeden Agendapunkt und dessen zugeordneten Module grafisch so dar, wie es durch eine Playout Instanz und dessen Displaysetup ausgespielt würde. Jede Stage Configuration einer *Session* wird als Registrierkarte hinzugefügt, so lassen sich mehrere Stage Configurations parallel bearbeiten. **Wichtig: Bevor Agendapunkte erstellt werden können muss mindestens eine 'Stage Configuration' der *Session* zugewiesen werden. Die Stage Configuration Profile, die zur Auswahl stehen, entsprechen den vorhandenen Displaysetups bzw. Playout Instanzen Ihres Showrooms.**
 
-![AddStageConfiguration](img/Manager/AddStageConfiguration.PNG)
+![AddStageConfiguration](img/Manager/AddStageConfiguration.png)
 
 
 
@@ -95,11 +95,11 @@ Der *Slot Layout Editor* besteht aus drei Bereichen (farbig markiert)
 
 Grafische Repräsentation der aktuellen Stage! Die angezeigten *Slots* können hier mit der Maus in Position und Größe verändert werden. Mit gehaltener `SHIFT`-Taste können mehrere *Slot* einer Auswahl hinzugefügt werden und zusammen verschoben oder skaliert werden.
 
-![SlotMultiselection](img/Manager/SlotMultiselection.PNG)
+![SlotMultiselection](img/Manager/SlotMultiselection.png)
 
 Zusätzlich dazu stellt der Layout Bereich eine Auswahl an Tool zur Verfügung um *Slots* mit einem Klick anzuordnen.
 
-![AlignmentTools](img/Manager/AlignmentTools.PNG)
+![AlignmentTools](img/Manager/AlignmentTools.png)
 
 
 <span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **Object Properties:** 

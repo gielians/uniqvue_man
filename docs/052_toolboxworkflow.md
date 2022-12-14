@@ -28,7 +28,7 @@ Zur Erinnerung noch einmal Icons und ihre Funktion:
 </video>
 Sie erstellen eine neue Toolbox durch Klicken auf das Dokument mit dem Pluszeichen. Mit Doppelklick auf den Namen können Sie diesen ändern. Durch Klicken auf das Stiftsymbol oder durch Klicken auf den ‘Edit Toolbox’ Button gelangen Sie zum Toolbox Editor. Dieser öffnet sich in einem neuen Tab mit dem Namen der zu bearbeitenden Toolbox. Beliebig viele Tabs also Toolboxes können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im Toolbox Namen, um einen Indikator dafür zu liefern, ob eine Toolbox noch ungespeicherte Änderungen enthält. Zu sehen ist jetzt eine Repräsentation der Toolbox mit einigen voreingestellten Funktionen. Die Konfiguration Ihrer Toolbox können Sie hier jetzt anpassen. 
 
-![ToolboxEditor](img/Manager/Toolbox_Editor.PNG)
+![ToolboxEditor](img/Manager/Toolbox_Editor.png)
  ***
 Zur Erinnerung - Der *Toolbox Editor* ist in mehrere Bereiche eingeteilt: 
 
@@ -77,9 +77,9 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber 
 
 Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenü in Ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
 <!---
-![Toolbox_MainMenu](img/Manager/Toolbox_MainMenu.PNG)
+![Toolbox_MainMenu](img/Manager/Toolbox_MainMenu.png)
 
-![Toolbox_DefaultSub](img/Manager/Toolbox_DefaultSub.PNG)
+![Toolbox_DefaultSub](img/Manager/Toolbox_DefaultSub.png)
 -->
 Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bereich ‘Presentation Tools’ ein Modul Ihrer Wahl über das neue Element im Bereich 'Presentation' und platzieren Sie es. Alternativ können sie Module in den Bereich ‘Frame Preview’ ziehen und platzieren.
 
@@ -88,7 +88,7 @@ Wählen Sie das leere Element aus. Ziehen Sie nun per Drag and Drop aus dem Bere
 </video>
 
 <!---
-![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.PNG)
+![Toolbox_DragDrop](img/Manager/Toolbox_DragDrop.png)
 -->
 **Inhalte verknüpfen:** 
 

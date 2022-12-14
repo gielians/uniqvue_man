@@ -1,9 +1,9 @@
-![VideoplayerModul](img/Manager/Module/Videoplayer_Module.PNG) 
+![VideoplayerModul](img/Manager/Module/Videoplayer_Module.png) 
 
 Binden Sie mit diesem Modul Videos in ihre Präsentation ein.
 
 <div style="display: flex">
-    <img src="img/Manager/Module/VideoplayerProperties.PNG" width="350" style="float:left">
+    <img src="img/Manager/Module/VideoplayerProperties.png" width="350" style="float:left">
     <div>
         <ul>
             <li><b>Video File:</b> Öffnet den <a href="050_assetbrowser.html">Asset Browser</a> zur Video Auswahl.</li>

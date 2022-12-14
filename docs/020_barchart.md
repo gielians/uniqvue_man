@@ -1,4 +1,4 @@
-![BarChartModul](img/Manager/Module/BarChart_Module.PNG) 
+![BarChartModul](img/Manager/Module/BarChart_Module.png) 
 
 Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre Show zu verwenden. Jeder Balken wird im Property Editor als Element in einer Liste repräsentiert. Jeder von maximal 12 Balken kann mit einem beliebigen Wert, einer Bezeichnung und einer Farbe versehen werden.
 
@@ -6,7 +6,7 @@ Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre
 <div style="display: flex;">
 
 
-    <img src="img/Manager/Module/BarChartProperties.PNG" width="350" style="float:left" />
+    <img src="img/Manager/Module/BarChartProperties.png" width="350" style="float:left" />
 
 <div>
     <ul>
@@ -49,21 +49,21 @@ Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre
 <ul>
     <li>
     <div>
-        <img src="img/Manager/Module/Storyboardplus_Icon_New.PNG"/> Neuen Listeneintrag am Ende erstellen
+        <img src="img/Manager/Module/Storyboardplus_Icon_New.png"/> Neuen Listeneintrag am Ende erstellen
     </div>
     </li>
     <li>
     <div>
-    <img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.PNG"/> Neuen Listeneintrag duplizieren</div></li>
+    <img src="img/Manager/Module/Storyboardplus_Icon_Duplicate.png"/> Neuen Listeneintrag duplizieren</div></li>
     <li>
     <div>
-    <img src="img/Manager/Module/Storyboardplus_Icon_Delete.PNG"/> Ausgewählten Listeneintrag löschen</div></li>
+    <img src="img/Manager/Module/Storyboardplus_Icon_Delete.png"/> Ausgewählten Listeneintrag löschen</div></li>
     <li>
     <div>
-    <img src="img/Manager/Module/ClipboardCopyIcon.PNG" /> Kopieren eines Listenelementes mit Eigenschaften.</div> </li>
+    <img src="img/Manager/Module/ClipboardCopyIcon.png" /> Kopieren eines Listenelementes mit Eigenschaften.</div> </li>
     <li>
     <div>
-    <img src="img/Manager/Module/ClipboardPasteIcon.PNG" /> Neuen Listeneintrag aus Kopie erzeugen.</div> </li>
+    <img src="img/Manager/Module/ClipboardPasteIcon.png" /> Neuen Listeneintrag aus Kopie erzeugen.</div> </li>
 </ul>
 </div>
 

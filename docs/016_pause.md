@@ -1,11 +1,11 @@
 #Pause
 
-![PauseModul](img/Manager/Module/Pause_Module.PNG) 
+![PauseModul](img/Manager/Module/Pause_Module.png) 
 
 Strukturieren Sie die Pausen in ihrer Präsentation mit diesem Modul.
 
 <div style="display: flex">
-    <img src="img/Manager/Module/PauseProperties.PNG" width="350" style="float:left">
+    <img src="img/Manager/Module/PauseProperties.png" width="350" style="float:left">
     <div>
         <ul>
             <li><b>Headline:</b> Über den internen Texteditor kann ein Titel geschrieben werden.</li>
@@ -19,4 +19,4 @@ Wie das Modul im Showroom dargestellt wird, finden Sie im Abschnitt *Showroom* u
 ***
 #Text Editor
 
-![TextEditor](img/Manager/Module/Texteditor_1.PNG)
+![TextEditor](img/Manager/Module/Texteditor_1.png)

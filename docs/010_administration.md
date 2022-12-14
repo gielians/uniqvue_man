@@ -9,7 +9,7 @@ Hier können Sie UserInnen-Accounts verwalten. Dazu gehört:
  
  Diese Funktionen sind über die allgemeinen Bedienelemente verfügbar.
  
- ![Administratorbereich](img/Manager/UserAccountList.PNG)
+ ![Administratorbereich](img/Manager/UserAccountList.png)
  
  
  Beim Erstellen eines neuen Accounts öffnet sich eine Eingabemaske. Hier müssen folgende Eingaben gemacht werden:
@@ -20,7 +20,7 @@ Hier können Sie UserInnen-Accounts verwalten. Dazu gehört:
  - Role: Standard oder Administrator
  - Passwort
  
- !['Add User'-Eingabemaske](img/Manager/UserCreationMask.PNG)
+ !['Add User'-Eingabemaske](img/Manager/UserCreationMask.png)
  
  
  Klicken Sie den 'Add'-Button um den Erstellungsvorgang abzuschließen.

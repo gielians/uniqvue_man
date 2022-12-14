@@ -5,7 +5,7 @@ Ein *Style* ist für jede *Show* obligatorisch. Das heißt, ein *Style* muss zwi
 
 ##Style List  
 
-![Placeholder](img/Manager/StyleList-Highlighted.PNG) 
+![Placeholder](img/Manager/StyleList-Highlighted.png) 
 Das *Style List* Fenster unterteilt sich in drei Bereiche (farbig markiert).
 
 <span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Allgemeine [Bedienelemente](005_bedienelemente.md)**
@@ -48,7 +48,7 @@ Die *Style List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert d
 
 ***
 ##Style Editor
-![StyleEditor](img/Manager/StyleEditor-Highlighted.PNG)
+![StyleEditor](img/Manager/StyleEditor-Highlighted.png)
 Der *Style Editor* ist in 4 Bereiche eingeteilt (farbig markiert), die die Eigenschaften der grafischen Elemente des Showrooms auflisten:
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **[Home Screen](055_homescreen.md):** 
@@ -87,7 +87,7 @@ Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen graf
 **Icons Sets verknüpfen:** 
 
 Unter den Kategorien *Widget* und *Toolbox* lassen sich ganze Icon-Sets ändern.
-Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines Pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
+Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/ModifyIconSetStyle.webm" type="video/webm" markdown="1">
 </video>

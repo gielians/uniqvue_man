@@ -9,7 +9,7 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
 
 **Thumbnail** 
 <div style="display: flex; align-items: center;">
-    <img src="img/Manager/Module/Thumbnail.PNG" width="350" style="float:left; height: fit-content;">
+    <img src="img/Manager/Module/Thumbnail.png" width="350" style="float:left; height: fit-content;">
     <div>
         <ul>
             <li><b>Thumbnail:</b> Hierüber lässt sich definieren, was für ein Icon die Darstellung des Moduls im <i>Session Editor</i> haben soll. Die Standardeinstellung ist 'Default Icon'.</li>
@@ -18,7 +18,7 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="img/Manager/Module/CustomThumbnail.PNG" width="350" style="float:left; height: fit-content;">
+    <img src="img/Manager/Module/CustomThumbnail.png" width="350" style="float:left; height: fit-content;">
     <div>
         <ul>
             <li>Ist 'Custom Thumbnail' ausgewählt, kann über den <i>Asset Browser</i> ein eigenes Icon ausgewählt werden.</li>
@@ -27,9 +27,9 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
 </div>
 
     
-<!-- ![ThumbnailParameter](img/Manager/Module/Thumbnail.PNG)
+<!-- ![ThumbnailParameter](img/Manager/Module/Thumbnail.png)
 
-![ThumbnailParameter](img/Manager/Module/CustomThumbnail.PNG) -->
+![ThumbnailParameter](img/Manager/Module/CustomThumbnail.png) -->
 
 ***
  **Singleview Module** 
@@ -37,41 +37,41 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
  <div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 10px;justify-content: center;
     align-items: center;">
   <div>
-	<img src="img/Manager/Module/Titel_Module.PNG" width="250">
+	<img src="img/Manager/Module/Titel_Module.png" width="250">
   </div>
   <div>
-	<img src="img/Manager/Module/BarChart_Module.PNG" width="250">
+	<img src="img/Manager/Module/BarChart_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Browser_Module.PNG" width="250">
+	<img src="img/Manager/Module/Browser_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Bullet_List_Module.PNG" width="250">
+	<img src="img/Manager/Module/Bullet_List_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/External_Source_Module.PNG" width="250">
+	<img src="img/Manager/Module/External_Source_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/HTML_Module.PNG" width="250">
+	<img src="img/Manager/Module/HTML_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Pause_Module.PNG" width="250">
+	<img src="img/Manager/Module/Pause_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Share_Price_Module.PNG" width="250">
+	<img src="img/Manager/Module/Share_Price_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Slideshowplus_Module.PNG" width="250">
+	<img src="img/Manager/Module/Slideshowplus_Module.png" width="250">
   </div>
      <div>
-	<img src="img/Manager/Module/Videoplayer_Module.PNG" width="250">
+	<img src="img/Manager/Module/Videoplayer_Module.png" width="250">
   </div>
 </div>
 
 Diese *Module* nehmen maximal ein Slot eines [Slot Layouts](006_sessions.html#slot-layout-editor) ein. 
 
 
-![SingleView](img/Manager/SingleviewModul.PNG)
+![SingleView](img/Manager/SingleviewModul.png)
 <!-- Alle Singleview *Module* teilen dieselben grundlegenden Eigenschaften: 
 
 
@@ -99,10 +99,10 @@ Diese *Module* nehmen maximal ein Slot eines [Slot Layouts](006_sessions.html#sl
     justify-content: start;
     align-items: center;">
   <div >
-	<img style="width: max-content" src="img/Manager/Module/Timeline_Module.PNG" width="250">
+	<img style="width: max-content" src="img/Manager/Module/Timeline_Module.png" width="250">
   </div>
   <div  >
-	<img style="width: max-content" src="img/Manager/Module/Storyboardplus_Module.PNG" width="250">
+	<img style="width: max-content" src="img/Manager/Module/Storyboardplus_Module.png" width="250">
   </div>
   
 </div>
@@ -111,6 +111,6 @@ Diese *Module* nehmen maximal ein Slot eines [Slot Layouts](006_sessions.html#sl
 <!-- Je nach Setup des Showrooms verhalten sich die *Multiview Module* anders. Das wirkt sich hauptsächlich auf die Anordnung der Fenster aus und wird angezeigt, sobald das *Modul* in der Session per Drag and Drop platziert wird. Zudem wird in den Eigenschaften angezeigt welche Platzierungen mit Ihrem Showroom-Setup möglich sind.  -->
 
 
-![SingleView](img/Manager/MultiviewModul.PNG)
+![SingleView](img/Manager/MultiviewModul.png)
 
 ***

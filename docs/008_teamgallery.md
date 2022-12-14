@@ -8,7 +8,7 @@ Sie finden hier einen Überblick zu diesem Thema.
 
 Die *Team Gallery List* 
 
-![Placeholder](img/Manager/TeamGalleryListNew.PNG) 
+![Placeholder](img/Manager/TeamGalleryListNew.png) 
 
 
 Ausgangspunkt zum Erstellen eines Teams ist die *Team Gallery List*. Dieses Fenster unterteilt sich in vier Bereiche, die zur besseren Übersicht farbig umrandet sind. Ganz Links befinden sich die allgemeinen Bedienelemente. Daneben befindet sich eine Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar. Das Hauptfenster ist die Listenansicht der *Team Gallery*. Rechts daneben befindet sich der *Team Gallery Inspector*. 

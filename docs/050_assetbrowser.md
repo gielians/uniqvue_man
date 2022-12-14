@@ -1,6 +1,6 @@
 # Asset Browser
 
-![Assetbrowser](img/Manager/AssetBrowser-Highlighted.PNG)
+![Assetbrowser](img/Manager/AssetBrowser-Highlighted.png)
 
 ***
 
