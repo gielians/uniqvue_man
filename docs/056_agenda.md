@@ -75,22 +75,15 @@ Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Ab
 -->
 ## Storyboard+
 
-Das *Storyboard+* Modul ist eine erweiterte Version des einfachen Storyboards. Es beinhaltet mehr Features. Neben Bildern lassen sich auch Videos einem Storyboard zuweisen. Per Wischgeste lassen sich die einzelnen Bilder und Videos aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
+Das *Storyboard+* kann neben Bildern auch Videos darstellen. Per Wischgeste lassen sich die einzelnen Bilder und Videos aus dem Stapel in der Mitte auf die rechte und linke Seite des Displaysetups verteilen.
 Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [Storyboard](022_storyboardplus.md).
 
 ![Agenda Modul](img/Showroom/Agenda_Storyboardplus.png)
 ***
 
-## Input Selector
-
-Das *Input Selector* Modul ist in der Lage bis zu 4 externe Quellen, also Bildschirme anderer Geräte, live in die Präsentation einzubinden.
-Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [Input Selector](023_inputselector.md).
-
-![Agenda Modul](img/Showroom/Agenda_InputSelector.png)
-***
 ## External Source
 
-Das *External Source* Modul macht ihnen maximal eine externe Quelle, also einen Bildschirm eines anderen Gerätes, in Ihre Präsentation verfügbar.
+Das *External Source* Modul bindet eine externe Quelle, also einen Bildschirm eines anderen Gerätes, in Ihre Präsentation ein.
 Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [External Source](021_externalsource.md).
 
 ![Agenda Modul](img/Showroom/Agenda_ExternalSource.png)
@@ -104,7 +97,7 @@ Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Ab
 
 
 ## Bar Chart
-Das *Bar Chart* Modul bietet ihnen ein einfaches Tool um schnell animierte Balkendiagramme zu erstellen. Bis zu Balken können dargestellt werden.
+Das *Bar Chart* Modul bietet Ihnen ein einfaches Tool um schnell animierte Balkendiagramme zu erstellen. Bis zu 12 Balken können dargestellt werden.
 
 Informationen zur Konfigurierung des Moduls finden Sie in Abschnitt Module im Abschnitt [Bar Chart](020_barchart.md).
 

@@ -9,8 +9,8 @@ Geben Sie Ihrer Präsentation eine Überschrift/Titel und heißen Sie KollegInne
     <div>
         <ul>
             <li><b>Title:</b> Über den internen Texteditor kann ein Titel geschrieben werden. Der Texteditor öffnet sich bei Klick auf das Textfeld.</li>
-            <li><b>Show BG Gradient:</b> </li>
-            <li><b>X / Y Position:</b>  </li>
+            <li><b>Show BG Gradient:</b> Ist der Haken gesetzt wird die Schrift mit einem transparent abgesenkten Hintergrund hinterlegt.</li>
+            <li><b>X / Y Position:</b> Offset der Schrift in X- und Y-Position.</li>
         </ul>
     </div>
 </div>
