@@ -902,8 +902,11 @@
 
 
 <h1 id="uniqvue-user-manual">UNIQVUE User Manual</h1>
+<p>Dieses Manual erläutert den Umgang mit <strong>UNIQVUE</strong> auf Anwenderebene. </p>
+<!-- Im Detail wird erläutert, wie Sie Shows im Session Manager, der Managing-App nach ihren Vorstellungen erschaffen und im Showroom kontrollieren können.  -->
+
 <h2 id="einleitung">Einleitung</h2>
-<p><strong>UNIQVUE</strong> ist ein  interaktives Framework für <em>Showrooms</em> und <em>Experience Center</em>. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über den <em>Manager</em> können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Das System ist in zwei funktionelle Bereiche eingeteilt:</p>
+<p><strong>UNIQVUE</strong> ist ein  interaktives Framework für <em>Showrooms</em> und <em>Experience Center</em>. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über ein Authoringtool (<em>Manager</em>) können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Das System ist in zwei funktionelle Bereiche eingeteilt:</p>
 <ul>
 <li><strong>Manager</strong></li>
 <li><strong>Showroom</strong>  </li>
@@ -913,9 +916,9 @@
 <p><img alt="SystemÜbersicht" src="img/Overview/SystemOverviewSW.png" /></p>
 <hr />
 <h2 id="manager">Manager</h2>
-<p>Der Bereich des Managers besteht im Detail aus einer App/Benutzeroberfläche, einem Server, einem Filesystem und einer Datenbank. </p>
+<p>Der Bereich des Managers besteht im Detail aus einer App bzw. Benutzeroberfläche, einem Server, einem Filesystem und einer Datenbank. </p>
 <p><strong>Manager App:</strong> </p>
-<p>Über die Manager App (<a href="002_sessionmanager.html">UNIQVUE Manager</a>) erstellen Sie Shows, verknüpfen hier Sessions, Styles und Toolboxes, kreieren Abläufe, verwalten Inhalte und stellen diese für die Ausspielung im Showroom bereit - Sie verleihen hiermit Ihrem Showroom mit einer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren.</p>
+<p>Über die Manager App (<a href="002_sessionmanager.html">UNIQVUE Manager</a>) erstellen Sie Shows, verknüpfen Sessions, Styles und Toolboxes, kreieren Abläufe, verwalten Inhalte und stellen diese für die Ausspielung im Showroom bereit - Sie verleihen Ihrem Showroom mit einer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren.</p>
 <p><strong>Server:</strong></p>
 <p>Der Server läuft im Hintergrund und stellt die Kommunikation und den Transport der Daten zwischen den einzelnen Komponenten von UNIQVUE sicher.  </p>
 <p><strong>File Storage:</strong></p>
@@ -924,11 +927,11 @@
 <p>Alle Abläufe und Strukturen werden in einer Datenbank abgelegt. </p>
 <hr />
 <h2 id="showroom">Showroom</h2>
-<p>Der <a href="054_showroom.html">Showroom</a> ist die Bühne auf der alle Inhalte zusammenkommen und in hoher Zeit- und Bildauflösung dargestellt werden. Hier bieten sich zahlreiche Möglichkeiten in Echtzeit Einfluss auf eine Show zu nehmen. UNIQVUE basiert auf einer 3D-Echtzeit-Rendering-Engine ähnlich einer 3D-Spiel-Engine, aber mit dem Fokus auf dynamische Präsentationen. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt! Dadurch ist das System auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. Dies macht UNIQVUE skalierbar und erlaubt das Einbinden von datengetriebenen oder "datadriven" Inhalten. Grundsätzlich stehen zwei verschiedene Wege bereit Ihre Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren, sich durch eine Agenda navigieren oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexibel aufrufen. Beide Möglichkeiten können natürlich auch kombiniert werden.</p>
+<p>Der <a href="054_showroom.html">Showroom</a> ist die Bühne auf der alle Inhalte zusammenkommen und mit hoher Zeit- und Bildauflösung dargestellt werden. Hier bieten sich zahlreiche Möglichkeiten in Echtzeit Einfluss auf eine Show zu nehmen. UNIQVUE basiert auf einer 3D-Echtzeit-Rendering-Engine ähnlich einer 3D-Spiel-Engine, aber mit dem Fokus auf dynamische Präsentationen. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt! Dadurch ist das System auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. Dies macht UNIQVUE skalierbar und erlaubt das Einbinden von datengetriebenen oder "datadriven" Inhalten. Grundsätzlich stehen zwei verschiedene Wege bereit Ihre Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren, sich durch eine Agenda navigieren oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexibel aufrufen. Beide Möglichkeiten können natürlich auch kombiniert werden.</p>
 <hr />
 <h2 id="besondere-features">Besondere Features</h2>
 <p><strong>Remote Client:</strong></p>
-<p>Eine Besonderheit an UNIQVUE ist, dass Sie externe PC’s als Quellen einbinden und fernsteuern können. Dies geschieht über einen HID-Emulator - Dadurch wird keine Netzwerkverbindung zu diesem PC benötigt.  </p>
+<p>Eine Besonderheit an UNIQVUE ist, dass Sie externe PC’s als Quellen einbinden und fernsteuern können. Dies geschieht über einen HID-Emulator - Hiermit wird keine IP-basierte Netzwerkverbindung zum externen PC benötigt.  </p>
 <hr />
 <p><strong>External Devices:</strong>  </p>
 <p>Neben den PC’S können auch Kameras und andere Quellen wie z.B. Apple TV, Clickshare oder Cynap eingebunden werden. </p>
@@ -938,8 +941,6 @@
 <hr />
 <p><strong>Webcasting &amp; Streaming:</strong></p>
 <p>Alle Bildquellen liegen in UNIQVUE als Videostreams im Netzwerk. Dadurch kann ein zusätzlicher Regieplatz eingerichtet und als Schlüsselposition für Hybrid Sessions genutzt werden. </p>
-<hr />
-<p>Dieses Manual soll den Umgang mit diesem System auf Anwenderebene zeigen. Im Detail wird erläutert, wie Sie Shows im Session Manager, der Managing-App nach ihren Vorstellungen erschaffen und im Showroom kontrollieren können. </p>
 
               
             </article>

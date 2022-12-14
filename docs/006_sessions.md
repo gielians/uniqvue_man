@@ -142,7 +142,7 @@ Unter einem Agendapunkt können Sie weitere Agenda-Unterpunkte erzeugen. In der 
 
 **Module mit Inhalten füllen:** 
 
-Klicken Sie auf ein Modul in einem Agendapunkt. Der *Property Editor* am rechten Rand zeigt Ihnen die Eigenschaften des Moduls an. Durch Klicken auf eine Eigenschaft öffnet sich der *Asset Browser*. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der *Asset Browser* genauer funktioniert, lesen Sie im Abschnitt [Asset Browser](050_assetbrowser.md). Eine Übersicht über Module finden Sie im Abschnitt [Module](011_modulesoverview.md).
+Klicken Sie auf ein Modul in einem Agendapunkt. Der *Property Editor* am rechten Rand zeigt Ihnen die Eigenschaften des Moduls an. Durch Klicken auf 'Browse' öffnet sich der *Asset Browser*. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der *Asset Browser* genauer funktioniert, lesen Sie im Abschnitt [Asset Browser](050_assetbrowser.md). Eine Übersicht über Module finden Sie im Abschnitt [Module](011_modulesoverview.md).
 
 <video align="left" width="99%" height="" autoplay loop muted markdown="1">
 <source src="img/Manager/Gifs/AddAsset.webm" type="video/webm" markdown="1">
@@ -165,7 +165,7 @@ Ist die *Session* nach Ihren Wünschen mit Modulen gefüllt muss sie gespeichert
 <source src="img/Manager/Gifs/StoreAndRelease.webm" type="video/webm" markdown="1">
 </video>
 
-Durch Setzen des Hakens bei ‘Released’ wird die *Session* in der *Show List* verfügbar gemacht und kann so einer Show zugeordnet werden.
+Durch Setzen des Hakens bei ‘Released’ wird die *Session* in der *Show List* verfügbar gemacht und kann so einer *Show* zugeordnet werden.
 
 
 **Tipps und Tricks:**

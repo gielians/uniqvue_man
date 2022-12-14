@@ -76,6 +76,7 @@ theme:
     - accent: teal
   logo: img/logo.png
   favicon: img/logo.png
+
 use_directory_urls: false
 extra:
   version:

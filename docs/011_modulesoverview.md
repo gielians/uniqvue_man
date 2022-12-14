@@ -34,7 +34,7 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
 ***
  **Singleview Module** 
 
- <div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 10px;justify-content: center;
+ <div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 0px;justify-content: start;
     align-items: center;">
   <div>
 	<img src="img/Manager/Module/Titel_Module.png" width="250">

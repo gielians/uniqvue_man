@@ -11,7 +11,9 @@ Das *Dashboard* ist der Einstiegspunkt nach dem Login. Von hier aus gelangen Sie
 	<li><b>Administration</b></li>
 	
 </ul>
+
 ***
+
 ## Shows 
 
 Eine *Show* wird definiert durch einen Ablauf bzw. *Session*, der darin enthaltenden *Agenda*, einem *Style* und einer *Toolbox*.  
@@ -21,6 +23,7 @@ Eine *Show* wird definiert durch einen Ablauf bzw. *Session*, der darin enthalte
 In Abschnitt [Shows](00100_shows.md) wird das Erstellen von *Shows* detailliert erläutert.
 
 ***
+
 ## Sessions
 
 Eine *Sessions* wird definiert durch die darin enthaltende *Agenda*. Die *Agenda* ist der konkrete Ablauf Ihrer Präsentation, welche mit *Modulen* befüllt ist.
@@ -28,6 +31,7 @@ Eine *Sessions* wird definiert durch die darin enthaltende *Agenda*. Die *Agenda
 In Abschnitt [Sessions](006_session.md) wird das Erstellen von *Sessions* und *Agendas* detailliert erläutert.
 
 ***
+
 ## Toolboxes 
 
 Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um auf alle Ressourcen und Funktionen zugreifen zu können. 
@@ -35,6 +39,7 @@ Eine *Toolbox oder DISC* ist eine jederzeit aufrufbare Bedienmöglichkeit, um au
 In Abschnitt [Toolboxes](007_toolbox.md) wird das Erstellen und Konfigurieren von *Toolboxes* detailliert erläutert.
 
 ***
+
 ## Styles 
 
 Der *Style* definiert das gesamte Erscheinungsbild Ihrer *Show* bzw. des Schowrooms. Passen Sie Ihren Showroom situationsabhängig an z.B. für firmeninterne Seminare oder für Kundenbesuche. 
@@ -42,6 +47,7 @@ Der *Style* definiert das gesamte Erscheinungsbild Ihrer *Show* bzw. des Schowro
 In Abschnitt [Styles](009_styles.md) wird das Erstellen und Konfigurieren von *Styles* detailliert erläutert.
 
 ***
+
 ## Administration
 
 In [Administration](010_administration.md) lassen sich User-Accounts für UNIQVUE verwalten. Dieser Bereich ist nur für UserInnen sichtbar, welche Administratorrechte für UNIQVUE besitzen. Hier können User-Accounts erstellt und gelöscht werden. 
