@@ -83,6 +83,11 @@ Hier sind Funktionen gelistet, die anders als Module nur in einer *Toolbox* vork
 
     Verschleiert die Inhalte des gesamten Showrooms. Solange der Button aktiv ist sind keine Inhalte erkennbar. Dieser lässt sich dauerhaft einrasten. Durch Eingabe einer von Ihnen definierten Pin werden dann die Inhalte wieder freigegeben.
 
+    Über den Property Editor können Sie dem Confidential Tool eine PIN geben.
+
+    ![Confidential](img/Manager/Confidential.png)
+
+
 - **Snap Shot:** 
 
     Erzeugt einen Screenshot des gesamten Showrooms.
@@ -90,6 +95,10 @@ Hier sind Funktionen gelistet, die anders als Module nur in einer *Toolbox* vork
 - **Paint:**
 
     Freies Zeichnen auf dem Displaysetup. Verschiedene Farben stehen zur Auswahl. Außerdem kann die Pinselgröße eingestellt werden.
+
+    Über den Property Editor legen Sie eine Voreinstellung für das Paint-Tools fest.
+
+    ![Paint](img/Manager/Paint.png)
 
 - **Microphone:**
 

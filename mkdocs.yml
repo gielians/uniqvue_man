@@ -40,6 +40,13 @@ nav:
     #    - Input Selector:       023_inputselector.md
         - Challenges:           024_challenges.md
         - Timeline:             025_timeline.md
+
+      # - System Tools:           
+      #   - Frame Manager:        022_storyboardplus.md
+      #   - Confidential:         022_storyboardplus.md
+      #   - Snap Shot:            022_storyboardplus.md
+      #   - Paint:                022_storyboardplus.md
+      #   - Microphone:           022_storyboardplus.md
         
     - Asset Browser:            050_assetbrowser.md
     - Administration:           010_administration.md
@@ -82,3 +89,5 @@ extra:
   version:
     provider: mike
     default: latest
+extra_css:
+  - font.css

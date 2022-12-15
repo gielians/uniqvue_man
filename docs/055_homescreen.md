@@ -10,7 +10,7 @@ Der Home Screen (Dashboard) ist der Startpunkt einer jeden Show. Der Home Screen
 Dieses Widget ist das Wichtigste, es zeigt eine Ordnerstruktur in denen Shows organisiert sind. Enthält eine Show eine Session mit der passenden 'Stage Configuration' zu Ihrer aktuellen Playout-Instanz, wird die enthaltene Session angezeigt und kann von hier geladen werden.
 Shows die Sie zuvor im UNIQVUE Manager angelegt und freigegeben haben stehen Ihnen hier zur Verfügung. In Abschnitt [Shows](006_sessions.md) finden Sie detaillierte Informationen, wie Shows angelegt werden. Betätigen der Schaltfläche 'Load Session' lädt eine verfügbare Session, dabei zeigt ein Ladebalken den aktuellen Ladestatus an. Nach kurzer Ladezeit ist die Session bereit gestartet zu werden.
 
-![SessionSelection](img/Showroom/Session_Selection.png)
+![SessionSelection](img/Showroom/Session_SelectionCrop.png)
 
 
 ***
