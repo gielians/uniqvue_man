@@ -87,7 +87,7 @@ Nehmen Sie Änderungen an den Fraben, den Fonts und den Icons der einzelnen graf
 **Icons Sets verknüpfen:** 
 
 Unter den Kategorien *Widget* und *Toolbox* lassen sich ganze Icon-Sets ändern.
-Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
+Wichtig dabei ist, dass die Icons als eine Tilemap vorliegen müssen. Eine Tilemap ist eine Textur, also Bilddatei in Form eines Pngs, welche in vordefinierten Schrittweiten, horizontal und vertikal eingeteilt ist. Die Textur ist also in ein Gitter eingeteilt, dessen Zellen alle gleich groß sind und jeweils die Pixelinformation eines Icons enthalten. Die hier vordefinierte Schrittweite beträgt 256 x 256 Pixel. Nur so ist gewährleistet, dass die einzelnen Texturen jedes Icons korrekt "ausgeschnitten" werden. 
 <video width="99%" height="" autoplay loop muted markdown="1">
     <source src="img/Manager/Gifs/ModifyIconSetStyle.webm" type="video/webm" markdown="1">
 </video>
