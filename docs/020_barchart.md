@@ -1,6 +1,6 @@
 ![BarChartModul](img/Manager/Module/BarChart_Module.PNG) 
 
-Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre Show zu verwenden. Jeder Balken wird im Property Editor als Element in einer Liste repräsentiert. Jeder von maximal 12 Balken kann mit einem beliebigen Wert, einer Bezeichung und einer Farbe versehen werden.
+Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre Show zu verwenden. Jeder Balken wird im Property Editor als Element in einer Liste repräsentiert. Jeder von maximal 12 Balken kann mit einem beliebigen Wert, einer Bezeichnung und einer Farbe versehen werden.
 
 
 <div style="display: flex; justify-content: space-between;">

@@ -127,7 +127,7 @@ Das *Challenges* Modul ist kundenspezifisch und optional. Informationen zu diese
 ***
 ## Timeline
 
-Das *Timeline* Modul vereint mehrere Module in einer chronologischen Abfolge. Verknüpfen Sie eine Auswahl von Modulen in einer Abfolge miteinander, um Zusammenhänge köharent, multimedial und innerhalb eines Agendapunktes zusammenzubringen. Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Timeline](025_timeline.md).
+Das *Timeline* Modul vereint mehrere Module in einer chronologischen Abfolge. Verknüpfen Sie eine Auswahl von Modulen in einer Abfolge miteinander, um Zusammenhänge kohärent, multimedial und innerhalb eines Agendapunktes zusammenzubringen. Informationen zur Konfigurierung des Moduls finden Sie in Kapitel Module im Abschnitt [Timeline](025_timeline.md).
 
 ![Agenda Modul](img/Showroom/Agenda_Timeline.png)
 <!---

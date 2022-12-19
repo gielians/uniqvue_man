@@ -237,6 +237,6 @@ Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Ab
 Informationen wie das Modul verwendet wird, finden Sie im Kapitel Showroom im Abschnitt Agenda/[Input Selector](agenda.md#input-selector).
 
 ***
-## Challanges Modul Optional 
+## Challenges Modul Optional 
 
 Ein Spezial Modul welches Kundenspezifisch erklärt wird. 

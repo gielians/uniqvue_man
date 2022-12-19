@@ -42,7 +42,7 @@ Dies wird mit zwei Komponenten erreicht:
 
 - **Speicher:** mindestens 512Gb SSD. Raid empfohlen. NVMe-Laufwerke empfohlen. Trennung von System- und Content-Laufwerk empfohlen.
 
-- **Netzwerk:** mindestens 1Gbit/s, 10Gbit/s empfohle
+- **Netzwerk:** mindestens 1Gbit/s, 10Gbit/s empfohlen
 
 - **OS:** Windows 10 englisch oder deutsch
 

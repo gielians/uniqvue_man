@@ -9,7 +9,7 @@
     <source src="../img/Manager/Gifs/Dashboard.webm" type="video/webm" markdown="1">
 </video>--->
 
-Ausgagspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie zum Dashboard. Hier befinden sich Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen "Elemente" führen.
+Ausgangspunkt für die gesamte Konfiguration der Funktionen in UNIQVUE ist der Manager. Nach dem Login gelangen Sie zum Dashboard. Hier befinden sich Schaltflächen, welche weiter in die Bearbeitungsebenen der einzelnen "Elemente" führen.
 
 ## Agendas 
 

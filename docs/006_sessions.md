@@ -42,7 +42,7 @@ Die eigentliche Liste der *Sessions* ist in mehrere Spalten unterteilt. Jede Spa
 ***
 **Team Gallery** - Hier kann ein Team einer Session zugeordnet werden. In Kapitel [Team Gallery]{teamgallery.md} sind detaillierte Informationen zu diesem Thema zu finden.
 ***
-**Default Background** - Ein einheitlicher 3D-Hintergund bzw. Thema kann hier aus einer Auswahl für die gesamte *Session* gesetzt werden. Alle Elemente in der Agenda werden diesen Hintergrund vorerst verwenden. Falls Sie verschiedene Hintergründe in einer *Session* wünschen, können Sie dies in der *Session* selbst definieren.  
+**Default Background** - Ein einheitlicher 3D-Hintergrund bzw. Thema kann hier aus einer Auswahl für die gesamte *Session* gesetzt werden. Alle Elemente in der Agenda werden diesen Hintergrund vorerst verwenden. Falls Sie verschiedene Hintergründe in einer *Session* wünschen, können Sie dies in der *Session* selbst definieren.  
 
 **Default Light** - Hier kann die Lichtfarbe für die gesamte *Session* gesetzt werden. Sollten Sie sich verschiedene Lichtfarben in einer *Session* wünschen, können Sie dies in der *Session* selbst definieren.  
 ***
@@ -63,7 +63,7 @@ Der *Session Editor*
 ![SessionEditor](img/Manager/SessionEditor.PNG)
 
 
-* **Agenda:** Dieser zeigt die Struktur der Agenda als hierarchischen Baum. Im Showroom wird die konfigurierte [Agenda](056_agenda.md) grafisch dragestellt und bildet das zentrale Navigationselement einer Session. </p></li>  
+* **Agenda:** Dieser zeigt die Struktur der Agenda als hierarchischen Baum. Im Showroom wird die konfigurierte [Agenda](056_agenda.md) grafisch dargestellt und bildet das zentrale Navigationselement einer Session. </p></li>  
 
 
 
@@ -74,7 +74,7 @@ Der *Session Editor*
 * **Content Configuration:** Repräsentiert die Platzierung von Modulen auf dem Display Setup
 
 
-* **Property Editor:** Hier werden die Eigenschaften eines ausgewählten Moduls dargestellt. Darüber hinaus werden auch die Eigenschaften des übergeordneten Agendapunktes gezeigt. Einzelne Agendapunkte können individuelle Eigenschfaften besitzen. 
+* **Property Editor:** Hier werden die Eigenschaften eines ausgewählten Moduls dargestellt. Darüber hinaus werden auch die Eigenschaften des übergeordneten Agendapunktes gezeigt. Einzelne Agendapunkte können individuelle Eigenschaften besitzen. 
 
 
 

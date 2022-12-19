@@ -8,9 +8,8 @@
       
       
       
-      
       <link rel="icon" href="img/logo.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.2">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.16">
     
     
       
@@ -18,26 +17,28 @@
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/main.6f955dcd.min.css">
+      <link rel="stylesheet" href="assets/stylesheets/main.1c3799f8.min.css">
       
         
-        <link rel="stylesheet" href="assets/stylesheets/palette.ef6f36e2.min.css">
+        <link rel="stylesheet" href="assets/stylesheets/palette.cc9b2e1e.min.css">
         
       
     
     
     
       
+        
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
-        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
     
-    
+    <script>__md_scope=new URL(".",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
+
     
     
   </head>
@@ -53,9 +54,8 @@
     <body dir="ltr" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="">
   
     
-    <script>function __prefix(e){return new URL(".",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
     
-      <script>var palette=__get("__palette");if(null!==palette&&"object"==typeof palette.color)for(var key in palette.color)document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -72,15 +72,24 @@
       
     </div>
     
-      <header class="md-header" data-md-component="header">
+      <div data-md-component="outdated" hidden>
+        <aside class="md-banner md-banner--warning">
+          
+        </aside>
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="." title="UNIQVUE MANUAL" class="md-header__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
+    <a href="index.html" title="UNIQVUE MANUAL" class="md-header__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
       
   <img src="img/logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -103,7 +112,12 @@
         
           
           
-          <input class="md-option" data-md-color-media="" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="" type="radio" name="__palette" id="__palette_1">
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent=""  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="" data-md-color-primary="" data-md-color-accent="teal"  aria-hidden="true"  type="radio" name="__palette" id="__palette_2">
           
         
       </form>
@@ -111,21 +125,26 @@
     
     
       <label class="md-header__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
       </label>
-      
-<div class="md-search" data-md-component="search" role="dialog">
+      <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
       </label>
-      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
-      </button>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -142,11 +161,14 @@
     
     
   </nav>
+  
 </header>
     
     <div class="md-container" data-md-component="container">
       
       
+        
+          
         
       
       <main class="md-main" data-md-component="main">
@@ -164,7 +186,7 @@
 
 <nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="." title="UNIQVUE MANUAL" class="md-nav__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
+    <a href="index.html" title="UNIQVUE MANUAL" class="md-nav__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
       
   <img src="img/logo.png" alt="logo">
 
@@ -196,11 +218,12 @@
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <a href="." class="md-nav__link md-nav__link--active">
+      <a href="index.html" class="md-nav__link md-nav__link--active">
         Übersicht
       </a>
       
         
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
   
@@ -249,10 +272,14 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
       
-      <label class="md-nav__link" for="__nav_2">
-        Manager
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Manager
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Manager" data-md-level="1">
         <label class="md-nav__title" for="__nav_2">
           <span class="md-nav__icon md-icon"></span>
@@ -261,102 +288,133 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="sessionmanager/" class="md-nav__link">
+      <a href="002_sessionmanager.html" class="md-nav__link">
         Session Manager
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="login/" class="md-nav__link">
+      <a href="003_login.html" class="md-nav__link">
         Login
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="dashboard/" class="md-nav__link">
+      <a href="004_dashboard.html" class="md-nav__link">
         Dashboard
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="bedienelemente/" class="md-nav__link">
+      <a href="005_bedienelemente.html" class="md-nav__link">
         Bedienelemente
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="sessions/" class="md-nav__link">
+      <a href="006_sessions.html" class="md-nav__link">
         Sessions
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="toolbox/" class="md-nav__link">
+      <a href="007_toolbox.html" class="md-nav__link">
         Toolboxes
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="teamgallery/" class="md-nav__link">
+      <a href="008_teamgallery.html" class="md-nav__link">
         Team Gallery
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="styles/" class="md-nav__link">
+      <a href="009_styles.html" class="md-nav__link">
         Styles
       </a>
     </li>
   
 
+            
           
             
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="010_administration.html" class="md-nav__link">
+        Administration
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
   
   
   
@@ -364,32 +422,39 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_9" type="checkbox" id="__nav_2_9" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_10" type="checkbox" id="__nav_2_10" >
       
-      <label class="md-nav__link" for="__nav_2_9">
-        Module
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_10">
+          Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Module" data-md-level="2">
-        <label class="md-nav__title" for="__nav_2_9">
+        <label class="md-nav__title" for="__nav_2_10">
           <span class="md-nav__icon md-icon"></span>
           Module
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="modulesoverview/" class="md-nav__link">
+      <a href="011_modulesoverview.html" class="md-nav__link">
         Übersicht
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -397,146 +462,172 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_9_2" type="checkbox" id="__nav_2_9_2" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_10_2" type="checkbox" id="__nav_2_10_2" >
       
-      <label class="md-nav__link" for="__nav_2_9_2">
-        Singleview Module
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_10_2">
+          Singleview Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Singleview Module" data-md-level="3">
-        <label class="md-nav__title" for="__nav_2_9_2">
+        <label class="md-nav__title" for="__nav_2_10_2">
           <span class="md-nav__icon md-icon"></span>
           Singleview Module
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/title/" class="md-nav__link">
+      <a href="012_title.html" class="md-nav__link">
         Title
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/bulletlist/" class="md-nav__link">
+      <a href="013_bulletlist.html" class="md-nav__link">
         Bullet List
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/browser/" class="md-nav__link">
+      <a href="014_browser.html" class="md-nav__link">
         Browser
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/html/" class="md-nav__link">
+      <a href="015_html.html" class="md-nav__link">
         HTML
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/pause/" class="md-nav__link">
+      <a href="016_pause.html" class="md-nav__link">
         Pause
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/videoplayer/" class="md-nav__link">
+      <a href="017_videoplayer.html" class="md-nav__link">
         Video Player
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/shareprice/" class="md-nav__link">
+      <a href="018_shareprice.html" class="md-nav__link">
         Share Price
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/slideshowplus/" class="md-nav__link">
+      <a href="019_slideshowplus.html" class="md-nav__link">
         Slideshow+
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/barchart/" class="md-nav__link">
+      <a href="020_barchart.html" class="md-nav__link">
         Bar Chart
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/externalsource/" class="md-nav__link">
+      <a href="021_externalsource.html" class="md-nav__link">
         External Source
       </a>
     </li>
   
 
+            
           
         </ul>
       </nav>
     </li>
   
 
+            
           
             
+              
   
   
   
@@ -544,114 +635,148 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_9_3" type="checkbox" id="__nav_2_9_3" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_10_3" type="checkbox" id="__nav_2_10_3" >
       
-      <label class="md-nav__link" for="__nav_2_9_3">
-        Multiview Module
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_10_3">
+          Multiview Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Multiview Module" data-md-level="3">
-        <label class="md-nav__title" for="__nav_2_9_3">
+        <label class="md-nav__title" for="__nav_2_10_3">
           <span class="md-nav__icon md-icon"></span>
           Multiview Module
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/storyboardplus/" class="md-nav__link">
+      <a href="022_storyboardplus.html" class="md-nav__link">
         Storyboard+
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/inputselector/" class="md-nav__link">
+      <a href="023_inputselector.html" class="md-nav__link">
         Input Selector
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="Module_Manager/challenges/" class="md-nav__link">
+      <a href="024_challenges.html" class="md-nav__link">
         Challenges
       </a>
     </li>
   
 
-          
-        </ul>
-      </nav>
-    </li>
-  
-
-          
-        </ul>
-      </nav>
-    </li>
-  
-
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="assetbrowser/" class="md-nav__link">
+      <a href="025_timeline.html" class="md-nav__link">
+        Timeline
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="050_assetbrowser.html" class="md-nav__link">
         Asset Browser
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="sessionworkflow/" class="md-nav__link">
+      <a href="051_sessionworkflow.html" class="md-nav__link">
         Session Workflow
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="toolboxworkflow/" class="md-nav__link">
+      <a href="052_toolboxworkflow.html" class="md-nav__link">
         Toolbox Workflow
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="styleworkflow/" class="md-nav__link">
+      <a href="053_styleworkflow.html" class="md-nav__link">
         Style Workflow
       </a>
     </li>
   
 
+            
           
         </ul>
       </nav>
@@ -672,10 +797,14 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
       
-      <label class="md-nav__link" for="__nav_3">
-        Showroom
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Showroom
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Showroom" data-md-level="1">
         <label class="md-nav__title" for="__nav_3">
           <span class="md-nav__icon md-icon"></span>
@@ -684,52 +813,60 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="showroom/" class="md-nav__link">
+      <a href="054_showroom.html" class="md-nav__link">
         Showroom Übersicht
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="homescreen/" class="md-nav__link">
+      <a href="055_homescreen.html" class="md-nav__link">
         Home Screen
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="agendaalternate/" class="md-nav__link">
+      <a href="056_agenda.html" class="md-nav__link">
         Agenda
       </a>
     </li>
   
 
+            
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="disc/" class="md-nav__link">
+      <a href="057_disc.html" class="md-nav__link">
         Disc
       </a>
     </li>
   
 
+            
           
         </ul>
       </nav>
@@ -750,10 +887,14 @@
       
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
       
-      <label class="md-nav__link" for="__nav_4">
-        Technische Spezifikation
-        <span class="md-nav__icon md-icon"></span>
-      </label>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Technische Spezifikation
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <nav class="md-nav" aria-label="Technische Spezifikation" data-md-level="1">
         <label class="md-nav__title" for="__nav_4">
           <span class="md-nav__icon md-icon"></span>
@@ -762,16 +903,18 @@
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
   
   
   
     <li class="md-nav__item">
-      <a href="tecspec/" class="md-nav__link">
+      <a href="058_tecspec.html" class="md-nav__link">
         Netzwerk und Hardware
       </a>
     </li>
   
 
+            
           
         </ul>
       </nav>
@@ -791,14 +934,19 @@
             <article class="md-content__inner md-typeset">
               
                 
-                
-                <h1 id="uniqvue-user-manual">UNIQVUE User Manual</h1>
+
+
+<h1 id="uniqvue-user-manual">UNIQVUE User Manual</h1>
 <h2 id="einleitung">Einleitung</h2>
-<p><strong>UNIQVUE</strong> ist ein  interaktives Framework für <em>Showrooms</em> und <em>Experience Center</em>. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über den <em>Manager</em> können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Zur Vereinfachung ist das System in diesem Manual in zwei Teile unterteilt, den <strong>Manager</strong> und den <strong>Showroom</strong>.  </p>
+<p><strong>UNIQVUE</strong> ist ein  interaktives Framework für <em>Showrooms</em> und <em>Experience Center</em>. Es ermöglicht die dynamische Bespielung großer interaktiver Displayflächen in Echtzeit. Über den <em>Manager</em> können Inhalte und Quellen flexibel zu Showabläufen zusammengestellt werden. Zur Vereinfachung ist das System in diesem Manual in zwei Teile unterteilt:</p>
+<ul>
+<li><strong>Manager</strong></li>
+<li><strong>Showroom</strong>  </li>
+</ul>
 <h2 id="system-ubersicht">System Übersicht</h2>
 <p><img alt="SystemÜbersicht" src="img/Overview/SystemOverviewSW.png" /></p>
 <p><strong>Manager:</strong> </p>
-<p>Im Detail besteht der <a href="sessionmanager/">Manager</a> aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für Sie als User wird aber immer nur die App sichtbar sein. Geben Sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. </p>
+<p>Im Detail besteht der <a href="002_sessionmanager.html">Manager</a> aus einer App (Benutzeroberfläche), einem Server, einem Filesystem und einer Datenbank. Für Sie als UserInnen wird jedoch nur die App sichtbar sein. Geben Sie Ihrer Show ein einnehmendes und besonderes Narrativ. Sie können bspw. die Raumsteuerung unter Ihre Kontrolle bringen oder während einer Show mit Ihrer speziell zusammengestellten Toolbox dynamisch auf besondere Situationen reagieren. </p>
 <hr />
 <p><strong>Managing App:</strong> </p>
 <p>Hier verwalten Sie Ihre Showabläufe, Inhalte und Quellen. Sie legen Ihren Syle fest und befüllen die Toolbox mit Inhalten.  </p>
@@ -813,7 +961,7 @@
 <p>Alle Abläufe und Strukturen werden in einer Datenbank abgelegt. </p>
 <hr />
 <p><strong>Showroom:</strong> </p>
-<p>Der <a href="showroom/">Showroom</a> ist die Bühne auf der alle Inhalte zusammenkommen und in hoher Auflösung und vielen Bildern pro Sekunde dargestellt werden. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. UNIQVUE basiert auf einer 3D Echtzeit Rendering Engine ähnlich einer 3D Spiele Engine, aber mit dem Fokus auf Präsentation. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt. Dadurch ist das System auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. In diesem Zusammenhang spricht man von Skalierbarkeit und datengetriebenen oder "datadriven" Inhalten. Grundsätzlich stehen zwei verschiedenen Wege bereit Ihre Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren, sich durch eine Agenda navigieren oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexibel aufrufen. Beide Möglichkeiten können natürlich auch kombiniert werden.  </p>
+<p>Der <a href="054_showroom.html">Showroom</a> ist die Bühne auf der alle Inhalte zusammenkommen und in hoher Auflösung und vielen Bildern pro Sekunde dargestellt werden. Hier bieten sich nochmal zahlreiche Möglichkeiten Einfluss auf die Show zu nehmen. UNIQVUE basiert auf einer 3D Echtzeit Rendering Engine ähnlich einer 3D Spiele Engine, aber mit dem Fokus auf Präsentation. Alles was Sie sehen wird in Echtzeit berechnet und dargestellt. Dadurch ist das System auflösungsunabhängig, interaktiv und es kann auf Änderungen von Parametern sofort reagieren. In diesem Zusammenhang spricht man von Skalierbarkeit und datengetriebenen oder "datadriven" Inhalten. Grundsätzlich stehen zwei verschiedenen Wege bereit Ihre Inhalte dem Publikum zu präsentieren. Sie können den Ablauf in Form einer Session vorab definieren, sich durch eine Agenda navigieren oder Sie legen die Inhalte nach Themen oder Typen sortiert in einer Toolbox an und können sie jederzeit flexibel aufrufen. Beide Möglichkeiten können natürlich auch kombiniert werden.  </p>
 <hr />
 <p><strong>Remote Client:</strong></p>
 <p>Eine Besonderheit an UNIQVUE ist, dass Sie externe PC’s als Quellen einbinden und diese fernsteuern können. Dies geschieht über einen HID-Emulator. Es wird also keine Netzwerkverbindung zu diesem PC benötigt.  </p>
@@ -828,11 +976,6 @@
 <p>Alle Bildquellen liegen in UNIQVUE als Videostreams im Netzwerk. Dadurch kann ein zusätzlicher Regieplatz eingerichtet und als Schlüsselposition für Hybrid Sessions genutzt werden. </p>
 <hr />
 <p>Dieses Manual soll den Umgang mit diesem System auf Anwenderebene zeigen. Im Detail wird erläutert, wie Sie Shows im Session Manager, der Managing-App nach ihren Vorstellungen erschaffen und im Showroom kontrollieren können. </p>
-                
-              
-              
-                
-
 
               
             </article>
@@ -840,18 +983,19 @@
         </div>
         
           <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
           </a>
         
       </main>
       
-        
-<footer class="md-footer">
+        <footer class="md-footer">
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
       
-        <a href="sessionmanager/" class="md-footer__link md-footer__link--next" rel="next">
+        
+        <a href="002_sessionmanager.html" class="md-footer__link md-footer__link--next" aria-label="Next: Session Manager" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
@@ -861,7 +1005,7 @@
             </div>
           </div>
           <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
           </div>
         </a>
       
@@ -869,14 +1013,15 @@
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
-      <div class="md-footer-copyright">
-        
-        Made with
-        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
-          Material for MkDocs
-        </a>
-        
-      </div>
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
       
     </div>
   </div>
@@ -886,10 +1031,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.top", "toc.integrate", "search.suggest"], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "assets/javascripts/workers/search.fe42c31b.min.js", "version": {"default": "latest", "provider": "mike"}}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.top", "toc.integrate", "search.suggest"], "search": "assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"default": "latest", "provider": "mike"}}</script>
     
     
-      <script src="assets/javascripts/bundle.4ea5477f.min.js"></script>
+      <script src="assets/javascripts/bundle.3a4b43e5.min.js"></script>
       
     
   </body>

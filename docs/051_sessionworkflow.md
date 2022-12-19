@@ -4,7 +4,7 @@
 <!---
 ![SessionList](img/Manager/SessionList_Crop.PNG)
 --->
-Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann einfach eine Session bearbeitet, erstellet, duplizieret oder gelöscht werden. 
+Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann einfach eine Session bearbeitet, erstellt, dupliziert oder gelöscht werden. 
 
 Zur Erinnerung noch einmal die Icons und ihre Funktion: 
 <ul>
@@ -58,10 +58,10 @@ Zur Erinnerung - Der *Session Editor* besteht aus vier Bereichen:
 
 </p>
 
-<li><b>Property Editor:</b> Hier werden die Eigenschaften der Module wie Sie in Kapitel [Module](module.md) erläutert werden gezeigt. Darüber hinaus werden auch die Eigenschaften der übergeordneten Agenda gezeigt. Einzelne Agendapunkte können individuelle Eigenschfaften besitzen. Dazu zählen:
+<li><b>Property Editor:</b> Hier werden die Eigenschaften der Module wie Sie in Kapitel [Module](module.md) erläutert werden gezeigt. Darüber hinaus werden auch die Eigenschaften der übergeordneten Agenda gezeigt. Einzelne Agendapunkte können individuelle Eigenschaften besitzen. Dazu zählen:
 <ol>
 <li><b>Light Color:</b> Setzt die Lichtfarbe in Ihrem Raum.</li>
-<li><b>Sound:</b> Hier können Sie einen Sound auswählen, der abgespielt wird beim ereichen des Agendapunktes</li>
+<li><b>Sound:</b> Hier können Sie einen Sound auswählen, der abgespielt wird beim erreichen des Agendapunktes</li>
 <li><b>Panorama:</b> Alternativ zum 3D-Hintergrund können Sie hier auch große Panoramen als Hintergrund auswählen.
 </li>
 <li><b>Background:</b> Alternativ zum 'Default' Hintergrund, können Sie hier aus einer Auswahl anderer 3D-Hintergründe auswählen und explizit für diesen Agendapunkt festlegen </li>

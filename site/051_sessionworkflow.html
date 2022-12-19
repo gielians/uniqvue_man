@@ -1,0 +1,1089 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="img/logo.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.16">
+    
+    
+      
+        <title>Session Workflow - UNIQVUE MANUAL</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.1c3799f8.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.cc9b2e1e.min.css">
+        
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#session-workflow" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        <aside class="md-banner md-banner--warning">
+          
+        </aside>
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="index.html" title="UNIQVUE MANUAL" class="md-header__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
+      
+  <img src="img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            UNIQVUE MANUAL
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Session Workflow
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent=""  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="" data-md-color-primary="" data-md-color-accent="teal"  aria-hidden="true"  type="radio" name="__palette" id="__palette_2">
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="index.html" title="UNIQVUE MANUAL" class="md-nav__button md-logo" aria-label="UNIQVUE MANUAL" data-md-component="logo">
+      
+  <img src="img/logo.png" alt="logo">
+
+    </a>
+    UNIQVUE MANUAL
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="index.html" class="md-nav__link">
+        Übersicht
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Manager
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Manager" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Manager
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="002_sessionmanager.html" class="md-nav__link">
+        Session Manager
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="003_login.html" class="md-nav__link">
+        Login
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="004_dashboard.html" class="md-nav__link">
+        Dashboard
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="005_bedienelemente.html" class="md-nav__link">
+        Bedienelemente
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="006_sessions.html" class="md-nav__link">
+        Sessions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="007_toolbox.html" class="md-nav__link">
+        Toolboxes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="008_teamgallery.html" class="md-nav__link">
+        Team Gallery
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="009_styles.html" class="md-nav__link">
+        Styles
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="010_administration.html" class="md-nav__link">
+        Administration
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_10" type="checkbox" id="__nav_2_10" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_10">
+          Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Module" data-md-level="2">
+        <label class="md-nav__title" for="__nav_2_10">
+          <span class="md-nav__icon md-icon"></span>
+          Module
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="011_modulesoverview.html" class="md-nav__link">
+        Übersicht
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_10_2" type="checkbox" id="__nav_2_10_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_10_2">
+          Singleview Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Singleview Module" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_10_2">
+          <span class="md-nav__icon md-icon"></span>
+          Singleview Module
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="012_title.html" class="md-nav__link">
+        Title
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="013_bulletlist.html" class="md-nav__link">
+        Bullet List
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="014_browser.html" class="md-nav__link">
+        Browser
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="015_html.html" class="md-nav__link">
+        HTML
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="016_pause.html" class="md-nav__link">
+        Pause
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="017_videoplayer.html" class="md-nav__link">
+        Video Player
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="018_shareprice.html" class="md-nav__link">
+        Share Price
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="019_slideshowplus.html" class="md-nav__link">
+        Slideshow+
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="020_barchart.html" class="md-nav__link">
+        Bar Chart
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="021_externalsource.html" class="md-nav__link">
+        External Source
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2_10_3" type="checkbox" id="__nav_2_10_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_10_3">
+          Multiview Module
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Multiview Module" data-md-level="3">
+        <label class="md-nav__title" for="__nav_2_10_3">
+          <span class="md-nav__icon md-icon"></span>
+          Multiview Module
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="022_storyboardplus.html" class="md-nav__link">
+        Storyboard+
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="023_inputselector.html" class="md-nav__link">
+        Input Selector
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="024_challenges.html" class="md-nav__link">
+        Challenges
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="025_timeline.html" class="md-nav__link">
+        Timeline
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="050_assetbrowser.html" class="md-nav__link">
+        Asset Browser
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="051_sessionworkflow.html" class="md-nav__link md-nav__link--active">
+        Session Workflow
+      </a>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="052_toolboxworkflow.html" class="md-nav__link">
+        Toolbox Workflow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="053_styleworkflow.html" class="md-nav__link">
+        Style Workflow
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Showroom
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Showroom" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Showroom
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="054_showroom.html" class="md-nav__link">
+        Showroom Übersicht
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="055_homescreen.html" class="md-nav__link">
+        Home Screen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="056_agenda.html" class="md-nav__link">
+        Agenda
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="057_disc.html" class="md-nav__link">
+        Disc
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Technische Spezifikation
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Technische Spezifikation" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Technische Spezifikation
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="058_tecspec.html" class="md-nav__link">
+        Netzwerk und Hardware
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="session-workflow">Session Workflow</h1>
+<!---
+![SessionList](img/Manager/SessionList_Crop.PNG)
+--->
+<p>Mit den konsistenten Bedienelementen, die sich rechts außen am Dokumentenfenster befinden, kann einfach eine Session bearbeitet, erstellt, dupliziert oder gelöscht werden. </p>
+<p>Zur Erinnerung noch einmal die Icons und ihre Funktion: </p>
+<ul>
+<li>Der Pfeil der nach links zeigt, führt zurück in das Menü von dem aus man gestartet ist. </p></li>
+</p>
+<li>Der Stift ist das Symbol, um eine ausgewählte Session zu bearbeiten. </p></li>
+</p>
+<li>Das Dokument mit dem Pluszeichen ist zum Erstellen einer neuen Session. </p></li>
+</p>
+<li>Der Dokumentenstapel darunter ist zum Duplizieren einer ausgewählten Session. </p></li>
+</p>
+<li>Mit dem Mülleimersymbol löscht man eine ausgewählte Session. </p></li>
+</ul>
+<hr />
+<p><strong>Erstellen einer neuen Session:</strong>  </p>
+<video align="left" width="99%" height="220" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/SessionList_Workflow.webm" type="video/webm" markdown="1">
+</video>
+
+<p>Sie erstellen eine neue <em>Session</em> durch Klicken auf das Dokument mit dem Pluszeichen. Zunächst werden Sie aufgefordert eine 'Stage Configuration' auszuwählen. Dies ist nur erforderlich wenn Ihnen mehr als ein Showroomsetup zur Verfügung steht, sonst wird automatisch das einzige Setup verwendet.</p>
+<p align="center">
+ <img src="img/Manager/StageConfiguration.PNG" width="50%" height="300px" markdown="1" >
+</p>
+
+<!---
+src="..img/Manager/StageConfiguration.PNG"
+!['Stage Configuration'-Auswahl](img/Manager/StageConfiguration.PNG)
+--->
+
+<p>Mit Doppelklick auf den Namen können Sie der <em>Session</em> einen Namen geben. Diese <em>Session</em> ist zunächst leer. Sie enthält außer einem Default <em>Style</em> und einer Default <em>Toolbox</em> keine weiteren Inhalte. Das können Sie ändern, indem Sie auf den Stift zum Bearbeiten der <em>Session</em> klicken. Alternativ kann die <em>Session</em>, ganz rechts im Inspektor, durch Klicken auf ‘Edit Session’ bearbeitet werden. Beide Vorgänge leiten weiter zum <em>Session Editor</em>. Dieser wird als neuer Tab erzeugt, welcher den Namen der aktuell zu bearbeitenden <em>Session</em> trägt. Beliebig viele Tabs also <em>Sessions</em> können gleichzeitig geöffnet sein. Das Sternsymbol (‘*’) erscheint außerdem im <em>Session</em> Namen, um einen Indikator dafür zu liefern, ob eine <em>Session</em> noch ungespeicherte Änderungen enthält.</p>
+<hr />
+<!---
+![SessionEditor](img/Manager/SessionEditor_AgendItemFocused.PNG) 
+--->
+
+<hr />
+<p>Zur Erinnerung - Der <em>Session Editor</em> besteht aus vier Bereichen: </p>
+<ul>
+<li><b>Agenda:</b> Dieser zeigt die Struktur der Agenda als hierarchischen Baum.</p></li>  
+
+</p>
+
+<li><b>Repository:</b> Enthält alle verfügbaren Module wie Slideshows etc.</p></li>
+
+ </p>
+
+<li><b>Content Configuration:</b> Repräsentiert die Platzierung von Modulen auf dem Display Setup</p></li>
+
+</p>
+
+<li><b>Property Editor:</b> Hier werden die Eigenschaften der Module wie Sie in Kapitel [Module](module.md) erläutert werden gezeigt. Darüber hinaus werden auch die Eigenschaften der übergeordneten Agenda gezeigt. Einzelne Agendapunkte können individuelle Eigenschaften besitzen. Dazu zählen:
+<ol>
+<li><b>Light Color:</b> Setzt die Lichtfarbe in Ihrem Raum.</li>
+<li><b>Sound:</b> Hier können Sie einen Sound auswählen, der abgespielt wird beim erreichen des Agendapunktes</li>
+<li><b>Panorama:</b> Alternativ zum 3D-Hintergrund können Sie hier auch große Panoramen als Hintergrund auswählen.
+</li>
+<li><b>Background:</b> Alternativ zum 'Default' Hintergrund, können Sie hier aus einer Auswahl anderer 3D-Hintergründe auswählen und explizit für diesen Agendapunkt festlegen </li>
+</ol>
+</p></li>  
+
+</p>
+</ul>
+<hr />
+<p><strong>Eine Agenda Anlegen:</strong> </p>
+<p>Im <em>Agenda Tree</em> füllen Sie nun Ihre <em>Agenda</em> mit Punkten. Um einen neuen Punkt in der Hierarchie zu erstellen, drücken Sie den Button ‘Add Agenda Item’. Durch Doppelklick auf den Namen des neu erstellten Agenda-Punktes, kann dieser geändert werden. Im <em>Agenda Item Editor</em> erscheint nun ein neues Element, welches das Display Setup des <em>Showrooms</em> repräsentiert. Unter einem Agenda-Punkt können Sie zudem weitere Agenda-Unterpunkte erzeugen. In der Hierarchie der <em>Agenda</em> werden Unterpunkte eingerückt dargestellt.  </p>
+<hr />
+<p><strong>Die Agenda mit Modulen füllen:</strong>  </p>
+<!---
+![SessionWorkflow](img/Manager/Gifs/Agenda_Anlegen.gif)
+--->
+<video width="99%" height="540" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/Agenda_Anlegen.webm" type="video/webm" markdown="1" align="left">
+</video>
+
+<p>Ziehen Sie aus dem <em>Agenda Repository</em> Module Ihrer Wahl per Drag and Drop in ein Element im <em>Agenda Item Editor</em>. Entsprechend des Display Setups können Module innerhalb des Elements platziert werden. So können mehrere Module auf verschiedene Displays verteilt sein. Füllen Sie so Ihre gesamte <em>Agenda</em>. </p>
+<hr />
+<!---
+![SessionWorkflow](img/Manager/Gifs/Agenda_Fuellen.gif)
+--->
+
+<video width="99%" height="540" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/Agenda_Fuellen.webm" type="video/webm" markdown="1" align="left">
+</video>
+
+<p><strong>Module mit Inhalten füllen:</strong> </p>
+<p>Klicken Sie auf ein Modul innerhalb des <em>Agenda Item Editor</em>. Der <em>Property Editor</em> am rechten Rand zeigt Ihnen entsprechend des Moduls dessen Eigenschaften an. Durch Klicken auf eine Eigenschaft öffnet sich der <em>Asset Browser</em>. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der <em>Asset Browser</em> genauer funktioniert, lesen Sie im Abschnitt <a href="050_assetbrowser.html">Asset Browser</a>. Eine Übersicht über Module finden Sie im Abschnitt <a href="011_modulesoverview.html">Module</a>.</p>
+<hr />
+<p><strong>Speichern:</strong></p>
+<p>Ist die <em>Agenda</em> nach Ihren Wünschen gefüllt muss diese gespeichert werden. Wie erwähnt zeigt das Sternsymbol im Tab (‘*’) an, ob es ungespeicherte Änderungen gibt. Durch klicken auf das Diskettensymbol oder Drücken der Tastenkombination <code>STRG + S</code> wird die <em>Agenda</em> gespeichert. </p>
+<hr />
+<p><strong>Eine Toolbox, einen Style und ein Team der Session zuweisen:</strong> </p>
+<!---
+![SessionWorkflow](img/Manager/Gifs/Release_Session.gif)
+--->
+<video width="99%" height="180" autoplay loop muted markdown="1">
+    <source src="img/Manager/Gifs/Release_Session.webm" type="video/webm" markdown="1" align="left">
+</video>
+
+<p>Nach dem Speichern navigieren Sie zurück in die <em>Session Liste</em>. Der Listeneintrag einer jeden <em>Session</em> enthält die Spalte ‘Toolbox’, ‘Style’ und 'Team'. Die Standardauswahl ist immer ‘Default Style’ und ‘Default Toolbox’. 'Team' ist per Default nicht zugewiesen. Durch Klicken auf diese, können Sie aus einer Liste von <em>Styles</em>,<em>Toolboxes</em> und <em>Teams</em> auswählen, die Sie zuvor erstellt haben. In den Kapiteln <a href="052_toolboxworkflow.html">Toolbox Workflow</a>,  <a href="053_styleworkflow.html">Style Workflow</a> und <a href="008_teamgallery.html">Team Gallery</a> gibt es detaillierte Beschreibungen dazu. </p>
+<hr />
+<p><strong>Sessions organisieren und freigeben:</strong> </p>
+<p>Vergeben Sie in der Spalte ‘Category’ Ihrer <em>Session</em> eine Kategorie. Durch Setzen des Hakens bei ‘Released’ wird die <em>Session</em> im <em>Showroom Dashboard</em> innerhalb eines Ordners, der den Namen der Kategorie trägt, verfügbar gemacht. In Kapitel <a href="054_showroom.html">Showroom</a> wird u.a. erläutert, wie Sie <em>Sessions</em> laden können.</p>
+<hr />
+<p><strong>Tipps und Tricks:</strong></p>
+<p>Sie können ganz klassisch Agenda Module oder ein Listenelement aus der Agendahierarchie mit den Tastenkombinationen <code>STRG + C</code> und <code>STRG + V</code> in den Zwischenspeicher kopieren und wieder einfügen.</p>
+
+              
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="050_assetbrowser.html" class="md-footer__link md-footer__link--prev" aria-label="Previous: Asset Browser" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Asset Browser
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="052_toolboxworkflow.html" class="md-footer__link md-footer__link--next" aria-label="Next: Toolbox Workflow" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Toolbox Workflow
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.top", "toc.integrate", "search.suggest"], "search": "assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"default": "latest", "provider": "mike"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.3a4b43e5.min.js"></script>
+      
+    
+  </body>
+</html>

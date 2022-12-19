@@ -38,7 +38,7 @@ Mit dem ‘Edit Style’ Button gelangt man in die Bearbeitungsebene des *Styles
 ![StyleEditor](img/Manager/Style_Editor.PNG)
 
 
-Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschften der grafischen Elemente des Showrooms auflisten:
+Der Style Editor ist in 4 Bereiche eingeteilt, die die Eigenschaften der grafischen Elemente des Showrooms auflisten:
 <ul>
 <li> <b>Home Screen</b></p></li>
 </p>

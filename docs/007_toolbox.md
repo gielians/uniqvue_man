@@ -10,7 +10,7 @@ Die *Toolbox List*
 
 
 Das *Toolbox List* Fenster unterteilt sich in vier Bereiche. Hier zur besseren Übersicht farbig umrandet. Ganz Links befinden sich die allgemeinen Bedienelemente.
-Daneben befindet sich eine Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse. Das öffentliche Verzeichniss ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar. Das Hauptfenster ist die Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
+Daneben befindet sich eine Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar. Das Hauptfenster ist die Listenansicht der *Toolboxes*. Rechts daneben befindet sich der *Toolbox Inspector*. 
 
 Die *Toolbox List* ist in mehrere Spalten unterteilt. Jede Spalte repräsentiert dabei eine allgemeine Eigenschaft der *Toolbox*. *Toolboxes* können durch Klicken auf die jeweilige Eigenschaft in der Kopfzeile der Liste sortiert werden. 
 
@@ -78,7 +78,7 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber 
 
 * **Frame Preview:**
 
-    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Galerie daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt werden, welches dann im Showroom angezeigt wird.
+    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordnet wurden, erstellt UNIQVUE automatisch eine Galerie daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt werden, welches dann im Showroom angezeigt wird.
 
 * **Property Editor:**
 

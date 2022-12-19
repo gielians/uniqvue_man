@@ -67,7 +67,7 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber 
 
 * **Frame Preview:**
 
-    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordent wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.
+    Dieser Bereich visualisiert die Ansicht des entsprechenden Fensters. Wenn mehrere Inhalte einem Fenster zugeordnet wurden, erstellt UNIQVUE automatisch eine Gallery daraus. Für jedes Asset kann in den Eigenschaften ein Thumbnail festgelegt warden, welches im dann Showroom angezeigt wird.
 
 * **Property Editor:**
 
@@ -77,7 +77,7 @@ Unter ‘Presentation Tools’ befindet sich eine Auswahl von Modulen. Darüber 
 
 **Eine Toolbox anpassen:** 
 
-Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenu in Ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
+Im Bereich ‘Presentation’ klicken Sie nun auf den Button ‘Add Main Menu’ um eine neue Schaltfläche als Hauptmenü in Ihrer Toolbox zu erzeugen. In der Hierarchie erscheint ebenfalls ein neues Element mit dem Namen ‘Main Menu’ und einem leeren Unterelement ‘Default Sub’.
 <!---
 ![Toolbox_MainMenu](img/Manager/Toolbox_MainMenu.PNG)
 
