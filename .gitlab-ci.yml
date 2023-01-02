@@ -1,0 +1,13 @@
+pages:
+  stage: deploy
+  script:
+    - mkdir .public
+    #    - cp -r ./* .public
+    - Copy-Item -Path (Get-Item -Path "\*" -Exclude ('.public','.git')).FullName -Destination .public -Recurse -Force
+    - Get-ChildItem * -Include /public -Recurse | Remove-Item
+    - Rename-Item -Path .public public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "gh-pages"
