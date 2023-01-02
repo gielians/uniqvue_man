@@ -45,7 +45,7 @@ Der *Session* Editor besteht aus mehreren Bereichen (farbig markiert)
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **Agenda:** 
 
-Dieser Bereich zeigt die Struktur der *Agenda* als hierarchischen Baum. Im Showroom wird die konfigurierte [Agenda](056_agenda.md) grafisch dragestellt und ist das zentrale Navigationselement einer *Session*. Jede *Agenda* kann für verschiedene Displaysetups bzw. 'Stage Configurations' angepasst werden. 
+Dieser Bereich zeigt die Struktur der *Agenda* als hierarchischen Baum. Im Showroom wird die konfigurierte [Agenda](056_agenda.md) grafisch dargestellt und ist das zentrale Navigationselement einer *Session*. Jede *Agenda* kann für verschiedene Displaysetups bzw. 'Stage Configurations' angepasst werden. 
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Stage Configuration:**
 
