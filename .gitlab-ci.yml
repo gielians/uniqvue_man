@@ -3,11 +3,11 @@ pages:
   script:
     - mkdir .public
     #    - cp -r ./* .public
-    - Copy-Item -Path (Get-Item -Path "\*" -Exclude ('.public')).FullName -Destination .public -Recurse -Force
+    - Copy-Item -Path (Get-Item -Path "\*" -Exclude ('.public','.git')).FullName -Destination .public -Recurse -Force
     - Get-ChildItem * -Include /public -Recurse | Remove-Item
     - Rename-Item -Path .public public
   artifacts:
     paths:
       - public
   rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_BRANCH == "gh-pages"
