@@ -2,7 +2,8 @@ pages:
   stage: deploy
   script:
     - mkdir .public
-    - cp -r ./* .public
+    #    - cp -r ./* .public
+    - Copy-Item -Path (Get-Item -Path "\*" -Exclude ('.public')).FullName -Destination .public -Recurse -Force
     - Get-ChildItem * -Include /public -Recurse | Remove-Item
     - Rename-Item -Path .public public
   artifacts:
