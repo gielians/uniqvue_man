@@ -1,11 +1,11 @@
 pages:
   stage: deploy
   script:
-    - mkdir .\.public
+    - mkdir $CI_PROJECT_DIR\public
     #    - cp -r ./* .public
-    - Copy-Item -Path (Get-Item -Path ".\*" -Exclude ('.public','.git')).FullName -Destination .\.public -Recurse -Force
-    - Get-ChildItem .\* -Include public -Recurse | Remove-Item -Recurse
-    - Rename-Item -Path .\.public .\public
+    - Copy-Item -Path (Get-Item -Path "$CI_PROJECT_DIR\*" -Exclude ('$CI_PROJECT_DIR\.public','$CI_PROJECT_DIR\.git')).FullName -Destination $CI_PROJECT_DIR\.public -Recurse -Force
+    - Get-ChildItem $CI_PROJECT_DIR\* -Include $CI_PROJECT_DIR\public -Recurse | Remove-Item -Recurse
+    - Rename-Item -Path $CI_PROJECT_DIR\.public $CI_PROJECT_DIR\public
   artifacts:
     paths:
       - public
