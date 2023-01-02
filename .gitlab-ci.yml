@@ -1,21 +1,12 @@
-image: python:latest
-
-
-cache:
-  paths:
-    - .cache/pip
-
-before_script: 
-  - python -V
-  - pip install -r requirements.txt
-
 pages:
+  stage: deploy
   script:
-    - mkdocs build
-    - mv site public
+    - mkdir .public
+    - cp -r ./* .public
+    - Get-ChildItem * -Include /public -Recurse | Remove-Item
+    - Rename-Item -Path .public public
   artifacts:
     paths:
       - public
-  only:
-    - master
-
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
