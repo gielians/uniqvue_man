@@ -36,7 +36,7 @@ Das Bar Chart Module bietet die Möglichkeit animierte Balkendiagramme für ihre
         Der Abschnitt 'Bars' ist eine Liste. Jedes Listenelement entspricht einem Balken mit folgenden Attributen:
         </div>
         <!-- <ul> -->
-        <li><b>Text:</b> Beschriftung des Balkens</li>
+        <li ><b>Text:</b> Beschriftung des Balkens</li>
         <li><b>Value:</b> Wert des Balkens</li>
         <li><b>Color:</b> Farbe des Balkens</li>
         <!-- </ul> -->

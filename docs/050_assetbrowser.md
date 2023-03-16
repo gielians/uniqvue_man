@@ -34,5 +34,31 @@ Verknüpfen Sie ein Asset aus den Ordnern 'Public' oder 'User' im Verzeichnis *R
 <source src="img/Manager/Gifs/AddSelectFile.webm" type="video/webm" markdown="1">
 </video>
 
+Neben einzelnen Assets können Sie auch ganze Ordnerstrukuren importieren. Wählen Sie dazu "Import Asset" - Der Windows Explorer wird geöffnet. Ziehen Sie nun per Drag-and-Drop einen Ordner mit Assets in den Assetbrowser.
+
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/Assetbrowser_Import_Folder.webm" type="video/webm" markdown="1">
+</video>
 
 ***Hinweis: Der Assetsbrowser unterstützt eine maximale Dateiengröße von 2 GB!***
+
+***
+
+# Unterstützte Dateienformate
+
+**Image:**
+
+- jpg, jpeg, png, dds, bmp
+
+**Video:**
+
+- mp4, mov
+
+**Excel:**
+
+- xls, xlsx
+  
+**Web:**
+
+- zip (muss html enthalten)   
+

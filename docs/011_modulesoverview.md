@@ -37,7 +37,7 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
  <div style="display: grid; grid-template: 150px / auto auto auto; grid-gap: 10px; padding: 0px;justify-content: start;
     align-items: center;">
   <div>
-	<img src="img/Manager/Module/Titel_Module.png" width="250">
+	<img src="img/Manager/Module/Title_Module.png" width="250">
   </div>
   <div>
 	<img src="img/Manager/Module/BarChart_Module.png" width="250">
@@ -58,13 +58,16 @@ Module unterteilen sich grundsätzlich in zwei Kategorien, *Singleview* und *Mul
 	<img src="img/Manager/Module/Pause_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Share_Price_Module.png" width="250">
+	<img src="img/Manager/Module/Shareprice_Module.png" width="250">
   </div>
    <div>
-	<img src="img/Manager/Module/Slideshowplus_Module.png" width="250">
+	<img src="img/Manager/Module/Slideshow_Plus_Module.png" width="250">
   </div>
      <div>
 	<img src="img/Manager/Module/Videoplayer_Module.png" width="250">
+  </div>
+  <div>
+	<img src="img/Manager/Module/Icon_Array_Module.png" width="250">
   </div>
 </div>
 
