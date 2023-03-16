@@ -2,7 +2,7 @@
 
 ![HomeScreen](img/Showroom/EY_Home.jpg)
 
-Der Home Screen (Dashboard) ist der Startpunkt einer jeden Show. Der Home Screen besteht aus mehreren grafischen Elementen, der Agenda und den sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. 
+Der Home Screen (Welcome) ist der Startpunkt einer jeden Show. Der Home Screen besteht aus mehreren grafischen Elementen, der Agenda und den sog. Widgets. Die Widgets sind individuell angepasst. Im Folgenden sind die Standard-Widgets aufgelistet. 
 ***
 
 ##Show Selection

@@ -17,11 +17,11 @@ Eine *Toolbox* ist für jede *Show* obligatorisch. Das heißt, sie muss zwingend
 
 Das *Toolbox List* Fenster unterteilt sich in 4 Bereiche (farbig markiert) 
 
-<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Allgemeine [Bedienelemente](005_bedienelemente.md)**
+<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **[Navigation und Tools](005_bedienelemente.md)**
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **User Folder:**
 
-Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse, in denen *Toolboxes* gespeichert sein können. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar, siehe [Administration](004_dashboard.md) in Abschnitt Dashboard.
+Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse, in denen *Toolboxes* gespeichert sein können. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar, siehe [Administration](004_dashboard.md) in Abschnitt Home.
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Listenansicht:**
 

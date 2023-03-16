@@ -7,7 +7,7 @@ Hier können Sie UserInnen-Accounts verwalten. Dazu gehört:
  - Löschen von UserInnen-Accounts
  - Bearbeiten von UserInnen-Accounts (Namensänderungen, Rechtevergabe, Passwortänderung)
  
- Diese Funktionen sind über die allgemeinen Bedienelemente verfügbar.
+ Diese Funktionen sind über die Toolleiste verfügbar.
  
  ![Administratorbereich](img/Manager/UserAccountList.png)
  

@@ -8,7 +8,7 @@ Ein *Style* ist für jede *Show* obligatorisch. Das heißt, ein *Style* muss zwi
 ![Placeholder](img/Manager/StyleList-Highlighted.png) 
 Das *Style List* Fenster unterteilt sich in drei Bereiche (farbig markiert).
 
-<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Allgemeine [Bedienelemente](005_bedienelemente.md)**
+<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **[Navigation und Tools](005_bedienelemente.md)**
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Listenansicht:** 
 

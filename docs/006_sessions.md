@@ -13,11 +13,11 @@
 ![SessionList](img/Manager/SessionList_Highlighted.png) 
 Das *Session List* Fenster unterteilt sich in 4 Bereiche (farbig markiert).
 
-<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **Allgemeine [Bedienelemente](005_bedienelemente.md)**
+<span style="color: #FF0000; background: #FF0000; border-radius: 100px">&#9711</span> **[Navigation und Tools](005_bedienelemente.md)**
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **User Folder:** 
 
-Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse, in denen *Sessions* gespeichert sein können. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar, siehe [Administration](004_dashboard.md) in Abschnitt Dashboard.
+Übersicht der öffentlichen und benutzerspezifischen Verzeichnisse, in denen *Sessions* gespeichert sein können. Das öffentliche Verzeichnis ist für alle NutzerInnen des Computers einsehbar, wie bspw. Gastkonten. Das benutzerspezifische Verzeichnis ist nur für angemeldete NutzerInnen einsehbar, siehe [Administration](004_dashboard.md) in Abschnitt Home.
 Wenn Sie mit einem Administrator Account eingeloggt sind, sind die zusätzlichen Verzeichnisse "SessionTemplates", "Default" und "Backup" sichtbar. Im Bereich "SessionTemplates" können Sie Templates für Sessions erstellen. Befindet sich dort ein Eintrag wird nun beim Erstellen im öffentlichen und im User-Verzeichnis ein Auswahldialog eingeblendet, wo alle Templates aufgelistet sind.
 
 ![SessionTemplates](img/Manager/SessionTemplates.png)
@@ -130,22 +130,88 @@ Der *Slot Layout Editor* besteht aus drei Bereichen (farbig markiert)
 
 <span style="color: #FFD500; background: #FFD500; border-radius: 100px">&#9711</span> **Slot List:**
 
-Übersicht der vorhandenen *Slots* mit Informationen zur aktuellen Größe und Anordnung eines *Slots*. Es lassen sich maximal 12 *Slots* pro Layout erzeugen.
+Die Slot List führt alle *Slots* in einer Liste auf. Der *Property Editor* zeigt Informationen zur aktuellen Größe und Anordnung eines ausgewählten *Slot*. Es lassen sich maximal 12 *Slots* pro Layout erzeugen.
+
+Die *Slot List* verfügt neben den üblichen Funktionen Löschen, Duplizieren und Hinzufügen über zwei besondere Funktionen:
+
+- Slot Splitting:
+
+Diese Funktion bietet die Möglichkeit ein ausgewähltes *Slot* in weitere aufzuteilen. Dabei haben Sie die Wahl wieviele weitere Slots das Splitting erzuegen soll.
+
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/splitslot.webm" type="video/webm" markdown="1">
+</video> 
+
+- Array Copy
+
+Diese Funktion bietet die Möglichkeit ein ausgewähltes *Slot* nach einem Anordnungsschema zu duplizieren. Dabei haben Sie zusätzlich die Wahl, ob eine Lücke (Offset) in horizontaler und vertikaler Richtung hinzugefügt werden soll.
+
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/arraycopyslot.webm" type="video/webm" markdown="1">
+</video>
+
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Layout: **
 
-Grafische Repräsentation der aktuellen Stage! Die angezeigten *Slots* können hier mit der Maus in Position und Größe verändert werden. Mit gehaltener `SHIFT`-Taste können mehrere *Slot* einer Auswahl hinzugefügt werden und zusammen verschoben oder skaliert werden.
+Grafische Repräsentation der aktuellen Stage! Die angezeigten *Slots* können hier mit der Maus in Position und Größe verändert werden. Mit gehaltener `STRG`-Taste und einem Klick können *Slots* gezielt einer Auswahl hinzugefügt und auch wieder entfernt werden. Mit gehaltener `SHIFT`-Taste und einem Klick fügen Sie mehrere *Slots* gleichzeitig einer Auswahl hinzu.
 
-![SlotMultiselection](img/Manager/SlotMultiselection.png)
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/slotselection.webm" type="video/webm" markdown="1">
+</video>
+
+ *Slots* können einzeln oder gemeinsam in einer Auswahl verschoben oder skaliert werden. Ist die Checkbox 'Keep Aspect' im *Property Editor* aktiviert wird das Seitenverhältnis beim Skalieren beibehalten.
+
+ <video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/singleslotscaling.webm" type="video/webm" markdown="1">
+</video>
+
+ <video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/multislotscaling.webm" type="video/webm" markdown="1">
+</video>
+
+<!-- ![SlotMultiselection](img/Manager/SlotMultiselection.png) -->
 
 Zusätzlich dazu stellt der Layout Bereich eine Auswahl an Tool zur Verfügung um *Slots* mit einem Klick anzuordnen.
 
 ![AlignmentTools](img/Manager/AlignmentTools.png)
 
+Bei den folgenden 6 Anordnungsmöglichkeiten wird das zuerst selektierte *Slot* als Referenz genommen!
+
+- selektierte Slots am oberen Rand der Referenz anordnen
+- selektierte Slots in der vertikalen Mitte der Referenz anordnen
+- selektierte Slots am unteren Rand der Referenz anordnen
+
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/multislotalignment-1.webm" type="video/webm" markdown="1">
+</video>
+
+- selektierte Slots am linken Rand der Referenz  anordnen
+- selektierte Slots in der horizontalen Mitte der Referenz anordnen
+- selektierte Slots am rechten Rand der Referenz anordnen
+  
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/multislotalignment-2.webm" type="video/webm" markdown="1">
+</video>
+
+
+Bei den restlichen 3 ist die Referenz immer die Stage!
+
+- selektierte Slots in die Mitte der Stage verschieben
+- selektierte Slots in die vertikale Mitte verschieben
+- selektierte Slots in die horizontale Mitte verschieben
+   
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/multislotalignment-3.webm" type="video/webm" markdown="1">
+</video>
+
 
 <span style="color: #0040FF; background: #0040FF; border-radius: 100px">&#9711</span> **Property Editor:** 
 
-Hier wird Größe, Anordnung und Ankerpunkt eines *Slots* pixelgenau definiert. 
+Hier wird kann pixelgenau die Größe, Anordnung und prozentuale Skalierung eines *Slots* oder auch einer gesamten Auswahl definiert werden.
+
+<video align="left" width="99%" height="" autoplay loop muted markdown="1">
+<source src="img/Manager/Gifs/surgicalscale.webm" type="video/webm" markdown="1">
+</video>
 
 ***
 ##Session Worklfow

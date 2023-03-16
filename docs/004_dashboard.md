@@ -1,8 +1,8 @@
-# Dashboard
+# Home
 
 ![DashboardOverview](img/Manager/Dashboard.png) 
 
-Das *Dashboard* ist der Einstiegspunkt nach dem Login. Von hier aus gelangen Sie in die Bearbeitungsebenen der einzelnen Komponenten:
+Der Bereich *Home* ist der Einstiegspunkt nach dem Login. Von hier aus gelangen Sie in die Bearbeitungsebenen der einzelnen Komponenten:
 <ul>
 	<li><b>Shows</b></li>
 	<li><b>Sessions</b></li>

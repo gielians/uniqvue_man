@@ -1,14 +1,13 @@
-# Allgemeine Bedienelemente
+# Navigation und Tools
 
 In jeder Listenansicht befinden sich folgende Bedienelemente am linken, oberen Rand:
 <ul>
-<li><div><img src="img/Manager/be_arrow.png" /> Zurück zum vorherige Ebene</div> </li>
+<li><div><img src="img/Manager/be_home.png" /> Zurück zu Home</div> </li>
 <li><div><img src="img/Manager/be_pencil.png"/> Ausgewählten Listeneintrag bearbeiten</div></li>
 <li><div><img src="img/Manager/be_new.png"/> Neuen Listeneintrag erstellen</div></li>
 <li><div><img src="img/Manager/be_duplicate.png"/> Ausgewählten Listeneintrag duplizieren</div></li>
 <li><div><img src="img/Manager/be_delete.png"/> Ausgewählten Listeneintrag löschen</div></li>
 </ul>
-
 
 ![Placeholder](img/Manager/Bedienelemente.png)
 

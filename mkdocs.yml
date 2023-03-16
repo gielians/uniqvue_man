@@ -2,10 +2,10 @@ site_name: UNIQVUE MANUAL
 nav:
   - Übersicht:                  index.md
   - Manager:
-    - UNIQVUE Manager:          002_sessionmanager.md
+    - UNIQVUE Manager:          002_uniqvuemanager.md
     - Login:                    003_login.md
-    - Dashboard:                004_dashboard.md
-    - Bedienelemente:           005_bedienelemente.md
+    - Home:                004_dashboard.md
+    - Navigation und Tools:           005_bedienelemente.md
     - Shows:                    00100_shows.md
     - Sessions:                 006_sessions.md
     - Toolboxes:                007_toolbox.md
@@ -23,6 +23,7 @@ nav:
         - Slideshow+:           019_slideshowplus.md
         - Bar Chart:            020_barchart.md
         - External Source:      021_externalsource.md
+        - Icon Array:           026_iconarray.md
     
       - Multiview Module:
         - Storyboard+:          022_storyboardplus.md
@@ -38,6 +39,9 @@ nav:
     - Home Screen:              055_homescreen.md
     - Agenda & Module:          056_agenda.md
     - Disc:                     057_disc.md
+  - Uniqvue Remote:             
+    - Installation:             00101_uniqvueremote.md
+    - User Interface:           00102_remoteuserinterface.md                       
   - Technische Spezifikation:
     - Netzwerk und Hardware:    058_tecspec.md
 
