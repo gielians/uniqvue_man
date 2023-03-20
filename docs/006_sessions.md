@@ -58,7 +58,7 @@ Hier werden die individuellen Eigenschaften eines ausgewählten Elementes angeze
 
 <span style="color: #53FF00; background: #53FF00; border-radius: 100px">&#9711</span> **Stage Configuration:**
 
-Dieser Bereich stellt jedes *Agenda Item* und dessen zugeordneten Module grafisch so dar, wie es durch eine Playout Instanz und dessen Displaysetup ausgespielt würde. Jede Stage Configuration einer *Session* wird als Registrierkarte hinzugefügt, so lassen sich mehrere Stage Configurations parallel bearbeiten. Durch Klicken auf das Zahnradsymbol in der Registrierkarte der Stage Configuration erhalten Sie über den Property Editor Zugriff auf allgemeine Einstellungen:
+Dieser Bereich stellt jedes *Agenda-Item* und dessen zugeordneten Module grafisch so dar, wie es durch eine Playout Instanz und dessen Displaysetup ausgespielt würde. Jede Stage Configuration einer *Session* wird als Registrierkarte hinzugefügt, so lassen sich mehrere Stage Configurations parallel bearbeiten. Durch Klicken auf das Zahnradsymbol in der Registrierkarte der Stage Configuration erhalten Sie über den Property Editor Zugriff auf allgemeine Einstellungen:
 
 <ul>
 <li><b>Name:</b> Name der Stage Configuration</li>
@@ -74,7 +74,7 @@ Dieser Bereich stellt jedes *Agenda Item* und dessen zugeordneten Module grafisc
 </video>
 
 
- **Wichtig: Bevor *Agenda Items* erstellt werden können muss mindestens eine 'Stage Configuration' der *Session* zugewiesen werden. Die Stage Configuration Profile, die zur Auswahl stehen, entsprechen den vorhandenen Displaysetups bzw. Playout Instanzen Ihres Showrooms.**
+ ***Wichtig: Bevor *Agenda-Items* erstellt werden können muss mindestens eine 'Stage Configuration' der *Session* zugewiesen werden. Die Stage Configuration Profile, die zur Auswahl stehen, entsprechen den vorhandenen Displaysetups bzw. Playout Instanzen Ihres Showrooms.***
 
 ![AddStageConfiguration](img/Manager/AddStageConfiguration.png)
 
@@ -100,7 +100,7 @@ Enthält alle verfügbaren Module wie Slideshows etc. Detaillierte Informationen
 <!-- ##Slot Layout Editor -->
 
 
-Module erstrecken sich über ein oder mehrere *Slots*. Ein *Agenda Item* kann mehrere *Slots* mit verschiedener Anordnung beinhalten - 'Slot Layouts'.
+Module erstrecken sich über ein oder mehrere *Slots*. Ein *Agenda-Item* kann mehrere *Slots* mit verschiedener Anordnung beinhalten - 'Slot Layouts'.
 Über ein Dropdownmenü können Sie schnell 'Slot Layouts' auswählen. In der Auswahl sehen Sie alle verfügbaren 'Slot Layouts'. Sie können diese Auswahl erweitern, indem Sie Ihre eigenen *Slot Layouts* mit dem *Slot Layout Editor* erstellen.
     
 | ![SlotLayout](img/Manager/SlotLayout-1.png) |
@@ -111,14 +111,14 @@ Module erstrecken sich über ein oder mehrere *Slots*. Ein *Agenda Item* kann me
 |:--:|
 | *Slot Layout '3x1'* |
 
-Ist ein *Agenda Item* ausgewählt erscheint im *Property Editor* der Eintrag 'Slot Layout'. Mit dem Button 'Open' öffnen Sie in den *Slot Layout Editor*.
+Ist ein *Agenda-Item* ausgewählt erscheint im *Property Editor* der Eintrag 'Slot Layout'. Mit dem Button 'Open' öffnen Sie in den *Slot Layout Editor*.
 Alternativ erreichen Sie den *Slot Layout Editor* indem Sie die aktuelle 'Stage Configuration' selektieren. Dann erscheint im *Property Editor* ebenfalls der Eintrag 'Slot Layout'. Mit dem Button 'Open Editor' öffnen Sie in den *Slot Layout Editor*.
 
 <video align="left" width="99%" height="" autoplay loop muted markdown="1">
 <source src="img/Manager/Gifs/OpenSlotLayoutEditor.webm" type="video/webm" markdown="1">
 </video>
 
-*Hinweis: Öffnen Sie den Slot Layout Editor über ein Agenda Item, editieren Sie das Slot Layout nur für das selektierte Agenda Item. In diesem Falle werden Ihnen aktuell beinhaltete Module im Slot Layout Editor mit angezeigt. Öffnen Sie den Slot Layout Editor über die Stage Configuration editieren Sie das default Slot Layout der Stage Configuration. Bereits existierende Agenda Items bleiben davon unberührt nur beim Erzeugen neuer Agenda Items wird das Slot Layout als Template angewendet.    
+***Hinweis: Öffnen Sie den Slot Layout Editor über ein Agenda-Item, editieren Sie das Slot Layout nur für das selektierte Agenda-Item. In diesem Falle werden Ihnen aktuell beinhaltete Module im Slot Layout Editor mit angezeigt. Öffnen Sie den Slot Layout Editor über die Stage Configuration editieren Sie das default Slot Layout der Stage Configuration. Bereits existierende Agenda-Items bleiben davon unberührt nur beim Erzeugen neuer Agenda-Items wird das Slot Layout als Template angewendet.***    
 <!-- ![OpenSlotLayoutEditor](img/Manager/OpenSlotLayoutEditor1.png) -->
 
 
@@ -171,7 +171,7 @@ Grafische Repräsentation der aktuellen Stage! Die angezeigten *Slots* können h
 
 <!-- ![SlotMultiselection](img/Manager/SlotMultiselection.png) -->
 
-Zusätzlich dazu stellt der Layout Bereich eine Auswahl an Tool zur Verfügung um *Slots* mit einem Klick anzuordnen.
+Zusätzlich dazu stellt der Layout Bereich eine Auswahl an Tools zur Verfügung um *Slots* mit einem Klick anzuordnen.
 
 ![AlignmentTools](img/Manager/AlignmentTools.png)
 
@@ -229,19 +229,19 @@ Hier wird kann pixelgenau die Größe, Anordnung und prozentuale Skalierung eine
 <source src="img/Manager/Gifs/CreateStageConfig.webm" type="video/webm" markdown="1">
 </video>
 
-**Agenda Item erzeugen:**
+**Agenda-Item erzeugen:**
 
 <video align="left" width="99%" height="" autoplay loop muted markdown="1">
 <source src="img/Manager/Gifs/CreateAgendaItems.webm" type="video/webm" markdown="1">
 </video>
 
-Unter einem Agenda Item können Sie weitere Agenda Items als Unterobjekte erzeugen. In der Hierarchie der *Agenda* werden Agenda Items als Unterobjekte eingerückt dargestellt.  
+Unter einem Agenda-Item können Sie weitere Agenda-Items als Unterobjekte erzeugen. In der Hierarchie der *Agenda* werden Agenda-Items als Unterobjekte eingerückt dargestellt.  
 
 <video align="left" width="99%" height="" autoplay loop muted markdown="1">
 <source src="img/Manager/Gifs/FillAgendaSubItems.webm" type="video/webm" markdown="1">
 </video>
 
-**Agenda Items mit Modulen füllen und Slot Layout auswählen**
+**Agenda-Items mit Modulen füllen und Slot Layout auswählen**
 
 <video align="left" width="99%" height="" autoplay loop muted markdown="1">
 <source src="img/Manager/Gifs/FillAgendaItems.webm" type="video/webm" markdown="1">
@@ -249,7 +249,7 @@ Unter einem Agenda Item können Sie weitere Agenda Items als Unterobjekte erzeug
 
 **Module mit Inhalten füllen:** 
 
-Klicken Sie auf ein Modul in einem Agenda Item. Der *Property Editor* am rechten Rand zeigt Ihnen die Eigenschaften des Moduls an. Durch Klicken auf 'Browse' öffnet sich der *Asset Browser*. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der *Asset Browser* genauer funktioniert, lesen Sie im Abschnitt [Asset Browser](050_assetbrowser.md). Eine Übersicht über Module finden Sie im Abschnitt [Module](011_modulesoverview.md).
+Klicken Sie auf ein Modul in einem Agenda-Item. Der *Property Editor* am rechten Rand zeigt Ihnen die Eigenschaften des Moduls an. Durch Klicken auf 'Browse' öffnet sich der *Asset Browser*. Importieren Sie Bilder, HMTL-Dateien, Videos und viele andere Inhalte und wählen Sie diese aus. Wie der *Asset Browser* genauer funktioniert, lesen Sie im Abschnitt [Asset Browser](050_assetbrowser.md). Eine Übersicht über Module finden Sie im Abschnitt [Module](011_modulesoverview.md).
 
 <video align="left" width="99%" height="" autoplay loop muted markdown="1">
 <source src="img/Manager/Gifs/AddAsset.webm" type="video/webm" markdown="1">

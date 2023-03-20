@@ -59,5 +59,5 @@ Ein Showroom lebt von den kleinen Extras. Mit UNIQVUE können wir Ihre Raumsteue
 ***
 **Webcasting & Streaming:**
 
-Alle Bildquellen liegen in UNIQVUE als Videostreams im Netzwerk. Dadurch kann ein zusätzlicher Regieplatz eingerichtet und als Schlüsselposition für Hybrid Sessions genutzt werden. 
+Alle Bildquellen liegen in UNIQVUE als Videostreams im Netzwerk. Dadurch kann ein zusätzlicher Regieplatz eingerichtet und als Schlüsselposition für hybride Sessions genutzt werden. 
 

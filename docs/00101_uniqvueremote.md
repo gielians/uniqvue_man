@@ -1,6 +1,6 @@
 # UNIQVUE Remote
 
-Mit der UNIQVUE Remote können Sie ein Uniqvue Playout über ein Web UI im Browser fernsteuern. Sie können diese Funktion mit jedem internetfähigen Gerät nutzen z.B. Ihrem persönlichen Smartphone, Tablet oder Laptop. Mit dieser Funktion sind Sie in der Lage die geladene [Show](00100_shows.md) eines Playouts zu kontrollieren. Im Wesentlichen navigieren Sie durch die [Agenda](056_agenda.md) einer mit der Show verknüpften Session. Analog zur normalen Bedienung via Toucheingabe an den Displays des Playouts, steuern Sie per Klick, gezielt in einzelne Agenda Items.
+Mit der UNIQVUE Remote können Sie ein Uniqvue Playout über ein Web UI im Browser fernsteuern. Sie können diese Funktion mit jedem internetfähigen Gerät nutzen z.B. Ihrem persönlichen Smartphone, Tablet oder Laptop. Mit dieser Funktion sind Sie in der Lage die geladene [Show](00100_shows.md) eines Playouts zu kontrollieren. Im Wesentlichen navigieren Sie durch die [Agenda](056_agenda.md) einer mit der Show verknüpften Session. Analog zur normalen Bedienung via Toucheingabe an den Displays des Playouts, steuern Sie per Klick, gezielt in einzelne Agenda-Items.
 
 ***
 

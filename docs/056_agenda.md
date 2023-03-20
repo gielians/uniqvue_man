@@ -141,7 +141,7 @@ Informationen zur Konfigurierung des Moduls finden Sie im Abschnitt [Bar Chart](
 ***
 ## Pause
 
-Das *Pause* Modul ist ähnlich wie das *Bullet List* Modul, bloß haben Sie die Möglichkeit bei Aufruf des Agenda Items einen Timer zu starten. Geben Sie Ihren KollegInnen einige Punkte zur Überlegung mit in die Pause oder nutzen Sie die Stichpunkte, um auf etwas anderes aufmerksam zu machen. Informationen zur Konfigurierung des Moduls finden Sie im Abschnitt [Pause](016_pause.md).
+Das *Pause* Modul ist ähnlich wie das *Bullet List* Modul, bloß haben Sie die Möglichkeit bei Aufruf des Agenda-Items einen Timer zu starten. Geben Sie Ihren KollegInnen einige Punkte zur Überlegung mit in die Pause oder nutzen Sie die Stichpunkte, um auf etwas anderes aufmerksam zu machen. Informationen zur Konfigurierung des Moduls finden Sie im Abschnitt [Pause](016_pause.md).
 
 <!-- ![Agenda Modul](img/Showroom/Agenda_Pause.png) -->
 
@@ -158,7 +158,7 @@ Das *Challenges* Modul ist kundenspezifisch und optional. Informationen zu diese
 ***
 ## Timeline
 
-Das *Timeline* Modul vereint mehrere Module in einer chronologischen Abfolge. Verknüpfen Sie eine Auswahl von Modulen in einer Abfolge miteinander, um Zusammenhänge kohärent, multimedial und innerhalb eines Agenda Items zusammenzubringen. Informationen zur Konfigurierung des Moduls finden Sie im Abschnitt [Timeline](025_timeline.md).
+Das *Timeline* Modul vereint mehrere Module in einer chronologischen Abfolge. Verknüpfen Sie eine Auswahl von Modulen in einer Abfolge miteinander, um Zusammenhänge kohärent, multimedial und innerhalb eines Agenda-Items zusammenzubringen. Informationen zur Konfigurierung des Moduls finden Sie im Abschnitt [Timeline](025_timeline.md).
 
 ![Agenda Modul](img/Showroom/Agenda_Timeline.png)
 

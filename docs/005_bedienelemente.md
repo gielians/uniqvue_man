@@ -25,3 +25,14 @@ Auf jeder Editorebene befinden sich zusätzlich folgende Bedienelemente:
 
 ![Placeholder](img/Manager/Bedienelemente-Editor.png)
 
+
+Einige der Funktionen lassen sich mit Tastenkombinationen ausführen:
+
+- `STRG + S` Speichern
+- `STRG + C` Element kopieren (in die Zwischenablage speichern)
+- `STRG + V` neues Element aus Zwischenablage erstellen
+- `STRG + Z` letzten Bearbeitungsschritt rückgängig machen
+- `STRG + U` rückgängig gemachten Bearbeitungsschritt zurückholen
+- `ENTF` Selektion löschen
+- `F2` selektiertes Element umbenennen (in allen Listenansichten verfügbar)
+- `STRG + N` neuen UserInnen-Account erstellen (nur Admin) 
